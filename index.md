@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # The Red King :: by Kyrie
 
 ## ACT 1: Girl's Night
