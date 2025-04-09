@@ -2,6 +2,4 @@ title: The Red King
 description: Written by Kyrie D'Agostino (kyrie.edelweiss@gmail.com)
 show_downloads: false
 google_analytics:
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-time-machine
