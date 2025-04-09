@@ -1,1 +1,0 @@
-The Red King © 2025 by [Kyrie Edelweiss](http://kyrie.edelweiss@gmail.com) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
