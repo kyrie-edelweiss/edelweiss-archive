@@ -2,122 +2,50 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# The Red King :: by Kyrie
 
-[Link to another page](./another-page.html).
+## ACT 1: Girl's Night
 
-There should be whitespace between paragraphs.
+> [!Danger] TRIGGER WARNING
+> This act contains extremely graphic acts of targeted sexual violence.
+> **READ AT YOUR OWN DISCRETION.**
+> 
+> The rest of the story is relatively tame in comparison, there are some implications but the act is never described in full detail like here.
+> **THIS ACT CAN BE SAFELY SKIPPED**.
+#### Period: 15 Years Ago … Year: 1969 … Location: VENUS
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+***BDYRECK-FOOTAGE – VAP 06-011 – 03-01-1969***
+***AUDIO… ACTIVE***
 
-# Header 1
+*The buzz & hum of the device drowns out the almost faint sobbing cries of several men.*
+YOUNG WOMAN: "Fuck, fuck fuck fuck! I'm close, I'm close!"
+MIDDLE-AGED WOMAN: "Hold his head like that! Fuck it dry!"
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+***VIDEO… ACTIVE***
 
-## Header 2
+*The video feed produces grainy images of a hotel reception interior. The windows are boarded up, and small rays of hazy yellow shine through them. In the frame, six women of varying ages are gathered around three men tied to chairs with rags. The women are performing various degrading sexual acts on the male victims.*
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+***MOTION… ERROR – EQUIPMENT MALFUNCTION***
 
-### Header 3
+YOUNG WOMAN: F-fuck, fuck, this is just about the sixth time… I need more, I NEED MORE!
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+*Just barely, an older woman can be seen in the back, commanding the younger ones.*
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+OLDER WOMAN: Abigail, rip his cock clean off! Do it with your teeth!
+MIDDLE-AGED WOMAN: They deserve it, the cocksuckers!
 
-#### Header 4
+*The camera falls to the right side – the symbol of **VENUS** is scrawled on the entrance door.*
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+OLDER WOMAN: Now slit his fucking throat! Slide your shank across it and drink the blood, put it inside of you, do whatever you want!
+OLDER WOMAN: Shove his cock up his ass, it's yours to take! Rip his ass apart!
 
-##### Header 5
+*This continues for an entire two hours. Eventually, every man slowly dies from their inflicted wounds and exhaustion.*
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+YOUNG WOMAN: Oh, look! This VAP fucker had a reckorder on him – wasn't this one your daddy, Sarah?
 
-###### Header 6
+*This Sarah and the young woman share some passing remarks as they giggle.*
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+*As the girls continue to gossip, a red-haired woman climbs down the stairs from the second floor. She nods at the older woman.*
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+OLDER WOMAN: So you're sure, absolutely sure that this'll work?
+REDHEAD: I'm sure. Something beautiful is going to happen. Those 7-P bastards are gonna kneel in less than a century.
