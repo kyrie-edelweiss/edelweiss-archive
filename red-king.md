@@ -715,7 +715,7 @@ Chief Executive Officer Edelweiss sits – hands in lap – in front of her reck
 
 "This song will broadcast until every last reactionary is found and shot."
 
-![[./images/TheWorstMan.mp3]]
-![[./images/TheWorstMan.jpg]]
+![[./TheWorstMan.mp3]]
+![[./TheWorstMan.jpg]]
 
 # THE END
