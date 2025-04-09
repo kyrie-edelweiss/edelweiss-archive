@@ -1,3 +1,5 @@
+# The Red King
+
 # ACT 1: Girl's Night
 
 > **TRIGGER WARNING**
@@ -715,7 +717,7 @@ Chief Executive Officer Edelweiss sits – hands in lap – in front of her reck
 
 "This song will broadcast until every last reactionary is found and shot."
 
-![./TheWorstMan.mp3]
-![./TheWorstMan.jpg]
+![The Worst - MAN](./TheWorstMan.mp3)
+![No price too small.](./TheWorstMan.jpg)
 
 # THE END

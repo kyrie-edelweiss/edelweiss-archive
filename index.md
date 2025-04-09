@@ -1,6 +1,7 @@
-# Kyrie's Archive: A Collection of Personal Testaments
+# Kyrie Archive: Testaments To Loss
+
+![All the while dog blood runs in my veins.](./RunningAway.png)
+
 ## List:
 - [The Red King](./red-king.md)
 - [You Can't Save All The Puppies](./puppies.md)
-
-![All the while dog blood runs in my veins.](./RunningAway.png)
