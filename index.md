@@ -1,7 +1,4 @@
----
-layout: default
----
-
+```markdown
 # The Red King :: by Kyrie
 
 ## ACT 1: Girl's Night
@@ -49,3 +46,4 @@ YOUNG WOMAN: Oh, look! This VAP fucker had a reckorder on him – wasn't this one 
 
 OLDER WOMAN: So you're sure, absolutely sure that this'll work?
 REDHEAD: I'm sure. Something beautiful is going to happen. Those 7-P bastards are gonna kneel in less than a century.
+```
