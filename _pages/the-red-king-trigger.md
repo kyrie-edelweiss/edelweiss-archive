@@ -8,7 +8,7 @@ sidebar:
 ---
 # CONTENT WARNING:
 
-The Red King © 2025 by Kyrie Edelweiss includes references to sexual assault, physical abuse, open or subtle psychological manipulation, graphic language, cosmic and/or psychological horror and other themes that may be triggering to some readers.
+The Red King © 2025 by Kyrie D'Agostino includes references to sexual assault, physical abuse, open or subtle psychological manipulation, graphic language, cosmic and/or psychological horror and other themes that may be triggering to some readers.
 
 Chapter 1 is a graphic depiction of sexual assault. Some other chapters contain allusions to the act. **This chapter can be safely skipped.**
 
