@@ -2,7 +2,6 @@
 title: The Red King
 excerpt: A fifteen-act tragedy.
 permalink: /red-king/
-classes: wide
 toc: true
 toc_label: Chapters
 toc_sticky: true
