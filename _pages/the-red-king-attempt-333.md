@@ -28,7 +28,7 @@ Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germ
 > **Hinweise:** Es wird eine Weile dauern, aber mit roher Gewalt kann alles erreicht werden.
 
 > **ID:** 0242
-> **Forscherin:** Scheiß auf meinen Namen.
+> **Forscherin:** Scheib auf meinen Namen.
 > **Resultat:**
 > **Experimentkomponenten:**
 > 
