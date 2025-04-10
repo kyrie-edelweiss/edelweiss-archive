@@ -2,8 +2,6 @@
 title: The Red King
 excerpt: A fifteen-act tragedy.
 ---
-# The Red King
-
 ## ACT 1: Girl's Night
 
 > **TRIGGER WARNING**
