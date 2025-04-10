@@ -1,4 +1,4 @@
----
+﻿---
 title: The Red King - CONTENT WARNING
 excerpt: Take caution.
 header:

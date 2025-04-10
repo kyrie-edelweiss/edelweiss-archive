@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Chapter 15 - Flies Have Their House
 excerpt: Chapter of the Red King.
 header:
@@ -7,33 +7,33 @@ permalink: /red-king-flies/
 sidebar:
   nav: "king"
 ---
-# Period: Present Day … Year: 1989 … Location: NEPTUNE
+# Period: Present Day â€¦ Year: 1989 â€¦ Location: NEPTUNE
 
-Chief Executive Officer Edelweiss sits – hands in lap – in front of her reckorder device. This was the same meeting table she delivered hundreds of rousing speeches in. Only now, she's alone.
+Chief Executive Officer Edelweiss sits â€“ hands in lap â€“ in front of her reckorder device. This was the same meeting table she delivered hundreds of rousing speeches in. Only now, she's alone.
 
 "Good morning, citizens. This is Avery-Mary Edelweiss."
 
-*The digital backdrop behind her frame depicts seven planets in a ring around her – one of them hangs above the rest.*
+*The digital backdrop behind her frame depicts seven planets in a ring around her â€“ one of them hangs above the rest.*
 
 *There is a shaking uncertainty in her voice.*
 
-"Our yearly investment plan has s-shifted drastically… We're diverting all of our… r-resources across the **MERCURY** neo-industries… the **JUPITER** research station and all of its remaining moons… the **URANUS** defense barracks… **NEPTUNE**'s metropolis and management quarters… and lastly the **SUN** discipline center into… into…"
+"Our yearly investment plan has s-shifted drasticallyâ€¦ We're diverting all of ourâ€¦ r-resources across the **MERCURY** neo-industriesâ€¦ the **JUPITER** research station and all of its remaining moonsâ€¦ the **URANUS** defense barracksâ€¦ **NEPTUNE**'s metropolis and management quartersâ€¦ and lastly the **SUN** discipline center intoâ€¦ intoâ€¦"
 
-*The two women – a brunette & a red-hair – holding her at gunpoint push their barrels into her face slightly.*
+*The two women â€“ a brunette & a red-hair â€“ holding her at gunpoint push their barrels into her face slightly.*
 
 "Into the dissolution of the Seven Planet Federation."
 
 *The guards nod approvingly. Then, a piece of paper is swiped across the table.*
 
-"As I sign this piece of paper… I hereby declare… the wholesale acquisition of the S-seven Planet Federation… to the new Venusian administration…"
+"As I sign this piece of paperâ€¦ I hereby declareâ€¦ the wholesale acquisition of the S-seven Planet Federationâ€¦ to the new Venusian administrationâ€¦"
 
 *They stare at her handwriting attentively for any slip-ups, any legal loopholes she could toss in there. None would come.*
 
-"I… I shall… No, I can't do this."
+"Iâ€¦ I shallâ€¦ No, I can't do this."
 
 *The two women and their snake eyes throw a death glare.*
 
-"I can't do this. Please let me go, I have a husb—
+"I can't do this. Please let me go, I have a husbâ€”
 
 *Blood splatters the lens of the reckoner. The sound was deafening. Her still body kneels uselessly next to the table. The red liquid pools under the hole in her skull. It was the redhead who took the shot.*
 

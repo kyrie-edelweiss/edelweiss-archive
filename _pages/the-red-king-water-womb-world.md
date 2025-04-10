@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Chapter 13 - Water Womb World
 excerpt: Chapter of the Red King.
 header:
@@ -7,25 +7,25 @@ permalink: /red-king-water-womb-world/
 sidebar:
   nav: "king"
 ---
-# Period: Present Day … Year: 1989 … Location: VENUS
+# Period: Present Day â€¦ Year: 1989 â€¦ Location: VENUS
 
-> An old woman, wrinkled face, hurriedly enters a closed office with a sizeable box of tapes. She tosses most of the lot away and produces one labeled "Vitruvian Motel – VAP 33-102", inserting it into her personal reckoner.
+> An old woman, wrinkled face, hurriedly enters a closed office with a sizeable box of tapes. She tosses most of the lot away and produces one labeled "Vitruvian Motel â€“ VAP 33-102", inserting it into her personal reckoner.
 > 
 > The reckoner's monitor slowly boots up. She quickly opens the command panel and types the commandline scrawled under the tape.
 
-***BDYRECK-FOOTAGE – VAP 33-102 – 11-06-1988***
+***BDYRECK-FOOTAGE â€“ VAP 33-102 â€“ 11-06-1988***
 
-***AUDIO… ACTIVE***
+***AUDIOâ€¦ ACTIVE***
 
 MIKE: This thing on? 1-2-3. 1-2-3.
 
 **TANGO:** Uh-huh.  
 
-***VIDEO… ACTIVE***
+***VIDEOâ€¦ ACTIVE***
 
 *The monitor hums and buzzes as it reveals an image of two other men. Guns, rudimentary, almost outdated. Body armor, missing. One's young and scrawny, no helmet on. The other's got a beret and quite the stern look. Stylish balaclava beneath it.*
 
-***MOTION… ACTIVE***
+***MOTIONâ€¦ ACTIVE***
 
 MIKE: Alright. This is **VENUS** Asset Protection... what was it? 
 
@@ -33,7 +33,7 @@ MIKE: Alright. This is **VENUS** Asset Protection... what was it?
 
 MIKE: Yeah okay. 33-102. We're here to investigate two critical missing assets. In and out, quick and easy. Our marks were last spotted next to the... "Vitruvian Motel". Two floors. Bit shady that place, in my opinion. Yo Tango, look at this shit! It's fuckin' two stars?  
 
-**TANGO:** Real ace, this one…
+**TANGO:** Real ace, this oneâ€¦
 
 *ZETA:* Moving in.
 
@@ -69,7 +69,7 @@ MIKE: You think someone's been here?
 
 **TANGO:** Look down. There's track marks on the ground. Frenzied steps.
 
-***MOTION DETECTED… FRONT TOWARDS TOP***
+***MOTION DETECTEDâ€¦ FRONT TOWARDS TOP***
 
 *Shadows dance around the room. They don't seem to notice.*
 
@@ -93,9 +93,9 @@ MIKE: O-OPEN THE DOOR, IT'S THE FUCKING COPS.
 
 *The door swings open.* 
 
-***MOTION DETECTED… FRONT TOWARDS LEFT TOWARDS RIGHT TOWARDS BOTTOM TOWARDS TOP TOWARDS BEHIND…*** 
+***MOTION DETECTEDâ€¦ FRONT TOWARDS LEFT TOWARDS RIGHT TOWARDS BOTTOM TOWARDS TOP TOWARDS BEHINDâ€¦*** 
 
-***MOTION… ERROR – EQUIPMENT MALFUNCTION***
+***MOTIONâ€¦ ERROR â€“ EQUIPMENT MALFUNCTION***
 
 *A fair-skinned woman, no older than 20 at best, lies naked strapped on the bedframe. She seems untouched. She won't stop screaming. She remembers. Despite their efforts, she does not calm down.*
 
@@ -111,4 +111,4 @@ MIKE: O-OPEN THE DOOR, IT'S THE FUCKING COPS.
 
 ***BDYCAM-FOOTAGE -- VAP 33-102 -- 11-06-1987 - LOGGED OUT OF SESSION***
 
-> *The woman jerks out of her seat and runs toward the nearest exit. There's still time left. Time left to warn them…*
+> *The woman jerks out of her seat and runs toward the nearest exit. There's still time left. Time left to warn themâ€¦*

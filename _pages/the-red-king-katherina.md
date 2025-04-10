@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Chapter 3 - Katherina
 excerpt: Chapter of the Red King.
 header:
@@ -7,23 +7,23 @@ permalink: /red-king-katherina/
 sidebar:
   nav: "king"
 ---
-# Period: Present Day … Year: 1984 … Location: Venus
+# Period: Present Day â€¦ Year: 1984 â€¦ Location: Venus
 
-There were many dwellers within the expanse of space – some with names, others nameless – that witnessed humanity when they departed from Earth to the outer reaches of space…
+There were many dwellers within the expanse of space â€“ some with names, others nameless â€“ that witnessed humanity when they departed from Earth to the outer reaches of spaceâ€¦
 
-And then there once was a young woman – Katherina.
+And then there once was a young woman â€“ Katherina.
 
 The nights were cold out here, the sky was blacker than black.
 
-She'd subsist on her canned food reserve, read old books by the phosphorus-light, and every now and then enjoy her signature mixed tea alongside a little syrup…
+She'd subsist on her canned food reserve, read old books by the phosphorus-light, and every now and then enjoy her signature mixed tea alongside a little syrupâ€¦
 
-And whenenever she mustered the energy, she'd leave her little phosphorus-illuminated abode and try to find others – her search would continue for years & years.
+And whenenever she mustered the energy, she'd leave her little phosphorus-illuminated abode and try to find others â€“ her search would continue for years & years.
 
 But sometimes, Katherina would dream of her father and mother.
 
-And she would only spiral further and further…
+And she would only spiral further and furtherâ€¦
 
-Kneeling, she pleads to the celestial bodies – the empty sky greeting her with silence – as she thinks…
+Kneeling, she pleads to the celestial bodies â€“ the empty sky greeting her with silence â€“ as she thinksâ€¦
 
 *"I hope someone visits me soon*
 
@@ -43,8 +43,8 @@ Kneeling, she pleads to the celestial bodies – the empty sky greeting her with s
 
 *I won't be alone anymore"* 
 
-Time would march on, the emptiness and loneliness in her chest expanding, as she always hoped that, after all, if there was still someone, they'd reach out…
+Time would march on, the emptiness and loneliness in her chest expanding, as she always hoped that, after all, if there was still someone, they'd reach outâ€¦
 
 For all she ever knew, there was no one and nothing left.
 
-Katherina, stranded in a vast frigid place, ever since the **SUN** departed…
+Katherina, stranded in a vast frigid place, ever since the **SUN** departedâ€¦

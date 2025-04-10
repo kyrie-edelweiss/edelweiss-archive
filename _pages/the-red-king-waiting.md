@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Chapter 8 - Waiting For Black Metal Records To Come In The Mail
 excerpt: Chapter of the Red King.
 header:
@@ -7,7 +7,7 @@ permalink: /red-king-waiting/
 sidebar:
   nav: "king"
 ---
-# Period: Present Day … Year: 1986 … Location: Venus
+# Period: Present Day â€¦ Year: 1986 â€¦ Location: Venus
 
 Katherina's life felt like a joke at her expense.
 

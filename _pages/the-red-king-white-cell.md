@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Chapter 6 - White Cell
 excerpt: Chapter of the Red King.
 header:
@@ -7,7 +7,7 @@ permalink: /red-king-white-cell/
 sidebar:
   nav: "king"
 ---
-# Period: 8 Years Ago … Year: 1976 … Location: VENUS
+# Period: 8 Years Ago â€¦ Year: 1976 â€¦ Location: VENUS
 
 > SERGEI'S JOURNAL
 

@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Chapter 10 - Black Metal Records
 excerpt: Chapter of the Red King.
 header:
@@ -7,21 +7,21 @@ permalink: /red-king-black-metal-records/
 sidebar:
   nav: "king"
 ---
-# Period: Present Day … Year: 1987 … Location: Venus
+# Period: Present Day â€¦ Year: 1987 â€¦ Location: Venus
 
 Tonight was silent.
 
-The only method **MARS** would communicate with Katherina was by reading her mind. And inserting his words there. The nights that he'd take over her body were the worst. But tonight was quiet & still – not like Katherina felt the concept of day & night, whatnot with the **SUN** gone and all.
+The only method **MARS** would communicate with Katherina was by reading her mind. And inserting his words there. The nights that he'd take over her body were the worst. But tonight was quiet & still â€“ not like Katherina felt the concept of day & night, whatnot with the **SUN** gone and all.
 
 She did not think of what she was about to do. Her own thoughts would betray her. Katherina can't afford that.
 
-As she feigned the usual bed routine - brisk dip in the lake, drying off her body and touching up her hair, rubbing some of the local vegetation on her teeth…
+As she feigned the usual bed routine - brisk dip in the lake, drying off her body and touching up her hair, rubbing some of the local vegetation on her teethâ€¦
 
 She slipped up. She had the thought.
 
 **MARS**, in a fraction of a second, knew. The radio-waves travel fast.
 
-Katherina's mind was flooded with the worst **MARS** could muster – Sinner, wrong doer, evil doer, worker of iniquity, a bad example, scoundrel, villain, knave, viper, wretch, the devil incarnate, monster, demon, fallen angel, lost sheep, black sheep, a loafer and a sneak. A good for nothing fucking bitch and a whore.
+Katherina's mind was flooded with the worst **MARS** could muster â€“ Sinner, wrong doer, evil doer, worker of iniquity, a bad example, scoundrel, villain, knave, viper, wretch, the devil incarnate, monster, demon, fallen angel, lost sheep, black sheep, a loafer and a sneak. A good for nothing fucking bitch and a whore.
 
 And she felt her legs giving way, she felt weak, she felt sick to her stomach, she felt like she was losing control over her body. No. Her body was being taken from her.
 

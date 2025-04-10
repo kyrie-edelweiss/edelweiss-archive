@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Chapter 12 - Stories
 excerpt: Chapter of the Red King.
 header:
@@ -7,11 +7,11 @@ permalink: /red-king-stories/
 sidebar:
   nav: "king"
 ---
-# Period: Present Day … Year: 1988 … Location: URANUS
+# Period: Present Day â€¦ Year: 1988 â€¦ Location: URANUS
 
 A man in his forties stands in front of his reckoner box. He tries to select the Broadcast Channel but is quickly interrupted by a damn-near one minute advertisement.
 
-> *When people think of **VENUS**, they think of acid, black lungs, and sex cultists…*
+> *When people think of **VENUS**, they think of acid, black lungs, and sex cultistsâ€¦*
 > *Think again.*
 > 
 > *The Blood Ocean Phenomenon has entirely revitalized the shamed little sister of our System.*
@@ -38,23 +38,23 @@ A man in his forties stands in front of his reckoner box. He tries to select the
 
 He closes the hourly scheduled advertisement and swiftly rushes to the so-familliar Broadcast Channel rectangle.
 
-> *"…THE PERPRETATOR WAS CONVICTED ON SUSPICION OF VENUSIAN IDEALS AND ARRESTED BEFORE INCIDENT…"*
+> *"â€¦THE PERPRETATOR WAS CONVICTED ON SUSPICION OF VENUSIAN IDEALS AND ARRESTED BEFORE INCIDENTâ€¦"*
 > 
 > . . .
 > 
-> *"THIS JUST IN… THE 7-P COMMITTEE CONFIRMED THE DISAPPEARANCE OF THE MYSTERIOUS DEBRIS ABOVE **VENUS**…"*
+> *"THIS JUST INâ€¦ THE 7-P COMMITTEE CONFIRMED THE DISAPPEARANCE OF THE MYSTERIOUS DEBRIS ABOVE **VENUS**â€¦"*
 > 
 > . . .
 > 
-> *"EVEN MORE WORRYING IS THE DISAPPEARANCE OF YET ANOTHER CELESTIAL BODY…"*
+> *"EVEN MORE WORRYING IS THE DISAPPEARANCE OF YET ANOTHER CELESTIAL BODYâ€¦"*
 > 
 > . . .
 > 
-> *"POLITICIANS SYSTEM-WIDE ENCOURAGE PROMPT RE-COLONIZATION OF **VENUS**…"*
+> *"POLITICIANS SYSTEM-WIDE ENCOURAGE PROMPT RE-COLONIZATION OF **VENUS**â€¦"*
 > 
 > . . .
 > 
-> *"A NATIONWIDE SERMON WILL COMMEMORATE THE LIVES LOST ON **SATURN**…"*
+> *"A NATIONWIDE SERMON WILL COMMEMORATE THE LIVES LOST ON **SATURN**â€¦"*
 > 
 > . . .
 > 
@@ -66,6 +66,6 @@ Another man, in his thirties, drags the Asset Protection captain by the collar a
 
 "Heard the news? **VENUS** is back on the menu, baby!"
 
-"Tomorrow we're on guard duty for some civillian marks and their hovercycle – said they wanted to see the blood oceans for themselves", the lieutenant says while staring at his clipboard.
+"Tomorrow we're on guard duty for some civillian marks and their hovercycle â€“ said they wanted to see the blood oceans for themselves", the lieutenant says while staring at his clipboard.
 
-He scoffs – "7-P's calling it a tourist resort. I call it total lunacy."
+He scoffs â€“ "7-P's calling it a tourist resort. I call it total lunacy."
