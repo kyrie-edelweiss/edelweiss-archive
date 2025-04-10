@@ -321,8 +321,8 @@ defaults:
       read_time: false
       comments: false
       share: false
-      related: true
-      show_date: true
+      related: false
+      show_date: false
  # _pages
   - scope:
       path: ""
@@ -331,4 +331,4 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      show_date: true
+      show_date: false

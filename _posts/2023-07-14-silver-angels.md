@@ -3,7 +3,7 @@ title: Calamitous Tale of Silver-Winged Angels
 excerpt: A short poem.
 permalink: /silver-angels/
 ---
-the calamitous tale 
+the calamitous tale
 of silver winged angels
 gripped, contorted, mutilated
 desire demands all
@@ -20,8 +20,8 @@ never to maim
 don't think i'll depart
 don't knock down my shrines
 please just look at my signs"
-                 She took no heed.
-                 Bleed.
+She took no heed.
+Bleed.
 
 sin burned innocence at the stake
 and innocence's ashes spread to overtake
