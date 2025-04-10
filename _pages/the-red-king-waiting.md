@@ -1,5 +1,5 @@
 ---
-title: Chapter 8: Waiting For Black Metal Records To Come In The Mail
+title: Chapter 8 - Waiting For Black Metal Records To Come In The Mail
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-waiting/

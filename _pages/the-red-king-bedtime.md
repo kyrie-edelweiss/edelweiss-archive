@@ -1,5 +1,5 @@
 ---
-title: Chapter 5: Bedtime Stories
+title: Chapter 5 - Bedtime Stories
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-bedtime/

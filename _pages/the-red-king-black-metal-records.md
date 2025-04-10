@@ -1,5 +1,5 @@
 ---
-title: Chapter 10: Black Metal Records
+title: Chapter 10 - Black Metal Records
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-black-metal-records/

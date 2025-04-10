@@ -1,5 +1,5 @@
 ---
-title: Chapter 1: Girls
+title: Chapter 1 - Girls
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-girls/

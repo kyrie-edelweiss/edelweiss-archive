@@ -1,5 +1,5 @@
 ---
-title: Chapter 12: Stories
+title: Chapter 12 - Stories
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-stories/

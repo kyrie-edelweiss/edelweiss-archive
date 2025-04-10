@@ -1,5 +1,5 @@
 ---
-title: Chapter 14: The RED CHARIOT
+title: Chapter 14 - The RED CHARIOT
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-red-chariot/

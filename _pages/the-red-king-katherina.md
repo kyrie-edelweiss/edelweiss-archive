@@ -1,5 +1,5 @@
 ---
-title: Chapter 3: Katherina
+title: Chapter 3 - Katherina
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-katherina/

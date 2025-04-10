@@ -1,5 +1,5 @@
 ---
-title: Chapter 15: Flies Have Their House
+title: Chapter 15 - Flies Have Their House
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-flies/

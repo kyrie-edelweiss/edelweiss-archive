@@ -1,5 +1,5 @@
 ---
-title: Chapter 7: Red Sex
+title: Chapter 7 - Red Sex
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-red-sex/

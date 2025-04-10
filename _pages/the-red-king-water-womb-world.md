@@ -1,5 +1,5 @@
 ---
-title: Chapter 13: Water Womb World
+title: Chapter 13 - Water Womb World
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-water-womb-world/

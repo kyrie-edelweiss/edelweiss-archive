@@ -1,5 +1,5 @@
 ---
-title: Chapter 2: Reassessment
+title: Chapter 2 - Reassessment
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-reassessment/

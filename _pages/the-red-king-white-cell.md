@@ -1,5 +1,5 @@
 ---
-title: Chapter 6: White Cell
+title: Chapter 6 - White Cell
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-white-cell/

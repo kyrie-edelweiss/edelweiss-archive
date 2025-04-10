@@ -1,5 +1,5 @@
 ---
-title: Chapter 11: Curse of the RED KING
+title: Chapter 11 - Curse of the RED KING
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-curse/
