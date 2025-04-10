@@ -15,7 +15,6 @@ red-king:
     children:
       - title: "Warning: Triggering Content"
         url: /red-king-trigger/
-
   - title: ACT I
     children:
       - title: "Chapter 1: Girls"
@@ -28,7 +27,6 @@ red-king:
         url: /red-king-title/
       - title: "Chapter 5: Bedtime Stories"
         url: /red-king-bedtime/
-
   - title: ACT II
     children:
       - title: "Chapter 6: White Cell"
@@ -41,7 +39,6 @@ red-king:
         url: /red-king-attempts/
       - title: "Chapter 10: Black Metal Records"
         url: /red-king-black-metal-records/
-
   - title: ACT III
     children:
       - title: "Chapter 11: Curse of the RED KING"
@@ -54,7 +51,6 @@ red-king:
         url: /red-king-red-chariot/
       - title: "Chapter 15: Flies Have Their House"
         url: /red-king-flies/
-
   - title: EXTRA
     children:
       - title: "Bonus: Inspirations"
