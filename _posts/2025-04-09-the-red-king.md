@@ -5,6 +5,7 @@ permalink: /red-king/
 classes: wide
 toc: true
 toc_label: Chapters
+toc_sticky: true
 ---
 ## ACT 1: Girl's Night
 
