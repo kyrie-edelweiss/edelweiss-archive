@@ -5,7 +5,7 @@ header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-red-sex/
 sidebar:
-  nav: "red-king"
+  nav: "king"
 ---
 # Period: Present Day … Year: 1985 … Location: Venus
 

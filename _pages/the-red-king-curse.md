@@ -5,7 +5,7 @@ header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-curse/
 sidebar:
-  nav: "red-king"
+  nav: "king"
 ---
 # Period: Present Day … Year: 1987 … Location: VENUS
 

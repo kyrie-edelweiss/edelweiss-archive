@@ -5,7 +5,7 @@ header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-red-chariot/
 sidebar:
-  nav: "red-king"
+  nav: "king"
 ---
 # Period: ?????? … Year: ?????? … Location: ??????
 

@@ -5,7 +5,7 @@ header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-reassessment/
 sidebar:
-  nav: "red-king"
+  nav: "king"
 ---
 **Period: 8 Years Ago … Year: 1976 … Location: NEPTUNE**
 
