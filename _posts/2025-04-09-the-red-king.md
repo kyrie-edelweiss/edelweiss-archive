@@ -677,7 +677,7 @@ _Finally, **JUPITER**, the **WORLD SEEKER**, armed me with the knowledge to tran
 
 _The **FOOL** will pay for everything – every wrongdoing ever done, be it celestial or terrestrial. No matter how many milennia it'll take._
 
-_My crusade is righteous, my cause just. I burn with the lost souls of billions. I am the last hope of a dying WORLD. The **RED CHARIOT**._
+_My crusade is righteous, my cause just. I burn with the lost souls of billions. I am the last hope of a dying world. The **RED CHARIOT**._
 
 ## ACT 15 – Flies Have Their House
 **Period: Present Day … Year: 1989 … Location: NEPTUNE**
