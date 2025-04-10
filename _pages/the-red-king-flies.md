@@ -1,8 +1,6 @@
 ﻿---
 title: Chapter 15 - Flies Have Their House
 excerpt: Chapter of the Red King.
-header:
-  image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-flies/
 sidebar:
   nav: "king"

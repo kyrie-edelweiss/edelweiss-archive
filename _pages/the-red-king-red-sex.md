@@ -1,8 +1,6 @@
 ﻿---
 title: Chapter 7 - Red Sex
 excerpt: Chapter of the Red King.
-header:
-  image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-red-sex/
 sidebar:
   nav: "king"

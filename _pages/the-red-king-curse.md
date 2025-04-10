@@ -1,8 +1,6 @@
 ﻿---
 title: Chapter 11 - Curse of the RED KING
 excerpt: Chapter of the Red King.
-header:
-  image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-curse/
 sidebar:
   nav: "king"

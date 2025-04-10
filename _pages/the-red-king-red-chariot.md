@@ -1,8 +1,6 @@
 ﻿---
 title: Chapter 14 - The RED CHARIOT
 excerpt: Chapter of the Red King.
-header:
-  image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-red-chariot/
 sidebar:
   nav: "king"

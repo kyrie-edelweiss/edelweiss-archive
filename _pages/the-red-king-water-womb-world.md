@@ -1,8 +1,6 @@
 ﻿---
 title: Chapter 13 - Water Womb World
 excerpt: Chapter of the Red King.
-header:
-  image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-water-womb-world/
 sidebar:
   nav: "king"

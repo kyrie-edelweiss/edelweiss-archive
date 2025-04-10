@@ -1,8 +1,6 @@
 ﻿---
 title: Chapter 9: White Cell
 excerpt: Chapter of the Red King.
-header:
-  image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-attempts/
 sidebar:
   nav: "king"

@@ -1,8 +1,6 @@
 ﻿---
 title: Chapter 5 - Bedtime Stories
 excerpt: Chapter of the Red King.
-header:
-  image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-bedtime/
 sidebar:
   nav: "king"
