@@ -1,5 +1,6 @@
 ---
 title: Chapter 4 - The RED KING
+excerpt: Chapter of the Red King.
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-title/

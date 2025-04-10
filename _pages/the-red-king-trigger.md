@@ -1,5 +1,6 @@
 ---
 title: The Red King - CONTENT WARNING
+excerpt: Take caution.
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-trigger/

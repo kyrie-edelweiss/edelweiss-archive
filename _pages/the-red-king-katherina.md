@@ -1,5 +1,6 @@
 ---
 title: Chapter 3 - Katherina
+excerpt: Chapter of the Red King.
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-katherina/

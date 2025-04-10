@@ -1,5 +1,6 @@
 ---
 title: Chapter 1 - Girls
+excerpt: Chapter of the Red King.
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king-girls/
