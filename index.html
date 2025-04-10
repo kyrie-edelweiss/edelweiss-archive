@@ -9,27 +9,24 @@ header:
 excerpt: "... she'll sell you the road but she won't point the way home"
 intro:
   - excerpt: "_Not all of my stories are available here._"
-feature_row:
-  - image_path: /assets/images/PuppyPreview.png
-    title: "You Can't Save All The Puppies"
-    excerpt: "_a sketch-slide video - contains themes of animal & child abuse_"
-    url: "/puppies/"
-    btn_label: "watch"
-    btn_class: "btn--primary"
+feature_row1:
   - image_path: /assets/images/RedKingPreview.png
     title: "The Red King"
     excerpt: "_a fifteen-act tragedy - contains themes and depictions of sexual abuse and manipulation_"
     url: "/red-king/"
     btn_label: "read"
     btn_class: "btn--primary"
-  - image_path: /assets/images/SilverAngelsPreview.png
-    title: "Calamitous Tale of Silver-Winged Angels"
-    excerpt: "_a short poem about codependence_"
-    url: "/silver-angels/"
-    btn_label: "read"
+feature_row2:
+  - image_path: /assets/images/PuppyPreview.png
+    title: "You Can't Save All The Puppies"
+    excerpt: "_a sketch-slide video - contains themes of animal & child abuse_"
+    url: "/puppies/"
+    btn_label: "watch"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row2" type="left" %}
