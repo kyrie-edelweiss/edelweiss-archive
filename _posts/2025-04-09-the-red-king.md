@@ -6,7 +6,7 @@ toc: true
 toc_label: Chapters
 toc_sticky: true
 ---
-## ACT 1: Girl's Night
+## ACT 1 – Girl's Night
 
 > **TRIGGER WARNING**
 > 
