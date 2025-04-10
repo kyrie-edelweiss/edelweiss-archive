@@ -15,12 +15,12 @@ Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germ
 > **Resultat:**
 > **Experimentkomponenten:**
 > 
-> - Wolfram (W)
-> - Diamant (C)
+> Wolfram (W)
+> Diamant (C)
 > 
 > **Resultierende Chemikalie:**
 > 
-> - Wolframkarbid (WC)
+> Wolframkarbid (WC)
 > 
 > **Ideale Zusammensetzungsrate:** 22%
 > **Jahreszahl:** 06/29/1959
@@ -32,12 +32,12 @@ Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germ
 > **Resultat:**
 > **Experimentkomponenten:**
 > 
-> - Mein Sperma (???)
-> - Meine Scheibe (???)
+> Mein Sperma (???)
+> Meine Scheibe (???)
 > 
 > **Resultierende Chemikalie:**
 > 
-> - Scheibe-Sperma (???)
+> Scheibe-Sperma (???)
 > 
 > **Ideale Zusammensetzungsrate:** 0%
 > **Jahreszahl:** 02/11/1960
@@ -49,12 +49,12 @@ Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germ
 > **Resultat:**
 > **Experimentkomponenten:**
 > 
-> - Chrysotile {Mg3(Si2O5)(OH)4}
-> - Holz aus meiner Garage {C6H10O5}
+> Chrysotile {Mg3(Si2O5)(OH)4}
+> Holz aus meiner Garage {C6H10O5}
 > 
 > **Resultierende Chemikalie:**
 > 
-> - Nichts.
+> Nichts.
 > 
 > **Ideale Zusammensetzungsrate:** 0%
 > **Jahreszahl:** 11/31/1962
@@ -66,12 +66,12 @@ Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germ
 > **Resultat:** x
 > **Experimentkomponenten:**
 > 
-> - Chrysotile {Mg3(Si2O5)(OH)4}
-> - Nicht-hydraulischer Zement {CaCO3 + H2O}
+> Chrysotile {Mg3(Si2O5)(OH)4}
+> Nicht-hydraulischer Zement {CaCO3 + H2O}
 > 
 > **Resultierende Chemikalie:**
 > 
-> - Azbestite {3MgCO3?+Ca2?SiO4?+4H2?O+2CO2}
+> Azbestite {3MgCO3?+Ca2?SiO4?+4H2?O+2CO2}
 > 
 > **Ideale Zusammensetzungsrate:** 100%
 > **Jahreszahl:** 04/22/1964
