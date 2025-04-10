@@ -9,7 +9,7 @@ sidebar:
 
 Katherina was laid upon her bed, half-dreaming, after voraciously consuming the latest find that she'd tossed in the Venusian literature pile…
 
-'Til in the corner of her half-lcuid eye, a massive shadow creeped on her thigh… then to her chest… then this shadow would envelop her.
+'Til in the corner of her half-lucid eye, a massive shadow creeped on her thigh… then to her chest… then this shadow would envelop her.
 
 The crackle of thunder in the sky would stop, and the thick fume of air would stand still, and behind her half-sleeping body, beyond the corner of her window, would stand still the gaze of **MARS** himself.
 

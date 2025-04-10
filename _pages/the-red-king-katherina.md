@@ -41,7 +41,7 @@ Kneeling, she pleads to the celestial bodies – the empty sky greeting her with
 
 *I won't be alone anymore"* 
 
-Time would march on, the emptiness and loneliness in her chest expanding, as she always hoped that, after all, if there was still someone, they'd reach out…
+Time would march on, the emptiness and loneliness in her chest expanding, as she always hoped that, after all, if there still was someone, they'd reach out…
 
 For all she ever knew, there was no one and nothing left.
 

@@ -43,7 +43,7 @@ sidebar:
 
 *A gasp is heard.*
 
-"As the home planet of their inconsequential revolution, this is where they concentrated all their efforts. Our telecommunication grid is offline since 1966, there's no sync installations left, and our local Asset Protection force was pulled back in 1969. We can hence consider every person on **VENUS** a living security threat, and remove them by any means necessary. But in all seriousness, we may never finish the work we started in 1962.", the man says in a grave tone.
+"As the home planet of their inconsequential revolution, this is where they concentrated all their efforts. Our telecommunication grid is offline since 1966, there's no sync installations left, and our local Asset Protection force was pulled back in 1969. We can hence consider every person on **VENUS** a living security threat, and remove them by any means necessary. But in all seriousness, we may never finish the work we started in 1962", the man says in a grave tone.
 
 "We'll discuss **VENUS** later."
 
@@ -59,7 +59,7 @@ sidebar:
 
 *Anderson, Green and Zimmer share a glance.*
 
-"**SATURN:** Ever since we've left Earth, we knew - this would be the site of our religious expansion. The people on living **SATURN**'s ring – the 200,000 centers of faith built atop the shattered moons – are zealots by nature and tightly guard their beliefs & ideas atop their gated communities. We don't have to intervene here, and they'd like to keep our intervention minimal anyway."
+"**SATURN:** Ever since we've left Earth, we knew - this would be the site of our religious expansion. The people living on **SATURN**'s rings – the 200,000 centers of faith built atop the shattered moons – are zealots by nature and tightly guard their beliefs & ideas atop their gated communities. We don't have to intervene here, and they'd like to keep our intervention minimal anyway."
 
 *Lamont nods approvingly.*
 
