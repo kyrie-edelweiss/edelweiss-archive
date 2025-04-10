@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "kyrie" # "air", "aqua", "contrast", "dark", "dirt", 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Kyrie Archive"
+title                    : "The Edelweiss Archive"
 title_separator          : "-"
 subtitle                 : A collection of testaments. # site tagline that appears below site title in masthead
 name                     : "Kyrie D'Agostino"
