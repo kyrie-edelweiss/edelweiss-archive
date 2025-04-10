@@ -16,8 +16,6 @@ toc_sticky: true
 > 
 > **READ AT YOUR OWN DISCRETION.**
 > 
-> 
-> 
 > The rest of the story is relatively tame in comparison, there are some implications but the act is never described in full detail like here.
 > 
 > **THIS ACT CAN BE SAFELY SKIPPED**.
@@ -25,10 +23,13 @@ toc_sticky: true
 **Period: 15 Years Ago … Year: 1969 … Location: VENUS**
 
 ***BDYRECK-FOOTAGE – VAP 06-011 – 03-01-1969***
+
 ***AUDIO… ACTIVE***
 
 *The buzz & hum of the device drowns out the almost faint sobbing cries of several men.*
+
 YOUNG WOMAN: "Fuck, fuck fuck fuck! I'm close, I'm close!"
+
 MIDDLE-AGED WOMAN: "Hold his head like that! Fuck it dry!"
 
 ***VIDEO… ACTIVE***
@@ -42,11 +43,13 @@ YOUNG WOMAN: F-fuck, fuck, this is just about the sixth time… I need more, I N
 *Just barely, an older woman can be seen in the back, commanding the younger ones.*
 
 OLDER WOMAN: Abigail, rip his cock clean off! Do it with your teeth!
+
 MIDDLE-AGED WOMAN: They deserve it, the cocksuckers!
 
 *The camera falls to the right side – the symbol of **VENUS** is scrawled on the entrance door.*
 
 OLDER WOMAN: Now slit his fucking throat! Slide your shank across it and drink the blood, put it inside of you, do whatever you want!
+
 OLDER WOMAN: Shove his cock up his ass, it's yours to take! Rip his ass apart!
 
 *This continues for an entire two hours. Eventually, every man slowly dies from their inflicted wounds and exhaustion.*
@@ -58,9 +61,11 @@ YOUNG WOMAN: Oh, look! This VAP fucker had a reckorder on him – wasn't this on
 *As the girls continue to gossip, a red-haired woman climbs down the stairs from the second floor. She nods at the older woman.*
 
 OLDER WOMAN: So you're sure, absolutely sure that this'll work?
+
 REDHEAD: I'm sure. Something beautiful is going to happen. Those 7-P bastards are gonna kneel in less than a century.
 
 ## ACT 2 – The Table Is Set
+
 **Period: 8 Years Ago … Year: 1976 … Location: NEPTUNE**
 
 *A dozen people sit in their chairs next to a massive table in a lavishly-decorated and open room. At the end sits an imposing figure with their hands cupped. The figure starts speaking…*
@@ -134,31 +139,45 @@ REDHEAD: I'm sure. Something beautiful is going to happen. Those 7-P bastards ar
 There were many dwellers within the expanse of space – some with names, others nameless – that witnessed humanity when they departed from Earth to the outer reaches of space…
 
 And then there once was a young woman – Katherina.
+
 The nights were cold out here, the sky was blacker than black.
+
 She'd subsist on her canned food reserve, read old books by the phosphorus-light, and every now and then enjoy her signature mixed tea alongside a little syrup…
 
 And whenenever she mustered the energy, she'd leave her little phosphorus-illuminated abode and try to find others – her search would continue for years & years.
+
 But sometimes, Katherina would dream of her father and mother.
+
 And she would only spiral further and further…
 
 Kneeling, she pleads to the celestial bodies – the empty sky greeting her with silence – as she thinks…
 
 *"I hope someone visits me soon*
+
 *That's what I need*
+
 *I won't be alone anymore*
+
 *When they come visit me*
+
 *I won't be so cold anymore*
+
 *It'll be nice to not be alone*
+
 *I can't be alone anymore*
+
 *I hope someone visits me soon*
+
 *I won't be alone anymore"* 
 
 Time would march on, the emptiness and loneliness in her chest expanding, as she always hoped that, after all, if there was still someone, they'd reach out…
 
 For all she ever knew, there was no one and nothing left.
+
 Katherina, stranded in a vast frigid place, ever since the **SUN** departed…
 
 ## ACT 4 – The RED KING
+
 **Period: Present Day … Year: 1984 … Location: Venus**
 
 Katherina was laid upon her bed, half-dreaming, after voraciously consuming the latest find that she'd tossed in the Venusian literature pile…
@@ -170,61 +189,91 @@ The crackle of thunder in the sky would stop, and the thick fume of air would st
 Shudders of fear would grip her mind, as her eyes met the red planet, which got closer and closer to her, and her dreams would run away, and she'd start to awake, and she'd reach for the knife in the bedside table…
 
 A voice echoes across the room – no, across Venus itself:
+
 **"LITTLE GIRL."**
+
 Katherina screamed like a banshee. The sound pierced her, it was overwhelming her, it was so, so, so loud... the bedframe would rattle…
 
 The same voice continues:
+
 **"YOU RUN TOO FAR IN THE DARK AND YOU GET YOURSELF LOST."**
+
 She takes a good look – she's not in any dream no more, this is as real as it gets. Her pleading was finally answered, but not by whom she expected to answer. This was **MARS**, the full **MARS**, the fourth planet from the **SUN**.
 
 Then the **RED KING** would reassure her, more quiet this time:
+
 **"CALM DOWN. I AM WHOLE. I CAN MAKE YOU WHOLE."**
+
 She opens her mouth…
 
 She starts telling him how alone she'd been, and how there's no one left, and how she'd searched everywhere, and how she stockpiled her rations into boxes upon boxes of the stuff, and how she doesn't even know if she has a mother or a father, and that she can't remember her childhood, and finally she tells him that her name is Katherina.
 
 This noise would no longer rattle her entire home. And it'd start to no longer rattle her soul:
+
 **"WHAT A BEAUTIFUL NAME, LITTLE GIRL."**
 
 ## ACT 5 – His Queen
+
 **Period: Present Day … Year: 1984 … Location: Venus**
 
 Katherina & **MARS** would have several discussions about her life over that feverish dream of an hour. She'd sit on the edge of her bed facing the window & he, despite the lack of face, would seem more and more interested.
 
 . . .
 
-During the heated discussion, Katherina lets out a sly remark about her desires, and what she knew of the men that roamed Venus. **MARS** is quick to notice this, and interjects:  
-**"I'M THE PERFECT MAN. I AM THE CONCEPT OF MAN. THERE WILL NEVER BE ANOTHER LIKE ME."**  
+During the heated discussion, Katherina lets out a sly remark about her desires, and what she knew of the men that roamed Venus. **MARS** is quick to notice this, and interjects:
+
+**"I'M THE PERFECT MAN. I AM THE CONCEPT OF MAN. THERE WILL NEVER BE ANOTHER LIKE ME."**
+
 She's interested. They talk about this for a while.
 
 . . .
 
-Eventually, she asks what happened to the other humans, and what happened to the stars in the night-sky. **MARS** proclaims:  
-**"THE OTHERS ARE GONE. THEY ABANDONED US."**  
-Katherina is shocked – it seems that he doesn't know precisely what happened either, just that they're gone. **MARS** then adds:  
-**"IT'S JUST US NOW. IT'S JUST US NOW."**  
-The girl agrees. They continue to discuss this for a solid ten minutes, until **MARS** sets the facts straight:  
-**"THEY RAVAGED IT. ALL OF IT. THERE'S NOTHING LEFT."**  
-She now knows that the Venusian humans destroyed eachother in a war.  
-**"NOT JUST THE HUMANS. THE STARS TOO, IN THEIR OWN WAY."**  
-And she learns that the stars did the same to eachother.  
-**"THEIR POINTLESS WARS... THERE'S NOTHING LEFT."**  
-The wars were pointless for both humans & stars.  
-**"WE ONLY HAVE EACHOTHER. IT'S ALL THEIR FAULT."**  
+Eventually, she asks what happened to the other humans, and what happened to the stars in the night-sky. **MARS** proclaims:
+
+**"THE OTHERS ARE GONE. THEY ABANDONED US."**
+
+Katherina is shocked – it seems that he doesn't know precisely what happened either, just that they're gone. **MARS** then adds:
+
+**"IT'S JUST US NOW. IT'S JUST US NOW."**
+
+The girl agrees. They continue to discuss this for a solid ten minutes, until **MARS** sets the facts straight:
+
+**"THEY RAVAGED IT. ALL OF IT. THERE'S NOTHING LEFT."**
+
+She now knows that the Venusian humans destroyed eachother in a war.
+
+**"NOT JUST THE HUMANS. THE STARS TOO, IN THEIR OWN WAY."**
+
+And she learns that the stars did the same to eachother.
+
+**"THEIR POINTLESS WARS... THERE'S NOTHING LEFT."**
+
+The wars were pointless for both humans & stars.
+
+**"WE ONLY HAVE EACHOTHER. IT'S ALL THEIR FAULT."**
+
 Katherina agrees with his statements. They continue to discuss other topics.
 
 . . .
 
-After a while, they reach the topic of their future. **MARS** would set the tone:  
-**"IT'S OUR RESPONSIBILITY NOW. THIS COLD PLACE IS OUR HOME. WE WILL MAKE IT OUR HOME."**  
-The girl follows the idea of his plans, and they agree that it's in their best interest to build a home atop the remains of Venus. **MARS** reminds her:  
-**"YOU DON'T HAVE TO BURDEN YOURSELF WITH THIS. REMEMBER, YOU CAN BACK OUT ANYTIME."**  
-She quickly answers.  
-**"I UNDERSTAND."**  
-The air is still for a brief second. Then **MARS** asks:  
+After a while, they reach the topic of their future. **MARS** would set the tone:
+
+**"IT'S OUR RESPONSIBILITY NOW. THIS COLD PLACE IS OUR HOME. WE WILL MAKE IT OUR HOME."**
+
+The girl follows the idea of his plans, and they agree that it's in their best interest to build a home atop the remains of Venus. **MARS** reminds her:
+
+**"YOU DON'T HAVE TO BURDEN YOURSELF WITH THIS. REMEMBER, YOU CAN BACK OUT ANYTIME."**
+
+She quickly answers.
+
+**"I UNDERSTAND."**
+
+The air is still for a brief second. Then **MARS** asks:
+
 **"DO YOU LOVE ME?"**
 
 ## ACT 6 – White Cell
+
 **Period: 8 Years Ago … Year: 1976 … Location: VENUS**
 
 > SERGEI'S JOURNAL
@@ -255,12 +304,15 @@ The air is still for a brief second. Then **MARS** asks:
 **Period: Present Day … Year: 1985 … Location: Venus**
 
 The sex was a little awkward.
+
 She always felt so small.
 
 Katherina loved to sing and dance. She'd take a step back every now and then, just to keep me off her track – keeping me lulled, entranced…
 
 That skinny, skinny frame…
+
 That tired, tired act…
+
 She's uninteresting wearing all that black.
 
 I just can't help myself – I take peeks into her dreams, every now and then. She thinks of the times before the flash – of Venus and the **SUN**, that they were so close she'd kiss him. She wonders "if they were so close, why'd the **SUN** leave?".
@@ -268,22 +320,31 @@ I just can't help myself – I take peeks into her dreams, every now and then. S
 And then she spirals from there…
 
 "Was it the way everyone screamed and bickered here?"
+
 "The smog covering our sky?"
+
 "The factories and the residential districts?"
+
 "Or was it all the tears Venus shed?"
+
 "The labyrinthine tunnels in her skin?"
+
 "Would the **SUN** still make love to her disfigured mantle?"
+
 "Did Venus feel lonely, too?"
+
 "Why is **MARS** always standing up there? Why can't he come closer, why can't he embrace me, why must he be so distant? If we kissed, would I start burning too? I'm his little **SUN**, I'm his little **SUN**…"
 
 I normally shut her up by the time she gets to that part.
 
 ## ACT 8 – Waiting For Black Metal Records To Come In The Mail
+
 **Period: Present Day … Year: 1986 … Location: Venus**
 
-Katherina's life felt like a joke at her expense.  
+Katherina's life felt like a joke at her expense.
 
 Everytime she woke up, **MARS** was always facing some other direction. 
+
 Enough time had passed that she'd see discernible features on him, craters like beauty marks, hills and mountains like deep scars. And yet, she could never reach him. She could never touch him, so close and yet so far away.
 
 Each morning, Katherina would scramble for the tin box of mixed teabags, possibly the one thing she could still enjoy about the life she lived. The canned food ran out long ago. She'd subsist almost solely on rice with honey or ground sugar cubes, and if given a special occasion, a little syrup never hurt. Despite this, the sweet sensations brought next to no pleasure.
@@ -297,6 +358,7 @@ Their more philosophical & practical discussions stopped altogether. It's just a
 **MARS** had to be hiding something. Something was wrong, deeply wrong, and this could not be kept up any longer.
 
 ## ACT 9 – Attempt #333
+
 **Period: 29 Years Ago … Year: 1959 … Location: Earth**
 
 Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germany, is neck deep in debt to the wrong people. The space colonization efforts were just starting in this period. Hoping she could create an ultra-durable material capable of assisting in colonization of the toughest environments, she gets to work in search of her future patent. These are a few of her test logs.
@@ -370,6 +432,7 @@ Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germ
 > **Hinweise:** ICH HAB ES ENDLICH GESCHAFFT, VERDAMMT!
 
 ## ACT 10 – Black Metal Records
+
 **Period: Present Day … Year: 1987 … Location: Venus**
 
 Tonight was silent.
@@ -425,6 +488,7 @@ Mars would be sorry.
 Mars was the night, the nightmare.
 
 ## ACT 11 – Curse of the RED KING
+
 **Period: Present Day … Year: 1987 … Location: VENUS**
 
 _**KATHERINA**, with Mars in her cupped palms, levitates above the yellow atmosphere of Venus. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open._
@@ -502,6 +566,7 @@ _**MARS** strokes her shriveling, now-white hair._
 *And **VENUS** would be once more.*
 
 ## ACT 12 – Stories
+
 **Period: Present Day … Year: 1988 … Location: URANUS**
 
 A man in his forties stands in front of his reckoner box. He tries to select the Broadcast Channel but is quickly interrupted by a damn-near one minute advertisement.
@@ -512,17 +577,23 @@ A man in his forties stands in front of his reckoner box. He tries to select the
 > *The Blood Ocean Phenomenon has entirely revitalized the shamed little sister of our System.*
 > 
 > *But how did we get here? Well, it all started with pioneer Sarah "Sam" Ackermann, who invented Azbestite.*
+> 
 > *Azbestite, yes, of all things, started out in her cramped garage on the lost province of Germany, Earth. Come this breakthrough, colonization efforts were revolutionized.*
 > 
 > _**VENUS** was conquered. The mines labored. The factories churned._
+> 
 > *Most importantly, the phosphorus supply was steady.*
+> 
 > *Everything was seemingly fine.*
 > 
 > *Then we lost all contact.*
 > 
 > *Not anymore.*
+> 
 > *Come see the blood.*
+> 
 > *Come see the red.*
+> 
 > *Wash away your sins.*
 
 He closes the hourly scheduled advertisement and swiftly rushes to the so-familliar Broadcast Channel rectangle.
@@ -560,6 +631,7 @@ Another man, in his thirties, drags the Asset Protection captain by the collar a
 He scoffs – "7-P's calling it a tourist resort. I call it total lunacy."
 
 ## ACT 13 – Water Womb World
+
 **Period: Present Day … Year: 1989 … Location: VENUS**
 
 > An old woman, wrinkled face, hurriedly enters a closed office with a sizeable box of tapes. She tosses most of the lot away and produces one labeled "Vitruvian Motel – VAP 33-102", inserting it into her personal reckoner.
@@ -567,9 +639,11 @@ He scoffs – "7-P's calling it a tourist resort. I call it total lunacy."
 > The reckoner's monitor slowly boots up. She quickly opens the command panel and types the commandline scrawled under the tape.
 
 ***BDYRECK-FOOTAGE – VAP 33-102 – 11-06-1988***
+
 ***AUDIO… ACTIVE***
 
 MIKE: This thing on? 1-2-3. 1-2-3.
+
 **TANGO:** Uh-huh.  
 
 ***VIDEO… ACTIVE***
@@ -579,33 +653,45 @@ MIKE: This thing on? 1-2-3. 1-2-3.
 ***MOTION… ACTIVE***
 
 MIKE: Alright. This is **VENUS** Asset Protection... what was it? 
+
 *ZETA:* 33-102.
+
 MIKE: Yeah okay. 33-102. We're here to investigate two critical missing assets. In and out, quick and easy. Our marks were last spotted next to the... "Vitruvian Motel". Two floors. Bit shady that place, in my opinion. Yo Tango, look at this shit! It's fuckin' two stars?  
+
 **TANGO:** Real ace, this one…
+
 *ZETA:* Moving in.
 
 *The squad approaches the front door. The locale looks shady, decrepit, and suspiciously rusty, even for 7-P tourism standards.* 
 
 **TANGO:** Yeah, no. Flashlight on. And keep it on.
+
 *ZETA:* VAP 33-102. Entry point has been breached, moving further in. Natural light waning.
 
 *They enter the reception room - the place is trashed.*
 
 *ZETA:* We're in the reception.
+
 MIKE: I can hear the ocean.
+
 **TANGO:** Don't think about it. They say it's cursed with slave juju shit.
+
 *ZETA:* Shut the fuck up. Both of you.
 
 *Mike proceeds to check the rooms thoroughly alongside his squadmates. Thought nothing was weird on video. 'Till I took a closer look. There were no mirrors in the whole place.*
 
 *ZETA:* Clear.
+
 MIKE: Clear on my side.  
+
 **TANGO:** All clear.
 
 *The three of them continue deeper into the building, ascending the stairs. The sound of the ocean fades out as they ascend to the second floor.*
 
 **TANGO:** The air is stiff.
+
 MIKE: You think someone's been here?
+
 **TANGO:** Look down. There's track marks on the ground. Frenzied steps.
 
 ***MOTION DETECTED… FRONT TOWARDS TOP***
@@ -617,6 +703,7 @@ MIKE: You think someone's been here?
 *The lack of mirrors continues to pique my interest. Sound from outside is completely muffled. As I look even closer, there are no windows or balconies. I rewind back. This building had windows. They don't notice, once again. I fastforward to where I left off.*
 
 MIKE: How many fuckin'... floors... does this place have?  
+
 **TANGO:** The report said 6. Chin up, soldier.
 
 *Immediately after opening the entrance to the hallway of Floor 6, the sound of the blood ocean blares against the background. I adjust the volume. I don't know if they hear it.*
@@ -626,6 +713,7 @@ MIKE: How many fuckin'... floors... does this place have?
 *They approach the door to Room... I can't fucking tell. I look at it and my head aches.*
 
 MIKE: O-OPEN THE DOOR, IT'S THE FUCKING COPS.  
+
 *ZETA:* Kick it down.
 
 *The door swings open.* 
@@ -637,6 +725,7 @@ MIKE: O-OPEN THE DOOR, IT'S THE FUCKING COPS.
 *A fair-skinned woman, no older than 20 at best, lies naked strapped on the bedframe. She seems untouched. She won't stop screaming. She remembers. Despite their efforts, she does not calm down.*
 
 **TANGO:** I'm gonna untie you, ma'am. You are safe. We are here to help you.
+
 *ZETA:* Ma'am, do not run. No sudden movements.
 
 *I hear the serene waves and the clear breeze. I don't want to think about what the room looked like. She was untouched, that's what matters. Mike is not saying a word. They end up dragging her by the handcuffs. She won't stop screaming. They descend 8 times.*
@@ -653,12 +742,17 @@ MIKE: O-OPEN THE DOOR, IT'S THE FUCKING COPS.
 **Period: ?????? … Year: ?????? … Location: ??????**
 
 _**NEPTUNE**, the **APEX OF JUDGEMENT** would seal my fate – execution._
+
 *I'm guilty for what I've done to Katherina.*
+
 *I alone was supposed to pay the toll.*
 
 *However.*
+
 *I was not alone in all I did.*
+
 *There is something out there. Something way past the **SUN**, way past the reaches of this **GALAXY**.*
+
 _The **DEMIURGE**, the **FOOL**._
 
 _**SATURN**, the **DARK HIEROPHANT**, was wise beyond my years. She'd understand. I pleaded to her during the trial. In exchange for postponing my inevitable execution, I'd give them all the death of this **DEMIURGE**. I'd make it pay, I'd find the root of the cosmic evil and I'd erase it forever…_
