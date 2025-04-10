@@ -647,7 +647,7 @@ MIKE: O-OPEN THE DOOR, IT'S THE FUCKING COPS.
 
 > *The woman jerks out of her seat and runs toward the nearest exit. There's still time left. Time left to warn them…*
 
-## ACT 14 – The Red Chariot
+## ACT 14 – The RED CHARIOT
 **Period: ?????? … Year: ?????? … Location: ??????**
 
 _**NEPTUNE**, the **APEX OF JUDGEMENT** would seal my fate – execution._
