@@ -37,7 +37,7 @@ Aren't you my little **SUN**?
 
 Hey, hey, calm. Don't you want to know your parents? Your childhood?
 
-_**KATHERINA** wants to know. She really, really does want to know. It's her chance, her only one.*_
+_**KATHERINA** wants to know. She really, really does want to know. It's her chance, her only one._
 
 **"I… I DO. I DO WANT TO KNOW"**
 
@@ -65,7 +65,7 @@ Say my name.
 
 _**MARS** catches her._
 
-**"I'M SORRY. I'M SORRY. I'M SO SORRY.**
+**"I'M SORRY. I'M SORRY. I'M SO SORRY."**
 
 *Katherina turns pale. Her eyes, empty. Her Venusian soul-essence is returning to the cursed ground she was made of.*
 
