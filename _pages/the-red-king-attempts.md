@@ -2,7 +2,7 @@
 title: Chapter 9: White Cell
 header:
   image: /assets/images/RedKingHeader.jpg
-permalink: /red-king-attempt-333/
+permalink: /red-king-attempts/
 sidebar:
   nav: "red-king"
 ---
@@ -49,8 +49,8 @@ Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germ
 > **Resultat:**
 > **Experimentkomponenten:**
 > 
-> Chrysotile {Mg3(Si2O5)(OH)4}
-> Holz aus meiner Garage {C6H10O5}
+> Chrysotile (Mg3(Si2O5)(OH)4)
+> Holz aus meiner Garage (C6H10O5)
 > 
 > **Resultierende Chemikalie:**
 > 
@@ -66,12 +66,12 @@ Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germ
 > **Resultat:** x
 > **Experimentkomponenten:**
 > 
-> Chrysotile {Mg3(Si2O5)(OH)4}
-> Nicht-hydraulischer Zement {CaCO3 + H2O}
+> Chrysotile (Mg3(Si2O5)(OH)4)
+> Nicht-hydraulischer Zement (CaCO3 + H2O)
 > 
 > **Resultierende Chemikalie:**
 > 
-> Azbestite {3MgCO3?+Ca2?SiO4?+4H2?O+2CO2}
+> Azbestite {3MgCO3?+Ca2SiO4+4H2O+2CO2}
 > 
 > **Ideale Zusammensetzungsrate:** 100%
 > **Jahreszahl:** 04/22/1964
