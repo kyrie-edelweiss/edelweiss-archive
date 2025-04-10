@@ -11,7 +11,7 @@ Katherina's life felt like a joke at her expense.
 
 Everytime she woke up, **MARS** was always facing some other direction. 
 
-Enough time had passed that she'd see discernible features on him, craters like beauty marks, hills and mountains like deep scars. And yet, she could never reach him. She could never touch him, so close and yet so far away.
+Enough time had passed that she'd see discernible features on him, craters like beauty marks, hills and mountains like deep scars. And yet, she could never reach him. She could never touch him, so close and yet so far.
 
 Each morning, Katherina would scramble for the tin box of mixed teabags, possibly the one thing she could still enjoy about the life she lived. The canned food ran out long ago. She'd subsist almost solely on rice with honey or ground sugar cubes, and if given a special occasion, a little syrup never hurt. Despite this, the sweet sensations brought next to no pleasure.
 

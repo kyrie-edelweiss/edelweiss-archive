@@ -1,5 +1,5 @@
 ﻿---
-title: Chapter 9: White Cell
+title: Chapter 9: Attempt #333
 excerpt: Chapter of the Red King.
 permalink: /red-king-attempts/
 sidebar:

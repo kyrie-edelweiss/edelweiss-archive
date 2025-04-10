@@ -33,7 +33,7 @@ Then the **RED KING** would reassure her, more quiet this time:
 
 She opens her mouth…
 
-She starts telling him how alone she'd been, and how there's no one left, and how she'd searched everywhere, and how she stockpiled her rations into boxes upon boxes of the stuff, and how she doesn't even know if she has a mother or a father, and that she can't remember her childhood, and finally she tells him that her name is Katherina.
+She starts telling him how alone she'd been, and how there's no one left, and how she'd searched everywhere, and how she stockpiled her rations into boxes upon boxes of the stuff, and how she doesn't even know if she has a mother or a father, and that she can't remember her childhood and finally she tells him that her name is Katherina.
 
 This noise would no longer rattle her entire home. And it'd start to no longer rattle her soul:
 
