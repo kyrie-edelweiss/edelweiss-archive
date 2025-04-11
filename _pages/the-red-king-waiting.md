@@ -5,20 +5,36 @@ permalink: /red-king-waiting/
 sidebar:
   nav: "king"
 ---
-# Period: Present Day … Year: 1986 … Location: Venus
+## Period: Present Day … Year: 1986 … Location: Venus  
 
-Katherina's life felt like a joke at her expense.
+Katherina's life had become a joke at her own expense.
 
-Everytime she woke up, **MARS** was always facing some other direction. 
+Every morning, **MARS** was turned just a little further away.
 
-Enough time had passed that she'd see discernible features on him, craters like beauty marks, hills and mountains like deep scars. And yet, she could never reach him. She could never touch him, so close and yet so far.
+Not physically—she could still see him, red and glowering through the acid-streaked clouds—but metaphysically, he felt distant. Like he had retracted something. Like his soul had taken one slow, deliberate step back.
 
-Each morning, Katherina would scramble for the tin box of mixed teabags, possibly the one thing she could still enjoy about the life she lived. The canned food ran out long ago. She'd subsist almost solely on rice with honey or ground sugar cubes, and if given a special occasion, a little syrup never hurt. Despite this, the sweet sensations brought next to no pleasure.
+Craters like beauty marks. Mountain ranges like deep scars.
 
-All the standard phosphorus lights malfunctioned. Gasoline was low, to the point where she'd stumble around in darkness just to conserve it. Keeping herself busy with arts and crafts was growing more and more difficult. **MARS** did not really take a liking to her drawings, and her karaoke was increasingly uninspired. The buzz & hum of the failing monospeaker felt disturbing. He still enjoyed her dancing. Actually, he loved her dancing. No, he was obsessed. The more sensual, the better. 
+The tin box of mixed teabags was nearly empty. That was her one ritual, her one remaining comfort. The flavors bled together, cheap things imported from **JUPITER**'s moons, stale and scentless. Still, she’d let the bag sit in boiled water for exactly five minutes. Five minutes of control. Five minutes of pretending she had a body that wasn’t falling apart.
 
-She felt like she was being slowly betrayed, and as her mind sharply declined, the pressure, demands from **MARS** would shoot higher and higher.
+She subsisted on sugar cubes and rice. Sometimes honey if she rationed right. The sweetness barely registered. She suspected **MARS** liked her thin. Her hip bones stuck out like warning signs. Her wrists could cut.
 
-Their more philosophical & practical discussions stopped altogether. It's just about demands and sex now. "Sex ruins everything that could've been beautiful", she thinks.
+All the standard phosphorus lights malfunctioned. Gasoline was low to the point where she moved in pitch black, counting steps.
 
-**MARS** had to be hiding something. Something was wrong, deeply wrong, and this could not be kept up any longer.
+Keeping herself busy with arts and crafts was growing more and more difficult. Drawing had become shameful. **MARS** didn’t like the way she depicted him-said it was "dishonest." Her karaoke was increasingly uninspired. And the monospeaker—*that* speaker—emitted this faint whine, a mosquito in her ear that never died. It broadcast his voice sometimes, or a distorted imitation of it.
+
+He still enjoyed her dancing. Actually, he loved it. Sensual, slow. She danced even when her legs shook. Even when her lungs burned.
+
+She wasn’t sure when the talking stopped.
+
+They used to talk about strange, beautiful things. Cosmic things. Ideas. Symbols. She’d ask questions, and **MARS** would answer in riddles that felt profound.
+
+The demands came faster. Her mind couldn’t keep up. Sometimes she'd forget her own name.
+
+> *Sex ruins everything that could’ve been beautiful.*
+
+She didn’t remember where she heard that. Or if she said it first. Maybe it was in a dream. Maybe it was a thought Venus once whispered before the **SUN** left her behind.
+
+The worst part was the suspicion. **MARS** had to be hiding something. Behind all the cold lust, behind the obsession—something was *wrong*. She didn’t have the words. She only had a sensation deep in her stomach.
+
+This could not be kept up any longer.

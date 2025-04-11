@@ -5,53 +5,136 @@ permalink: /red-king-black-metal-records/
 sidebar:
   nav: "king"
 ---
-# Period: Present Day … Year: 1987 … Location: Venus
+## Period: Present Day … Year: 1987 … Location: Venus  
 
-Tonight was silent.
+Tonight was silent.  
 
-The only method **MARS** would communicate with Katherina was by reading her mind. And inserting his words there. The nights that he'd take over her body were the worst. But tonight was quiet & still – not like Katherina felt the concept of day & night, whatnot with the **SUN** gone and all.
+He wasn’t speaking tonight.  
+Not aloud. Not through the crackling wires, not through the walls or the machines.  
+**MARS** didn’t need to anymore.  
 
-She did not think of what she was about to do. Her own thoughts would betray her. Katherina can't afford that.
+He preferred the inside of her skull.
 
-As she feigned the usual bed routine - brisk dip in the lake, drying off her body and touching up her hair, rubbing some of the local vegetation on her teeth…
+His voice burrowed, uninvited, into her thoughts. Sometimes as words. Sometimes just a pressure behind the eyes.
+Some nights, he would press into her muscles, inhabit them, wear her bones like clothes.
 
-She slipped up. She had the thought.
+Walked her across the room.  
+Made her smile.  
+Made her beg.  
+Made her touch herself.
 
-**MARS**, in a fraction of a second, knew. The radio-waves travel fast.
+But tonight?  
+Stillness.  
 
-Katherina's mind was flooded with the worst **MARS** could muster – Sinner, wrong doer, evil doer, worker of iniquity, a bad example, scoundrel, villain, knave, viper, wretch, the devil incarnate, monster, demon, fallen angel, lost sheep, black sheep, a loafer and a sneak. A good for nothing fucking bitch and a whore.
+Katherina had learned not to *think*.  
 
-And she felt her legs giving way, she felt weak, she felt sick to her stomach, she felt like she was losing control over her body. No. Her body was being taken from her.
+Thinking was dangerous.  
+A single wrong phrase, a flicker of doubt—  
+and he’d could be inside her again.  
 
-No. My body is being taken away from me again. You took my mind already.
+So she went through the motions.  
 
-Leave me alone.
+As she feigned the usual bedtime routine - brisk dip in the lake, drying off her body and touching up her hair, rubbing some of the local vegetation on her teeth…
 
-**"LEAVE ME ALONE."**
+She slipped up.  
 
-**"MY SOUL IS FLAWLESS AND PURE. MY SOUL IS FLAWLESS AND PURE."**
+She had it. She had the thought.
 
-**"I DISREGARD THE PRECAUTIONS."** 
+And like a hand to the throat—  
+He was there.  
 
-**"I WANT TO BREAK."**
+No warning. No chance.  
 
-In a swift motion, **KATHERINA** swiped her hand across the night sky, thinking she can take him down with her.
+Her skull *split open* with his voice.  
 
-Thoughts run down, drip down, become reality. The curse of the **RED KING**.
+> **SINNER, WRONG DOER, EVIL DOER, WORKER OF INIQUITY, A BAD EXAMPLE, SCOUNDREL, VILLAIN, KNAVE, VIPER, WRETCH, THE DEVIL INCARNATE, MONSTER, DEMON, FALLEN ANGEL, LOST SHEEP, BLACK SHEEP, A LOAFER AND A SNEAK. A GOOD FOR NOTHING FUCKING BITCH AND A WHORE.**
 
-**MARS** was plucked. She held him in her hands.
+It wasn’t just noise.  
+It was *penetration*.  
 
-Then, a flash. Her eyes went blind.
+He entered her thoughts like a blade.  
+Slid into the gaps of her memories.  
+Flooded every synapse with his filth.  
+Took her body from her, again.  
 
-The truth was there. 
+She felt weak. She felt her legs move without consent. She felt sick to her stomach.
+Her mouth twitch. Her spine arch.
 
-Mars was hiding the **SUN**.
+_"leave me alone. you have my body already, let the rest of me be"_
 
-Mars hid the **SUN** from **KATHERINA**.
+But he was inside already.  
+And she couldn’t scream without him tasting it.
 
-Mars hid the **SUN** from Venus.
+*“leave me alone. leave me alone. please don't do it again, please, i can't do it anymore.”*
 
-Mars hid the **SUN** from millions.
+Her voice sounded so far away.
+
+_“leave m_**E ALONE.”**
+
+**“LEAVE ME ALONE.”**
+
+**“MY SOUL IS FLAWLESS AND PURE.”**
+
+**“I DISREGARD THE PRECAUTIONS.”**
+
+**“I WANT TO BREAK.”**
+
+And that’s when something would break.
+Not inside her.  
+*But in the sky.*
+
+**KATHERINA**'s hand rose—unthinking. Instinctual.  
+Like Venus herself moved through her veins.  
+
+She struck upward.  
+
+Tore at the heavens with thought turned to weapon.
+
+The sky peeled.  
+The stars *shivered*.
+Her thoughts ran down, dripped down, became reality.
+The curse of the **RED KING**.
+
+And Mars came undone.  
+
+**KATHERINA** pulled him down.  
+Ripped him from the black.  
+Held him—smaller than ever—in her hand.  
+
+And then—  
+**the flash.**
+
+Blinding.
+Yellow.
+Revealed.
+
+And there it was — what Mars hid all this time. The truth she was *raped* away from knowing.
+
+> The **SUN**.  
+> Still shining. Still burning.  
+> Hidden behind Mars.  
+
+He had hidden the dawn.  
+
+He stole the light,  
+stole the warmth,  
+stole *the life itself*—  
+
+—from **KATHERINA**.  
+—from *Venus*.  
+—from *everyone*.  
+
+Mars had done it.
+
+He had silenced the world in shadow and called it "love."
+
+> Mars wasn’t love.  
+> He was *control*.  
+> He was the night.  
+> He was the nightmare.  
+> The thing that whispers _“you’ll never be free.”_ 
+
+But **KATHERINA** had ripped him out.  
 
 Mars was responsible.
 

@@ -5,78 +5,153 @@ permalink: /red-king-curse/
 sidebar:
   nav: "king"
 ---
-# Period: Present Day … Year: 1987 … Location: VENUS
+## Period: Present Day … Year: 1987 … Location: Venus
 
-_**KATHERINA**, with Mars in her cupped palms, levitates above the yellow atmosphere of Venus. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open._
+_(Above the churning yellow clouds of Venus, **KATHERINA** levitates. In her cupped palms, she holds MARS—small, dim, stripped of dominion. Her jaw is clenched. Her eyes burn. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open.)_
 
-**KATHERINA.** Don't do this. Put me back, please. I thought you loved me.
+*Mars*: (begging)
+Don't do this.  
+Put me back, please.  
+I thought you loved me.
 
-*Her voice crackles across the night-sky louder than any thunder of Venus.*
+_**KATHERINA**_: (voice booming across the night sky):  
+**I THOUGHT I LOVED YOU. BUT YOU WERE JUST ALL I HAD. YOU MADE SURE YOU WERE ALL I HAD.**
 
-**"I THOUGHT I LOVED YOU. BUT YOU WERE JUST ALL I HAD. YOU MADE SURE YOU WERE ALL I HAD."**
+*Mars*: (softly)
+That’s not true, **KATHERINA**.  
+You were all *I* had too.  
+Celestial bodies were never meant to touch the human world.  
+But I broke the rules. For you.  
+I just wanted to feel.  
+To know what it was like.
 
-That's not true, **KATHERINA**. You were all I had too – celestial bodies were never allowed to interact with humans. I broke all the rules just to get to know you. I wanted to see what it was like.
+_**KATHERINA**_: (seething):  
+**SEE WHAT? TO SEE WHAT IT'S LIKE TO USE SOMEONE LIKE A FLESH SOCK?**
 
-**"SEE WHAT? TO SEE WHAT IT'S LIKE TO USE SOMEONE LIKE A FLESH SOCK?"**
+*Mars*:  
+It wasn’t supposed to go like that.  
+You taught me what pleasure meant.  
+I didn’t know what it was to *want* before you.  
+And then… I couldn’t stop.  
+I was cursed with hunger.  
+And you—  
+You were so warm.  
+I’m sorry. I’m so sorry, **KATHERINA**.
 
-It wasn't my intention, dear… you showed me what pleasure felt like. I grew addicted, I grew more and more discontent with the lack of feeling I was cursed with – I wanted more and more. I'm so sorry, I'm sorry **KATHERINA**.
+_(Silence. She doesn’t answer. He shifts in her palms.)_
 
-_**KATHERINA** can't think of anything._
+*Mars*:  
+We can fix this.  
+We’ve both changed.  
+Let’s start again.  
+This time… you say my name first.
 
-**KATHERINA**, dear. We can fix this. You just have to trust me. Remember when we first met? Let's start again… This time, you say my name first.
-
+_**KATHERINA**_:  
 **"NO. I REFUSE. I CAN'T LET YOU TAKE CONTROL AGAIN."**
 
-Don't be stubborn, love. You've grown so much… there's no point in all this control non-sense anymore. And… I've always watched you from afar. I know you – I always kept an eye out for you, because you were special. Hey, hey, now…
+*Mars*: (gently):  
+Oh, my love. Control?  
+You’ve grown so much.  
+There's no point in controlling you anymore.  
+And I’ve always watched you from afar.  
+Even when you thought you were alone.  
+I know you - I always kept an eye out for you.
+Because you were special…  
 
-_**KATHERINA** goes speechless. Her facial expression is one of contempt, confusion, and regret._
+_(Her face flickers—contempt, grief, longing. She begins to tremble.)_
 
-Aren't you my little **SUN**?
+*Mars*: (whispering):  
+Aren’t you…  
+my little **SUN**?
 
-*She screams. And the scream echoes. And the scream fades. And underneath that layer of noise, she's sobbing. Sobbing like a little crybaby. Sobbing like she just lost her parents. Her palms relax.*
+_(Her scream splits the upper atmosphere. Then, beneath the scream—sobs. Raw. Childlike. Her hands loosen.)_
 
-Hey, hey, calm. Don't you want to know your parents? Your childhood?
+*Mars*: (soothing):  
+Shh… calm, calm now.  
+You want to know, don’t you?  
+The truth. About your parents. Your origin.  
+Who you really are?
 
-_**KATHERINA** wants to know. She really, really does want to know. It's her chance, her only one._
+_(She hesitates. Then a quiet answer.)_
 
-**"I… I DO. I DO WANT TO KNOW"**
+_**KATHERINA**_:  
+**"I… I DO. I DO WANT TO KNOW."**
 
-You were born of two Venusian mothers. They loved and cherished you – they would've done everything to keep you. This is not the way things go in this world, unfortunately. Men in armor from some far-away planet came and took little **KATHERINA** away. I watched you grow up in the bunkers of these men – they'd malnourish you, hurt you and call you awful names – they thought you were an ill omen, an icon of the coming Apocalypse. When you were of age, they injected you with some white substance, and you forgot everything. They dropped you off somewhere far away, as they packed their bags up and shot everyone left in the head. This is your story, **KATHERINA**. This is what you wanted to hear, right?
+*Mars*:  
+You were born of two Venusian mothers.  
+They loved you more than anything in this world.  
+They would’ve kept you, protected you, worshipped you.  
 
-*Her stomach knots. **KATHERINA** grips Mars harder.*
+But men came.  
+Men in armor from a distant planet.  
+They ripped you from their arms.  
+Raised you underground in bunkers.  
+Malnourished you. Hurt you.  
+Called you names—  
+_Bad omen. Chimera. Icon of the coming Apocalypse._
 
+When you came of age, they injected you.  
+White, liquid forgetfulness.  
+You forgot everything.  
+And when they were done with you—  
+They threw you out.  
+They shot everyone else.  
+Left you to wander.
+
+That’s your story, **KATHERINA**.  
+Isn’t that what you wanted?
+
+_(She convulses. Rage and disbelief churn in her gut. She grips MARS tighter.)_
+
+_**KATHERINA**_:  
 **"THAT CAN'T BE… IT'S LIES… YOU'RE LYING AGAIN…"**
 
-Stop… Stop! You're hurting me!
+*Mars*: (gasping):  
+Stop—please—you’re hurting me!
 
-*She reflexively relaxes her fingers, and releases her clenched palms.*
+_(Reflex. Her grip loosens.)_
 
-This is what I wanted to protect you from. The bitter truth, and the pain that comes with it. I love you, **KATHERINA**, I really do. Can we start again? Do you trust me?
+*Mars*: (whimpering):  
+I was trying to protect you…  
+From the bitter truth and all the pain that comes with it.  
+I love you, **KATHERINA**.  
+We can begin again.  
+Do you trust me?
 
-*She's decided.*
+_(A pause. Her mind sways like a candle in vacuum.)_
 
+_**KATHERINA:**_ (quiet):  
 **"I TRUST YOU."**
 
+*Mars*:  
 Say my name.
 
-**"MARS… I-"**
+_**KATHERINA**_:_  
+**"MARS… I—"**
 
-*Katherina falls - she falls further than she's ever fallen before. Not in love… but in altitude. She's dropping to the ground.*
+_(The moment the name passes her lips, the spell snaps.)_
 
-_**MARS** catches her._
+_Katherina:_  
+—NO—
 
-**"I'M SORRY. I'M SORRY. I'M SO SORRY."**
+_(But it’s too late. She drops. Her body plummets, limp, through the sulfurous skies. Falling—not in love, but back to earth. Into ruin.)_
 
-*Katherina turns pale. Her eyes, empty. Her Venusian soul-essence is returning to the cursed ground she was made of.*
+_**MARS**_: (ascending, regaining form):  
+**I'M SORRY. I'M SORRY. I'M SO SORRY.**
 
-**"MY LITTLE SUN. I NEVER MEANT FOR THIS TO HAPPEN. I JUST CAN'T… I CAN'T BELIEVE I ALLOWED THIS TO HAPPEN…"**
+_(He catches her gently. Her skin pales. Her hair drains of color. Her eyes go hollow. Her essence returns to Venus—the place of her making, and of her unmaking.)_
 
-_**MARS** strokes her shriveling, now-white hair._
+_**MARS**_: (stroking her hair):  
+**MY LITTLE SUN.** 
+**I NEVER MEANT FOR THIS TO HAPPEN.** 
+**I JUST…**
+**I CAN'T BELIEVE I ALLLOWED THIS TO HAPPEN.**
 
-**"VENUS IS DEAD."**
+_(He lowers her down—into the dirt.)_
 
-**"I NAME YOU VENUS."**
-
+_**MARS**_: (whispering):  
+**"VENUS IS DEAD."**  
+**"I NAME YOU VENUS."**  
 **"LONG LIVE VENUS."**
 
-*And **VENUS** would be once more.*
+_(And **VENUS** would be once more.)_

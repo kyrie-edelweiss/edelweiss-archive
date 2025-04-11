@@ -7,35 +7,86 @@ sidebar:
 ---
 # Period: Present Day … Year: 1984 … Location: Venus
 
-Katherina was laid upon her bed, half-dreaming, after voraciously consuming the latest find that she'd tossed in the Venusian literature pile…
+Katherina lay draped across her narrow bed, limbs slack, eyes fluttering beneath pale lids—half-sunken in sleep, half-hungering still. She had devoured another text from the Venusian archive, a brittle book bound in leather-soft skin, its pages soaked in language that shimmered like oil under her flickering phosphorus light. She’d read it cover to cover, mouth parted in trance, and tossed it into the growing pile beside her—*The Liturgies of the Fleshbound Womb*, or something like that.
 
-'Til in the corner of her half-lucid eye, a massive shadow creeped on her thigh… then to her chest… then this shadow would envelop her.
+The air around her pulsed with faint heat. Her mind flickered between dream and waking.
 
-The crackle of thunder in the sky would stop, and the thick fume of air would stand still, and behind her half-sleeping body, beyond the corner of her window, would stand still the gaze of **MARS** himself.
+Then, in the corner of her softening sight—*a shadow.*
 
-Shudders of fear would grip her mind, as her eyes met the red planet, which got closer and closer to her, and her dreams would run away, and she'd start to awake, and she'd reach for the knife in the bedside table…
+First upon her thigh. Then sliding upward across her ribs, to her chest, like a hand made not of matter but *pressure.* The room dimmed further, and the breath in her lungs felt thick with iron. The shadow moved—not quickly, not violently—but *deliberately*, with the certainty of something that had been waiting far too long.
 
-A voice echoes across the room – no, across Venus itself:
+The thunder that once rumbled in the high sky fell silent.
+
+Even the low, constant hum of Venus's acidic winds held its breath.
+
+And in the stillness—beyond the glass of her narrow window, past the ragged clouds of sulfur and rain—stood something massive.
+
+It did not blink. It did not move.  
+But it *watched.*
+
+**MARS.**  
+The **RED KING**.
+
+And Katherina, paralyzed in that dim room, felt her thoughts collapse like ash. Her skin turned to glass. Her blood grew cold. She tried to scream, to call out, but only breath escaped—wet and useless.
+
+Her hand reached for the knife in the bedside drawer—a rusted little thing, barely sharper than a spoon—but even that small act felt impossible beneath that *gaze.*
+
+And then—like thunder cracking across her bones—a voice:
 
 **"LITTLE GIRL."**
 
-Katherina screamed like a banshee. The sound pierced her, it was overwhelming her, it was so, so, so loud... the bedframe would rattle…
+It did not echo through the room.
 
-The same voice continues:
+It echoed through Venus.
 
-**"YOU RUN TOO FAR IN THE DARK AND YOU GET YOURSELF LOST."**
+Through the soil. Through the metal. Through the marrow of her bones.
 
-She takes a good look – she's not in any dream no more, this is as real as it gets. Her pleading was finally answered, but not by whom she expected to answer. This was **MARS**, the full **MARS**, the fourth planet from the **SUN**.
+Katherina shrieked—a sound ragged and primal, torn from the darkest place inside her. The bedframe shook beneath her, groaning like it too feared what had come.
 
-Then the **RED KING** would reassure her, more quiet this time:
+And again, the voice:
 
-**"CALM DOWN. I AM WHOLE. I CAN MAKE YOU WHOLE."**
+**"YOU RUN TOO FAR IN THE DARK…  
+AND YOU GET YOURSELF LOST."**
 
-She opens her mouth…
+Something changed. The dream peeled back. This was not a vision. This was not fantasy or delusion or fever-born madness. This was *now.* This was *real.*
 
-She starts telling him how alone she'd been, and how there's no one left, and how she'd searched everywhere, and how she stockpiled her rations into boxes upon boxes of the stuff, and how she doesn't even know if she has a mother or a father, and that she can't remember her childhood and finally she tells him that her name is Katherina.
+Her pleading had been answered—not by the star-eyed mothers, not by the Watchers, not by Venus, but by **MARS.**
 
-This noise would no longer rattle her entire home. And it'd start to no longer rattle her soul:
+And he had come in *full.*
 
-**"WHAT A BEAUTIFUL NAME, LITTLE GIRL."**
+The silence thickened. Her chest heaved. The lightbars flickered and dimmed, flickered and died.
 
+And then, softer this time. Like fire warming cold hands:
+
+**"CALM DOWN. I AM WHOLE.  
+I CAN MAKE YOU WHOLE."**
+
+Katherina opened her mouth. She did not scream.
+
+She *spoke* to him.
+
+She told him how alone she was. How long she had wandered. How there were no voices left. How she had searched every place, every spot, every echo. How her memories were slipping from her. How she stockpiled rations into boxes and boxes of the stuff. How she no longer remembered the faces of her mothers, or if they had ever loved her, or if they were even real. And how her name is *Katherina*.
+
+She told him how she had waited.
+
+And waited.
+
+And *waited.*
+
+The voice no longer rattled her teeth. The bed no longer trembled.
+
+Something inside her soul — *something frayed and near-broken* — stilled.
+
+And then:
+
+**"WHAT A BEAUTIFUL NAME."**
+
+No one had told her anything like that in so long. Not the stars. Not the transmission beacons she activated every year.
+
+And now here he was.
+
+Something ancient. Something opposite.
+
+But not cruel.
+
+Not yet.

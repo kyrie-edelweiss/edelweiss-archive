@@ -5,38 +5,124 @@ permalink: /red-king-red-chariot/
 sidebar:
   nav: "king"
 ---
-# Period: ?????? … Year: ?????? … Location: ??????
+## Period: ?????? … Year: ?????? … Location: ??????
 
-_**NEPTUNE**, the **APEX OF JUDGEMENT** would seal my fate – execution._
+**NEPTUNE**, the **APEX OF JUDGEMENT**, was silent as they passed sentence.  
 
-*I'm guilty for what I've done to Katherina.*
+No jury. No deliberation.  
+Only law, ancient and cold, drawn from the marrow of worlds older than time.
 
-*I alone was supposed to pay the toll.*
+I was sentenced to execution.  
+Not death—no. That would be a kindness.  
 
-*However.*
+An **unmaking**.  
 
-*I was not alone in all I did.*
+And I deserve it.  
+I know what I did.  
+What I did to Katherina.  
 
-*There is something out there. Something way past the **SUN**, way past the reaches of this **GALAXY**.*
+*I was meant to protect her.*  
+*Instead, I shaped her suffering like clay.*
 
-_The **DEMIURGE**, the **FOOL**._
+I alone was supposed to pay the toll.  
+I alone was the traitor.
 
-_**SATURN**, the **DARK HIEROPHANT**, was wise beyond my years. She'd understand. I pleaded to her during the trial. In exchange for postponing my inevitable execution, I'd give them all the death of this **DEMIURGE**. I'd make it pay, I'd find the root of the cosmic evil and I'd erase it forever…_
+**But I was not alone in all I did.**
 
-*The plans went into motion.*
+---
 
-*The **SUN** would discipline me with his 35,000,000 whips for an untold time so I would never lie again.*
+There’s something past the **SUN**, past the pull of the outermost moons, past even the lies this galaxy tells itself to sleep at night.  
 
-_**URANUS**, the **TOWER OF CALAMITY**, dilligently collected parts of her mantle and fused them with souls her soldiers collected over the years, coalescing them into my otherwordly carbon shell – it would offer both physical and spiritual protection. Then, **MERCURY**, with his **UNMATCHED STRENGTH**, would spend years dividing his magmatic core to forge a bullethead capable of splitting stars in two – equipped with a kill-switch in the likelihood I defect. Encased in my custom shell of death, I never felt more ready._
+A creature that laughs at entropy.  
+A howling wound in the veil.  
 
-_Finally, **JUPITER**, the **WORLD SEEKER**, armed me with the knowledge to transcend the barrier of light-speed – the simple celestial slingshot. I closely enter the orbit of the **SUN**, spin around three times. I gain speed with each passing rotation. Then another nine times. Twenty-seven. Eighty-one. And by the time I reach two-hundred fourty-three…_
+The **DEMIURGE.**  
+The **FOOL.**  
+The origin of corruption. The engine of inversion.
 
-*I break out of my gravitational prison.*
+---
 
-*I barrel through the inky expanse of space at 300,000,000 meters a second.*
+**SATURN**, the **DARK HIEROPHANT**, listened with the eyes of a grave. She is older than my violence. Wiser than my wrath. I begged her.  
 
-*As my hatred simmers and burns in me, I become faster, lighter. My armor will eventually break, but my resolve not.*
+Let me atone.  
+Let me chase it.  
+Let me hunt the thing behind the mirror of creation.
 
-_The **FOOL** will pay for everything – every wrongdoing ever done, be it celestial or terrestrial. No matter how many milennia it'll take._
+And in exchange for postponing my unmaking—  
+—I would erase it.
 
-_My crusade is righteous, my cause just. I burn with the lost souls of billions. I am the last hope of a dying world. The **RED CHARIOT**._
+---
+
+She agreed.
+
+The plans went into motion.
+
+---
+
+**THE SUN**, lashed me with 35 million whips of light.  
+I screamed until I could not speak falsehood again.  
+Truth becamee the only tongue I'd speak.
+
+**URANUS**, the **TOWER OF CALAMITY**, illigently collected parts of her mantle and fused them with souls her soldiers collected over the years. With precision only ruin understands, she forged me a **shell**—half armor, half soul-cage.  
+
+An exosuit made of grief.  
+Haunted carbon.  
+
+It breathes with me now.  
+It weeps when I sleep.
+
+**MERCURY**, with his **UNMATCHED STRENGTH**, forged the point:  
+A bullethead, blacker than a singularity.  
+
+A god-killer.  
+
+He made sure it would kill me too, should I stray again.
+
+Then **JUPITER**, the **WORLD SEEKER**, armed me with the knowledge to transcend the barrier of light-speed. 
+
+*The simple celestial slingshot.* 
+
+I closely enter the orbit of the **SUN**, spin around three times. I gain speed with each passing rotation. Then another nine times. Twenty-seven. Eighty-one. And by the time I reach two-hundred fourty-three…_
+
+I break out of the clutches of the solar system.
+
+---
+
+My chains broke at 300 million meters per second.
+
+Faster than cause.  
+
+Beyond consequence.
+
+I am no longer matter.  
+
+I am *momentum*.
+
+---
+
+My armor will peel.  
+My flesh will cook.  
+My spirit will wear thin like cloth.  
+
+But I will not stop.
+
+---
+
+The **FOOL** waits, tucked somewhere behind a nebula of broken prayers.  
+It laughs like the first scream of a child.  
+It dreams in equations that rot civilizations.  
+It is the lie beneath every act of love, every promise, every god.
+
+And I will annihilate it.
+
+---
+
+This is my punishment.  
+
+This is my penance.  
+
+This is my purpose.  
+
+My crusade is righteous, my cause just. I burn with the lost souls of billions. I am the last hope of a dying world. 
+
+I am the **RED CHARIOT**.

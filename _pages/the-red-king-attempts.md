@@ -7,7 +7,17 @@ sidebar:
 ---
 # Period: 29 Years Ago … Year: 1959 … Location: Earth
 
-Sarah "Sam" Ackermann, a hobby researcher from the former Earth province of Germany, is neck deep in debt to the wrong people. The space colonization efforts were just starting in this period. Hoping she could create an ultra-durable material capable of assisting in colonization of the toughest environments, she gets to work in search of her future patent. These are a few of her test logs.
+Sarah “Sam” Ackermann was already dead in the eyes of the banks, the universities, and the law. All that remained was her body—burning itself out in the cold glow of the home she couldn’t afford, chasing an idea no one believed in.
+
+Germany, her home, was a province only in name now. A rusted remnant swallowed by economic collapse and environmental ruin. The surface was unlivable in places. The rich fled to the corporate colonies above the clouds, while the rest were left to rot below.
+
+The colonization efforts had just begun. Humanity was vomiting itself into space, desperate to outrun its own extinction. Harsh worlds like **VENUS** and **MARS** promised salvation—but only for those who could fork over the cash.
+
+Sarah believed she could make something that'd revolutionize the colonization efforts, and pay off her debts: an ultra-durable material, something that could withstand extremes no normal material ever could.
+
+Each log she wrote was part experiment, part confession—proof she was still trying, still fighting, even as the debts closed in.
+
+These are some of those logs.
 
 > **ID:** 0003
 > **Forscherin:** Sarah "Sam" Ackermann
