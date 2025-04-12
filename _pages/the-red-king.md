@@ -780,7 +780,7 @@ This could not be kept up any longer.
 
 > **[LAUGHTER – MULTIPLE WOMEN, DISTORTED]**
 
-> *"There was a girl in our complex. She'd tuck her hair under the helmet, and we’d pass her the ration powder first like she was a captain. One time she traded an entire night's sleep for three hormone capsules smuggled in through Callisto. I never asked how she knew which guards were stupid."*
+> *"There was a girl in our complex. She'd always tuck her hair in a ponytail, and we’d pass her the ration powder first like she was a captain. One time she traded an entire night's sleep for three hormone capsules smuggled in through Callisto. I never asked how she knew which guards were stupid."*
 
 > *"...She didn’t talk about who she was. She didn’t have to. She walked like someone who had survived every kind of 'no.'"*
 
