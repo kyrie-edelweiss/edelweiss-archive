@@ -380,7 +380,7 @@ But not cruel.
 [10:44] – Executive Brennick files “Special Interest Request” for V-55-T  
 [10:45] – Officer Delvane flags asset as “Libido Drift + Emotional Volatility”  
 [10:47] – Funds transferred to Delvane’s discretionary maintenance account  
-[10:56] – V-55-T removed from compliance labor and reassigned to “Divergent Correctional Intimacy (Private)”  
+[10:56] – V-55-T removed from compliance labor and reassigned to “Correctional Intimacy (Private)”  
 [11:20] – Officer signs revised ownership transfer under Clause 7: “Performance Incentives”
 
 FLAG:  
