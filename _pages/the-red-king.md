@@ -1184,63 +1184,63 @@ Neither man acknowledges it.
 
 *(Footsteps in dust. Wind blows faintly. Cam shakes as boots crunch over cracked cement. All three officers are on approach: weapons slung low, helmets off. The motel looms ahead—tall, crooked, bleeding rust.)*
 
-**MIKE**
+**MIKE**:
 There she is.
 The pride of the pre-revolution tourism industry. Fuckin’ two stars, maybe.
 
-**TANGO**
+**TANGO**:
 Generous. You can smell the rot from here.
 
-**ZETA**
+**ZETA**:
 Focus.
 
 (The camera pans over the building—two floors visible, but the silhouette is wrong. Windows are either boarded or melted inward.)
 
-**ZETA (reading tablet)**
+**ZETA (reading tablet)**:
 Registry lists it as decommissioned twenty years ago.
 Signal pings from two missing contractors came from inside, though.
 
-**TANGO**
-Let's take bets-dead or hostages?
+**TANGO**:
+Let's take bets—dead or hostages?
 
-**MIKE**
+**MIKE**:
 Dead. Deady-dead-dead dead.
 
-**ZETA**
+**ZETA**:
 Hostages.
 
 (ZETA walks closer, eyes scanning the entry.)
 
-**TANGO (squinting)**
+**TANGO (squinting)**:
 Hold up. You see that?
 
-*(Tango points up. The camera pans: the windows on the second floor are bricked from the inside—uneven, like done by hand. The door is slightly ajar, but warped inward at the hinge, like something forced its way out.)
+(Tango points forward. The door is slightly ajar, but warped inward at the hinge, like something forced its way out.)
 
-**ZETA**
+**ZETA**:
 Structural integrity’s shot. Keep eyes on me. Helmets on.
 
-**MIKE (quietly)**
+**MIKE (quietly)**:
 Why’s the door already open?
 
-**TANGO**
+**TANGO**:
 They knew we were coming.
 
 (Beat. Silence. Wind shifts.)
 
-**ZETA**
+**ZETA**:
 Weapons check. We breach on my mark.
 
 *(Zeta straps his boots tighter.)*
 
-**MIKE**
+**MIKE**:
 You ever get the feeling someone's watching you?
 
-TANGO:
+**TANGO**:
 No.
 
 *(Pause.)*
 
-**TANGO (softer)**
+**TANGO (softer)**:
 But I do now.
 
 ---
@@ -1255,76 +1255,76 @@ But I do now.
 
 *(Door hinges creak. The metal doesn’t resist—it swings inward with the slow exhale of a deep breath. The interior is darker than expected. The camera auto-corrects exposure. The air immediately registers several degrees warmer.)*
 
-**ZETA (flat)**  
+**ZETA (flat)**:  
 VAP 33-102. Entry point breached.  
 Natural light waning. Flashlights on.
 
 *(Flashlights snap on with soft mechanical clicks. The beams sweep across a trashed lobby. Furniture is overturned, decomposing. A reception desk sags in on itself. Wallpaper is peeling in wide, vertical strips. Godrays through the boarded windows.)*
 
-**MIKE**  
+**MIKE**:  
 Okay… this is worse than I expected.
 
-**TANGO**  
+**TANGO**:  
 You expected better?
 
-**MIKE (gesturing)**  
+**MIKE (gesturing)**:  
 I mean look at it. That used to be a couch. Now it’s mulch.
 
-**ZETA**  
+**ZETA**:  
 Focus. Signs of habitation—anything recent?
 
 *(TANGO moves toward the desk. His cam picks up a broken landline, stained not with dust, but with something *damp*. There are no footprints on the floor, just odd drag patterns. Something was moved. Or pulled.)*
 
-**TANGO**
+**TANGO**:
 This place smells like old copper and vinegar.
 
-**MIKE:**  
+**MIKE:**:  
 I can hear the ocean.
 
-**ZETA (snaps)**  
+**ZETA (snaps)**:  
 There’s no ocean nearby.  
 Block that noise out. Stay sharp.
 
-**TANGO (low)**  
+**TANGO (low)**:  
 He’s not wrong. It’s faint... but it’s there. Rolling tide. Coming from below us?
 
 *(Silence falls. The only sound is distant, rhythmic. Not wind. Not pipes. Not footsteps. But a low **pulling sound**, as if something massive were breathing through layers of walls.)*
 
 ---
 
-**ZETA:**  
+**ZETA**:  
 Reception’s clear.
 
-**TANGO:**
+**TANGO**:
 Split and sweep the side halls. Call out what you find.
 
 *(The squad moves. Zeta veers right. Mike takes left. Tango holds centerline. Their lights cut through air thick with invisible moisture. Each beam reveals *no mirrors.* Even where frame outlines remain on the wall—nothing reflective. Nothing watching back.)*
 
 ---
 
-**MIKE (softly, to himself)**  
+**MIKE (softly, to himself)**:  
 Why seal off the whole place?
 
-**MIKE (O.S.)**  
+**MIKE**:  
 I’ve got two doors—both locked. This hallway’s a dead end.
 
-**TANGO (O.S.)**  
+**TANGO**:  
 Same. One partially open. No sound. Doesn’t look disturbed.
 
-**ZETA**  
+**ZETA**:  
 Lobby level is clear. Proceeding to stairwell.
 
 ---
 
-*(ZETA moves ahead. The camera catches one final shot of the lobby—just before they pass into the stairwell: the corner of a painting. Water-damaged, streaked in red. The image is smeared, but some of it remains visible. A **man**. Kneeling. Arms raised. Eyes gone. The title plate beneath it is unreadable.)*
+*(Zeta moves ahead. The camera catches one final shot of the lobby—just before they pass into the stairwell: the corner of a painting. Water-damaged, streaked in red. The image is smeared, but some of it remains visible. A **man**. Kneeling. Arms raised. Eyes gone. The title plate beneath it is unreadable.)*
 
-**TANGO (staring)**  
+**TANGO (staring)**:  
 You seeing this?
 
-**ZETA**  
+**ZETA**:  
 Ignore it.
 
-**MIKE**  
+**MIKE**:  
 What the hell kind of motel hangs that in the lobby?
 
 *(No response. They move toward the stairwell. The sound of the ocean fades—not disappearing, but **receding**. Like it's waiting for them on another floor.)*
@@ -1339,13 +1339,13 @@ What the hell kind of motel hangs that in the lobby?
 
 *(Heavy door creaks open. Flashlights cut through dust-laced dark. The stairwell is narrow, ribbed with old pipes and condensation. The walls sweat. Paint bubbles in long, oozing strips.)*
 
-**ZETA:**  
+**ZETA**:  
 Stairwell entry confirmed.
 
-**MIKE (quiet):**  
+**MIKE (quiet)**:  
 You smell that? It’s different in here.
 
-**TANGO:**  
+**TANGO:**:  
 Yeah. Like boiled metal and damp cloth.  
 Same as morgues back on **SATURN.**
 
@@ -1353,99 +1353,93 @@ Same as morgues back on **SATURN.**
 
 *(They begin climbing. The steps are slick in places—worn through concrete, not metal. One groans under Mike’s weight. Flashlights wobble on the walls—revealing stains that look like old boot scuffs. Or claw marks. It’s hard to tell.)*
 
-**ZETA:**  
+**ZETA**:  
 Count your steps.
 
-**TANGO:**  
+**TANGO**:  
 Why?
 
-**ZETA:**  
+**ZETA**:  
 If you feel like we’ve gone farther than we should have, I want numbers to prove it.
 
-**MIKE (after a beat):**  
+**MIKE (after a beat)**:  
 Thirteen... fourteen... fifteen... wait—
 
-**TANGO:**  
+**TANGO**:  
 We passed the second floor already.
 
-**MIKE:**  
+**MIKE**:  
 There wasn’t a door.
 
 ---
 
 *(They stop. The landing is blank. No signage. No hallway access. Just more stairs. The lighting fades to a dull, wet amber. A subtle hum now permeates the air—a low vibration, like the sound of an engine.)*
 
-**TANGO:**  
+**TANGO**:  
 You feel that?
 
-**ZETA:**  
+**ZETA**:  
 I feel it.
 
-**TANGO:**  
-Like it’s watching us climb.
+**TANGO**:  
+Like someone's watching us climb.
 
 ---
 
 *(The next landing finally appears—barely different from the last. No signage. Just a wall where a hallway should be. A single light buzzes overhead, dimming every time someone passes beneath.)*
 
-**ZETA:**  
+**ZETA**:  
 Altitude indicator says we’ve climbed 8 meters. That’s three floors’ worth.
 
-**MIKE:**  
+**MIKE**:  
 We’ve only seen **one** floor.
 
-**TANGO:**  
+**TANGO**:  
 So where are the others?
 
 *(Pause.)*
 
 ---
 
-**22:46:12 – INTERIOR ANOMALY FLAGGED**
-
-> ***CAM NOTE: Light refraction data inconsistent with building schematic. Internal elevation exceeds external profile.***
-
----
-
-**TANGO:**  
+**TANGO**:  
 We’re continuing. No backtracking.
 
-**ZETA:**  
+**ZETA**:  
 This place doesn’t have floors—it has **layers**.
 
-**MIKE:**  
+**MIKE**:  
 Yeah? What kind of layers?
 
-**TANGO (grim):**  
-Like the layers of hell.
+**TANGO (grim, somewhat sarcastic)**:  
+Infernal.
 
 ---
 
 *(They pass another landing. The stairwell curves sharper now, like the building’s coiling around them. Shadows deepen. Light sources dwindle. The handrails are damp to the touch—slightly sticky.)*
 
-**MIKE (uneasy):**  
+**MIKE (uneasy)**:  
 How many more?
 
-**ZETA:**  
+**ZETA**:  
 Until we find them.
 
-**TANGO:**  
+**TANGO**:  
 Or they find us.
 
 ---
 
-*(They reach a landing with a partially open door. No markings. Just heat spilling from within.  
-A hum behind the walls. The sound of **tide**. Not imagined. Not distant.)*
+_(They reach a landing with a partially open door. No markings. Just heat spilling from within.  
+A hum behind the walls. The sound of **tide**. Not imagined. Not distant.)_
 
 ---
 
-**ZETA (quiet):**  
+**ZETA (quiet)**:  
 We’re here.
 
-**MIKE:**  
+**MIKE**:  
 This isn’t Floor 2, is it?
 
-**TANGO:**  
+**TANGO**:  
 No.  
 This is **Floor 6**.
 
@@ -1458,96 +1452,79 @@ This is **Floor 6**.
 
 ---
 
-*(The door creaks as ZETA opens it. The hallway beyond is long, unlit. Their flashlights cut into amber haze. The corridor has no windows, no signs, and no visible end at first. Only silence.)*
+*(The door creaks as Zeta opens it. The hallway beyond is long, unlit. Their flashlights cut into amber haze. The corridor has no windows, no signs, and no visible end at first. Only silence.)*
 
-**ZETA:**  
+**ZETA**:  
 Floor 6 confirmed. Proceeding east.  
 Eyes sharp. Weapons tight.
 
-**MIKE (low):**  
-Where the hell is the light?
-
-**TANGO:**  
-Same place the mirrors went.
+**MIKE (low)**:  
+Where the hell is my flashlight?
 
 ---
 
 *(They step in. The hallway is too wide for a building this size. The walls are slightly bowed—curved inward like ribs. Floor tiles are damp. Stained.)*
 
-**ZETA (scanning):**  
+**ZETA (scanning)**:  
 Four doors. Two left. Two right.  
 One at the end.
 
 *(They pause. All the doors are unmarked. Frames are warped—some bloated with moisture, others thinned like something pushed hard against them for years.)*
 
-**TANGO (noting quietly):**  
+**TANGO (noting quietly)**:  
 You see this?
 
-*(TANGO gestures to the floor. Track marks. Scattered. Sharp turns. A pattern of dragging and circular pacing—no shoes.)*
+*(Tango gestures to the floor. Track marks. Scattered. Sharp turns. A pattern of dragging and circular pacing—no shoes.)*
 
-**MIKE:**  
+**MIKE**:  
 It’s like someone walked in circles… again and again.
 
-**ZETA:**  
+**ZETA**:  
 We focus on the end door. Sweep and extract.
-
----
-
-*(As they move, a faint sound begins in the feed: **waves**, slow and deep, muffled like from behind the walls. None of them comment on it yet. None are sure it’s real.)*
-
-**MIKE (voice slightly shaking):**  
-I thought this building didn’t have six floors.
-
-**TANGO:**  
-It didn’t. Not until we needed to find this.
 
 ---
 
 *(They pass the side doors. No doorknobs. Just sealed seams in rusted frames. Zeta’s light catches something on one of the walls—an old mark. Scratched deep. A spiral. Repeated over itself until the wall gave way beneath the pressure.)*
 
-**ZETA:**  
+**ZETA**:  
 Spiral sigil. Venusian origin. Ritual-grade.  
 Somebody carved this with intention.
 
-**MIKE:**  
+**MIKE**:  
 This was never just a motel.
 
-**TANGO (quiet):**  
-No. It was a **womb**.
+---
 
-*(The hum increases as they approach the far door. It’s larger than the others. It doesn’t fit the frame. Looks newer—but not cleaner. Like something rebuilt it *from the inside*.)*
+*(A hum increases as they approach the far door. It’s larger than the others. It doesn’t fit the frame. Looks newer—but not cleaner. Like something rebuilt it *from the inside*.)*
 
-**TANGO:**  
-It’s breathing.
-
-**ZETA**
+**ZETA**:
 Something was pushing from inside. It's been sealed off. Nothing in, or out.
 
-**TANGO**
+**TANGO**:
 Stack up.
 
-**MIKE**
+**MIKE**:
 Tango—
 
-**TANGO**
+**TANGO**:
 We breach it. Now.
 
 *(They position themselves around the door—standard breach posture. The camera shakes slightly from Tango’s pulse. The wall next to the door is moist to the touch.)*
 
-**MIKE**
+**MIKE**:
 I've got a bad feeling, boss.
 
-**ZETA**
+**ZETA**:
 You’re not alone.
 
 ---
 
 *(The humming stops.  
 Complete silence.  
-For just a second—so complete it feels like pressure.  
+For just a second—so complete it feels like cascading pressure.  
 Then—)*
 
-**TANGO (cold):**  
+**TANGO (cold)**:  
 On my mark.
 
 ---
@@ -1597,7 +1574,7 @@ Three.
 
 ### **FRAME 0007**  
 **[Visual]**: Tango's leg kicks. Door swings inward—no resistance. No creak. No impact. It glides open like paper.  
-**[Audio]**: Screeching spike—origin unknown. Not from subject. Not from team.  
+**[Audio]**: Screeching spike—origin unknown. Not from team.  
 **[System]**: BDYREC flags this frame with:  
 > ***"MOTION DETECTED… FRONT / LEFT / RIGHT / TOP / BOTTOM / BEHIND…"***
 
@@ -1623,10 +1600,10 @@ Only central figure remains stable: **the girl**.
 ---
 
 ### **FRAME 0014**  
-**[MIKE]:**  
+**[MIKE]**:  
 She’s alive—holy shit—she’s alive!
 
-**[TANGO]:**  
+**[TANGO]**:  
 Ma’am, we’re with the VAP. We’re here to help you. Do you hear me?
 
 **[ZETA]:**  
@@ -1638,7 +1615,7 @@ Tango—approach slow. Restraints first.
 **[Visual]**: TANGO steps closer. Camera jitter increases.  
 Flashlight catches damp surface on bed. Looks like sweat or condensation.  
 Subject’s screaming doesn’t change tone. Continuous. Almost **mechanical**.  
-**[TANGO]:**  
+**[TANGO]**:  
 You’re safe. You’re safe. It’s over.
 
 ---
@@ -1672,10 +1649,10 @@ Her lips move. No sound.
 **[Visual]**: Straps begin to fray—slowly, like dissolving fiber. No one cuts them.  
 Subject lifts arms. Does not struggle. Walks only when pulled. Head tilted.
 
-**[TANGO]:**  
+**[TANGO]**:  
 We’re leaving. Zeta?
 
-**[ZETA]:**  
+**[ZETA]**:  
 Move. Now.
 
 ---
@@ -1699,21 +1676,21 @@ Room temperature drops 6°C in 4 seconds.
 
 *(Boots on tile. Harsh breathing. The girl is silent now, being carried between Tango and Zeta. Mike leads, weapon drawn. Lights dim.)*
 
-**MIKE**
+**MIKE**:
 We’re clear. Let’s move. Fast.
 
-**TANGO**
+**TANGO**:
 Got her. Her legs aren’t responding—like she’s… disconnected.
 
-**ZETA**
+**ZETA**:
 Focus on the extraction. Don't talk out of place.
 
 *(They reach the stairwell. Mike leads the way, more hardened now. He swings the door open. For a moment, there’s only darkness.)*
 
-**MIKE (hesitating)**
+**MIKE (hesitating)**:
 ...Wait. We didn’t climb this many floors.
 
-**TANGO (whispers)**
+**TANGO (whispers)**:
 No... we only came up two.
 
 *(They begin descending. Floor by floor. The numbers etched into the concrete are scratched, smeared, distorted—as if the building is trying to forget its own structure.)*
@@ -1921,11 +1898,11 @@ The plans went into motion.
 
 ---
 
-**THE SUN**, lashed me with 35 million whips of light.  
+**THE SUN** lashed me with 35 million whips of light.  
 I screamed until I could not speak falsehood again.  
-Truth becamee the only tongue I'd speak.
+Truth became the only tongue I'd speak.
 
-**URANUS**, the **TOWER OF CALAMITY**, illigently collected parts of her mantle and fused them with souls her soldiers collected over the years. With precision only ruin understands, she forged me a **shell**—half armor, half soul-cage.  
+**URANUS**, the **TOWER OF CALAMITY**, dilligently collected parts of her mantle and fused them with souls her soldiers collected over the years. With precision only ruin understands, she forged me a **shell**—half armor, half soul-cage.  
 
 An exosuit made of grief.  
 Haunted carbon.  
@@ -2006,13 +1983,9 @@ Now, one of them—**VENUS**—glows blood-red. It pulses, silently mocking the 
 > **EDELWEISS:**  
 > “Hello, citizens This is Avery-Mary Edelweiss… former chief executive officer… Neptune quadrant.”
 
-Her voice is thin. She speaks like a woman unraveling from the inside.
+Her voice is thin. She speaks like she's unraveling from the inside.
 
 > “As of this morning, all neo-industry outposts on Mercury… all orbital research stations across the Jovian moons… all Uranian contractor training… have been formally collapsed.”
-
-She pauses. A tremor.
-
-> “The Pillar has fallen. Callisto’s power grid is gone. The sexual compliance camps… no longer report.”
 
 She glances to the side.
 
