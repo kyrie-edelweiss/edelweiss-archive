@@ -1937,7 +1937,7 @@ Frost still clung to the glass of the old stasis tanks, curling like silver vein
 
 Mira sits cross-legged on the clean section of the floor, lab coat peeled halfway off. She’s angular, hollow-eyed, sharp as a scalpel left in ice. Her fingers wrap around a cracked ceramic cup. She stares into the tea.
 
-They’d repurposed an IV rack into a clothesline. The oxygen tanks stored food now—mostly freeze-dried Venusian nutrient packs, smuggled in past Europa patrols. One corner of the lab held their makeshift transmitter, cannibalized from a severed communication relay.
+They’d repurposed an IV rack into a clothesline. The oxygen tanks stored food now—mostly freeze-dried SPA nutrient packs, smuggled in past Europa patrols. One corner of the lab held their makeshift transmitter, cannibalized from a severed communication relay.
 
 A singular cryopod buzzed with reappropriated power, jury-rigged into a low-watt heat source. Its original label—**PROPERTY OF JUPITER CRYO-FCLTY 9**—was painted over.
 
