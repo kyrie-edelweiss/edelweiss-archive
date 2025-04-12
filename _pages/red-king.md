@@ -5,7 +5,7 @@ header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king/
 ---
----
+
 # Chapter One - The Severed Womb
 **Period: 15 Years Ago … Year: 1969 … Location: VENUS**  
 
