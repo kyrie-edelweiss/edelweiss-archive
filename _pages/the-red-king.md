@@ -800,14 +800,14 @@ This could not be kept up any longer.
 
 > _"After her, it stopped being about escape. It started being about inheritance. About building something **they couldn’t flatten.**"_
 
-> *"They caught her in 1965. Stripped her in front of the wall she wired. Said she was ‘trying to corrupt the servile system.’ But I remember this—she smiled. Even with her jaw busted open. Smiled like she’d already made it out."*
+> *"They caught her in 1948. Stripped her in front of the wall she wired. Said she was ‘trying to corrupt the servile system.’ But I remember this—she smiled. Even with her jaw busted open. Smiled like she’d already made it out."*
 
 > **[VOICE CRACKLES BACK IN – NEW SPEAKER, YOUNG, BREATHLESS]**  
 > *"She didn’t just smuggle tapes. She smuggled the idea that we could have voices. She left holes in the walls where we could plant them."*
 
 > _"...I don’t remember her real name. But we called her *Flicker.*"_  
 
-> *"And every time a VAP unit’s comms cut out mid-sweep? Every time a door looks and feels a little wrong? Every time a girl disappears for three nights and comes back with something in her eyes?"*
+> *"And every time they'd raid our dorms for contraband, and come back empty-handed to their superiors? Every time they'd drop dead, and the company would file it as 'sudden heart failure'? Every time a girl disappears for three nights and comes back with something in her eyes?"*
 
 > *"That’s Flick."*
 
