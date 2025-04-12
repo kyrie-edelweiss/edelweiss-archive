@@ -2101,7 +2101,7 @@ A presence at rest beside them.
 ---
 
 **IVY** (fingers still in Alva’s hair):  
-"Do you think anyone copied over the doctrine we'd uploaded for those two minutes?"
+"Do you think they got the signal— copied over all that raw material we'd uploaded?"
 
 **MIRA**:  
 "The broadcast reached all of Ganymede and Io.  
