@@ -619,13 +619,15 @@ The worst part was the suspicion. **MARS** had to be hiding something. Behind al
 This could not be kept up any longer.
 
 # Chapter Eight: Rememberance Records
+**Period: 15 Years Ago … Year: 1969 … Location: VENUS** 
+
 ## Transcript – Archive Clip 047
 > **[VOICE – FEMALE, MID-30s, SMOKY ACCENT]**  
 > *"I used to iron their sheets. Every morning, before shift. You could still smell the oil from the drills when you held the corners. They said that was charm. Said that was tradition."*
 
 > **[LAUGHTER – MULTIPLE WOMEN, DISTORTED]**
 
-> *"There was a girl in our barracks. She'd tuck her hair under the helmet, and we’d pass her the ration powder first like she was a captain. One time she traded an entire night's sleep for three hormone capsules smuggled in through Callisto. I never asked how she knew which guards were stupid."*
+> *"There was a girl in our complex. She'd tuck her hair under the helmet, and we’d pass her the ration powder first like she was a captain. One time she traded an entire night's sleep for three hormone capsules smuggled in through Callisto. I never asked how she knew which guards were stupid."*
 
 > *"...She didn’t talk about who she was. She didn’t have to. She walked like someone who had survived every kind of 'no.'"*
 
