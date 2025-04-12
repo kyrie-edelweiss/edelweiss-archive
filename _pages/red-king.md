@@ -1887,7 +1887,7 @@ Visual and audio logs recovered from Captain Jack "Tango" Miller's BDY-RECK have
    Subject has remained **nonverbal, nonresponsive** since return to NEPTUNE quarantine sector. However, neural telemetry indicates **high cortex activity** inconsistent with catatonia.
 
 3. **ENVIRONMENTAL FAILURE:**  
-   At the breach site (Floor 6), multiple instruments (audio filtration, motion vector readout, environmental mapping) suffered momentary failure. Acoustic input included **non-human frequency tones** and **waveform anomalies** resembling heartbeat patterns.
+   At the breach site (Floor 6), multiple instruments (audio filtration, motion vector readout, environmental mapping) suffered momentary failure. Acoustic input included **non-human frequency tones** and **waveform anomalies** resembling ocean-wave patterns, despite the area being unaffected by the *Blood Ocean Phenomenon*.
 
 4. **LANGUAGE MARKERS:**  
    Tango’s audio log captures whispered speech from the subject. Phonetic analysis inconclusive. One phrase appears to translate loosely into proto-Venusian dialect:
