@@ -1994,7 +1994,7 @@ Mira lingers behind as Alva taps a console, the skin of her knuckles taut.
 **SPA TECHNICIAN (yawning):**  
 "What about the girls?"
 
-Standing between Mira and the technician, Alva loves physically, wordlessly: a hand resting, a shoulder shielding, a body blocking a man’s gaze.  
+Standing between Mira and the technician, Alva gestures, wordlessly: a hand resting, a shoulder shielding, a body blocking a man’s gaze.  
 She protects because she knows what it feels like to be unprotected.
 
 **ALVA (same tone, confidently):**  
