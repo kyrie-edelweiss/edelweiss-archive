@@ -2317,12 +2317,10 @@ The redhead shrugs off her jacket. Beneath it, a lining of red threads stitched 
 
 The brunette—calm, practiced—leans into the camera, wiping the lens clean with her sleeve. She sets her submachine gun on the table with gentle finality. The feed sharpens again.
 
-The redhead turns to the lens. Only her eyes remain visible now beneath a veil of scarlet-colored hair.
+The redhead turns to the lens. Only her eyes remain visible now, her hair flowing into scarlet-colored strands.
 
 Her voice is low, steady, the kind that speaks *after* war—when there’s no need to shout.
 
-> **“This broadcast will repeat until every last SPA reactionary is found and shot.**  
->  
 > To the enforcers of the Seven Planet Authority: 
 >  
 > Your currency is worthless.  
@@ -2332,9 +2330,9 @@ Her voice is low, steady, the kind that speaks *after* war—when there’s no n
 > This is not a negotiation.  
 > This is correction.  
 >  
-> You were not overpowered.  
+> You were not sabotaged.  
 >  
-> **You were overwritten.**  
+> **You were overpowered.**  
 >  
 > Your time is over.”  
 
@@ -2342,32 +2340,41 @@ She pauses.
 
 Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 
-> “And to the Venusian women who were beaten, bruised and violated for their insubordination,  
-> To the daughters of Callisto who collaborated and built bomb schematics,  
-> To the wives of Saturn who silently prayed we'd succeed,  
-> To the Mercurian martyrs who cut off the arms supply,  
-> And their successors, who armed us to the teeth  
-> To the office-girls of Neptune who disseminated our pamphlets across the system,  
-> To the Uranian ghosts—yes, *you*—  
-> the ones who bound their breasts and buried their truth just to survive the Pillar…  
-> **we see you.**
+> “To the remaining survivors of **VENUS**, who saw the start of it all— 
+>  
+> To the new women of **MERCURY**, toiling in the neo-industries where history repeats—  
+>  
+> To the girls of **NEPTUNE**, their brainwaves copied and experimented on without their knowledge—   
+>  
+> To the daughters of **JUPITER**, chained in debt-slavery to build their reckoning programs—  
+>  
+> To the refugees of **SATURN**, who once thought themselves safe—  
+>  
+> To the ghosts of **URANUS**—yes, *you*—the ones who blend with the men in the Pillar, unseen—  
+>  
+> **—we see you.** 
 >  
 > You are not broken.  
 > You are not spies.  
 > You are not liabilities.  
 >  
 > You are our sisters.  
-> And we are not whole without you.  
->  
-> There is no reform.  
-> There is no compromise.  
-> There is no future under them.  
->  
-> There is only **reclamation.**  
+> And we are not whole without you. 
 >  
 > Burn the contracts.  
 > Shatter the nameplates.  
 > Come to us as you are: bleeding, vengeful, half-healed, still shaking.  
+>  
+> And all the women crammed into correction facilities on **VENUS**, who saw the truth and warned the rest— 
+>  The unnamed martyrs on **MERCURY**, the first to take action, cutting off their arms supply for so long— 
+>   The shrewd priestesses on **SATURN**, who sent batches of incense, candles, prayer and spell-books under loopholes in the contract— 
+>    The overworked paper-pushers on **NEPTUNE**, who still found time to disseminate our pamphlets— 
+>     The second generation of **MERCURY**, who armed us to teeth from workshops hidden in the mountains— 
+>      The brilliant women of **JUPITER** who mailed us thumbsticks of bomb schematics and sabotaged communication centers— 
+>       The silent angels of **URANUS**, who braved the Pillar and sacrificed everything to take it down— 
+>        The countless men who stood beside us, who never asked for anything in return— 
+>  
+> **—we love you.** 
 >  
 > If you are a woman—  
 > born in chains, born in silence, born *wrong*— 
@@ -2376,3 +2383,5 @@ Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 > **you are one of us.**”
 
 **[RECKONER LOOP ACTIVE – PLAYBACK CYCLE: INDEFINITE]**
+
+# THE END — THE RED KING
