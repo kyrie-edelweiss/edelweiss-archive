@@ -1755,7 +1755,7 @@ She’s freezing. But her skin’s wet. How does that even—
 ### **FRAME 0025**  
 **[Audio]**: Screaming **cuts out.**  
 Immediate silence.  
-Subject locks eyes with Tango. Camaera zoom auto-adjusts—focus sharpens.  
+Subject locks eyes with Tango. Camera zoom auto-adjusts—focus sharpens.  
 Her lips move. No sound.  
 
 ### **FRAME 0027**  
