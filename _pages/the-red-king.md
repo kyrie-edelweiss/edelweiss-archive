@@ -520,7 +520,7 @@ AUDIT NOTE:
 ### SMUDGED PERSONAL NOTE — JUNE  
 > *You spend so long being touched like a thing, you start to wish you weren’t in your skin at all.*  
 > *When he filed for me, I laughed inside. I really did. Like I was a desk lamp he bought at a clearance sale. They let him. All he had to do was use the right form.  
-Clause 32-A. Emotional Rehabilitation.*  
+Clause 32-A. Private Rehabilitative Reassignment.*  
 > *They didn’t even look at me. Just signed it like an expense report. Funny, isn’t it?  
 > *You can be trafficked, tortured, torn open—and saved—by the same hand, with the right paperwork.*  
 > *But when he touched me, after the ruling…*  
