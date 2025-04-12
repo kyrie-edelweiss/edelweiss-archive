@@ -1301,7 +1301,7 @@ The captain rubs his temples. He doesn’t argue. Just mutters.
 
 Anthony raises an eyebrow, then tosses a hydration pack toward Jack’s lap.
 
-“Anyway,” he says, scrolling through his clipboard. “Tomorrow we’re on guard duty for some civillian marks and their hovercycle. Said they wanted to see the blood oceans for themselves.”
+“Anyway,” he says, scrolling through his clipboard. “Tomorrow you're on guard duty for some civillian marks and their hovercycle. Said they wanted to see the blood oceans for themselves.”
 
 Jack lets out a single, sharp exhale. A laugh, or maybe a bark.
 
