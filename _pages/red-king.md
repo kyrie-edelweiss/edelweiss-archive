@@ -368,7 +368,7 @@ But not cruel.
 **Period: 29 Years Ago … Year: 1955 … Location: Venus**
 
 > _“There’s a moment between touch and recognition.  
-> When the body obeys but the soul flinches.  
+> When the body obeys but the mind flinches.  
 > That’s where we live. In the flinch.”_
 
 ### REASSIGNMENT LOG – PRIVATE EXCHANGE: SECTOR 3  
