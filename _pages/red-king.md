@@ -2077,29 +2077,26 @@ A presence at rest beside them.
 ---
 
 **IVY** (fingers still in Alva’s hair):  
-"Do you think anyone believed our message?"
-
-**ALVA**:  
-"Doesn’t matter. Belief is post-processing.  
-Discomfort happens first."
+"Do you think anyone copied over the doctrine we'd uploaded for those two minutes?"
 
 **MIRA**:  
 "The broadcast reached all of Ganymede and Io.  
 Over seven hundred thousand colonists.  
-That's enough."
+That's enough. Enough for a fire to start."
+
+**ALVA**:  
+"It'll jump from relay network to relay network. Like the files are skipping on rocks."
 
 ---
 
 **MIRA**:  
 "I don’t think Mars is gone."
 
-**ALVA** (tilting her head up):  
+**IVY** (tilting her head up):  
 "Mm?"
 
 **MIRA**:  
 "I think he’s still out there. Waiting to be let back in."
-
----
 
 They sit like that for a while.  
 No broadcasts on their reckoner. No humming screens. Just their coats and warm tea.
