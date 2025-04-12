@@ -1553,19 +1553,8 @@ So where are the others?
 
 *(Pause.)*
 
----
-
 **TANGO**:  
 We’re continuing. No backtracking.
-
-**ZETA**:  
-This place doesn’t have floors—it has **layers**.
-
-**MIKE**:  
-Yeah? What kind of layers?
-
-**TANGO (grim, somewhat sarcastic)**:  
-Infernal.
 
 ---
 
