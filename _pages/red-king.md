@@ -2099,7 +2099,7 @@ That's enough. Enough for a fire to start."
 "I think he’s still out there. Waiting to be let back in."
 
 They sit like that for a while.  
-No broadcasts on their reckoner. No humming screens. Just their coats and warm tea.
+No signals on their transmitter. No humming screens. Just their coats and warm tea.
 
 **MIRA** (gently):  
 "Hey, Alva."
