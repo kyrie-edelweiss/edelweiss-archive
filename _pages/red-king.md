@@ -54,7 +54,7 @@ The brutality escalates, and the women are no longer women—they are instrument
 By the end of it, the men are unrecognizable—husk-like, their bodies desecrated, drained, and laid bare. Their eyes are still open, their mouths hanging wide, as if they were left in a state of perpetual shock.
 
 **YOUNG WOMAN** (giggling, joyous):  
-_"Look at this—this one had a reckorder. Hey, wasn't this one your father, Sarah?"_
+_"Look at this—this one had a reckorder. Hey, wasn't this one your daddy, Sarah?"_
 
 A girl named Sarah laughs, tears streaming down her face. The two young women collapse into each other’s arms, their bodies slick with blood, their laughter filled with madness—a final, almost sacred release.
 
