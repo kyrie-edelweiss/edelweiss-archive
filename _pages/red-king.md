@@ -793,7 +793,7 @@ This could not be kept up any longer.
 
 > *"She taught us things without saying them. Like how to cough once before a false shift report. How to tell the difference between corrective officers and legislative officers by the shape of their boots. How to leave messages in the scent-coding of cleaning fluid."*
 
-> _"After her, it stopped being about escape. It started being about inheritance. About building something **they couldn’t flatten.**"_
+> _"After her, it stopped being about escape. It started being about inheritance. About building something that'd last, that **they couldn’t take away from us.**"_
 
 > *"They caught her in 1948. Stripped her naked in front of the wall. Said she was ‘trying to corrupt the servile system.’ But I remember this—she smiled. Even with her jaw busted open. Smiled like she’d already made it out."*
 
