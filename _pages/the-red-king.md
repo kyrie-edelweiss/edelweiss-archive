@@ -527,7 +527,7 @@ Clause 32-A. **Private Rehabilitative Reassignment.**_
 > *I didn’t flinch.*  
 > *Because he asked first.*  
 > *And I said yes.*  
-> *And I fell into his arms.*
+> *And I fell into his arms.*  
 > *This was new.*  
 > *I liked this.*
 
