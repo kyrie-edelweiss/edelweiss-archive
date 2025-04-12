@@ -2321,6 +2321,8 @@ The redhead turns to the lens. Only her eyes remain visible now, her hair flowin
 
 Her voice is low, steady, the kind that speaks *after* war—when there’s no need to shout.
 
+**[RECKONER ACTIVE - RECORDING]**
+
 > To the enforcers of the Seven Planet Authority: 
 >  
 > Your currency is worthless.  
