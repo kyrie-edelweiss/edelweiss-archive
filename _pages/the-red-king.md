@@ -1997,7 +1997,7 @@ The second woman stands with a stillness bordering on divine. **Red-haired.** Gh
 
 Both hold sidearms at Edelweiss’s head. No theatricality. Just inevitability.
 
-> “Under directive… signed today… I relinquish all corporate authority. The Seven Planet Authority is dissolved.”
+> “Under directive signed today… I relinquish all corporate authority. The Seven Planet Authority is dissolved.”
 
 A document is placed in front of her. Pre-privatization law. Civilian-coded, untraceable, old. The only type of law the megacorporation never fully scrubbed.
 
@@ -2060,9 +2060,11 @@ She pauses.
 
 Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 
-> And to the Venusian women who were beaten, bruised and violated for their insubordination, 
+> “And to the Venusian women who were beaten, bruised and violated for their insubordination,  
 > To the daughters of Callisto who collaborated and built bomb schematics,  
-> To the wives of Saturn who silently prayed we'd succeed,
+> To the wives of Saturn who silently prayed we'd succeed,  
+> To the Mercurian martyrs who cut off the arms supply,  
+> And their successors, who armed us to the teeth  
 > To the office-girls of Neptune who disseminated our pamphlets across the system,  
 > To the Uranian ghosts—yes, *you*—  
 > the ones who bound their breasts and buried their truth just to survive the Pillar…  
