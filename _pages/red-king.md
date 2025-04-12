@@ -1351,7 +1351,7 @@ Neither man acknowledges it.
 
 # Chapter Thirteen - Water Womb World
 **OPERATIONAL LOG: VAP 33-102 – BODY-RECKORDER FOOTAGE**  
-**TIMESTAMP:** Early 1988
+**TIMESTAMP:** Early 1988  
 **ERA:** POST-CURSE  
 **LOCATION:** VENUS – Quadrant 4C, Vitruvian Motel  
 **MISSION STATUS:** Investigation of Anomalous Signal – Two Personnel Missing  
