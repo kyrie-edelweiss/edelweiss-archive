@@ -1806,7 +1806,7 @@ No... we only came up two.
 
 ### 14:02:18 – FLOOR -1
 
-*(Lights flicker out. Emergency strips glow faint red. The girl makes a sound—not a scream, but a breath like something surfacing from sleep.)**
+*(Lights flicker out. Emergency strips glow faint red. The girl makes a sound—not a scream, but a breath like something surfacing from sleep.)*
 
 **MIKE**  
 This isn’t real.  
