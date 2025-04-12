@@ -781,7 +781,7 @@ This could not be kept up any longer.
 
 ## Transcript – Archive Clip 047
 > **[VOICE – FEMALE, MID-30s, SMOKY ACCENT]**  
-> *"I used to iron their sheets. Every morning, before shift. You could still smell the oil from the drills when you held the corners. They said that was charm. Said that was tradition."*
+> *"I used to iron their sheets. Every morning, before shift. You could still smell the oil from the drills when you held the corners."*
 
 > **[LAUGHTER – MULTIPLE WOMEN, DISTORTED]**
 
