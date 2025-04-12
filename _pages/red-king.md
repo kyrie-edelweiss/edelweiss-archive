@@ -1373,18 +1373,18 @@ Generous. You can smell the rot from here.
 **ZETA**:  
 Focus.
 
-(The body-reckorder pans over the building—two floors visible, but the silhouette is wrong. Windows are either boarded or melted inward.)
+*(The body-reckorder pans over the building—two floors visible, but the silhouette is wrong. Windows are either boarded or melted inward.)*
 
 **ZETA (reading tablet)**:  
 Registry lists it as decommissioned twenty years ago.
 Signal pings from two missing contractors came from inside, though.
 
-(ZETA walks closer, eyes scanning the entry.)
+*(ZETA walks closer, eyes scanning the entry.)*
 
 **TANGO (squinting)**:  
 Hold up. You see that?
 
-(Tango points forward. The door is slightly ajar, but warped inward at the hinge, like something forced its way out.)
+*(Tango points forward. The door is slightly ajar, but warped inward at the hinge, like something forced its way out.)*
 
 **ZETA**:  
 Keep eyes on me. Helmets on.
@@ -1395,12 +1395,12 @@ Why’s the door already open?
 **TANGO**:  
 They knew we were coming.
 
-(Beat. Silence. Wind shifts.)
+*(Beat. Silence. Wind shifts.)*
 
 **ZETA**:  
 Weapons check. We breach on my mark.
 
-(Zeta straps his boots tighter.)
+*(Zeta straps his boots tighter.)*
 
 ---
 
@@ -1429,7 +1429,7 @@ I mean look at it. That used to be a couch. Now it’s mulch.
 **ZETA**:  
 Focus. Signs of habitation—anything recent?
 
-*(TANGO moves toward the desk. His cam picks up a broken landline, stained not with dust, but with something *damp*. There are no footprints on the floor, just odd drag patterns. Something was moved. Or pulled.)*
+*(TANGO moves toward the desk. His cam picks up a broken landline, stained not with dust, but with something damp. There are no footprints on the floor, just odd drag patterns. Something was moved. Or pulled.)*
 
 **TANGO**:  
 This place smells like old copper and vinegar.
