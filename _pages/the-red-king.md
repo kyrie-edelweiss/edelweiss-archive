@@ -458,7 +458,7 @@ AUDIT NOTE:
 
 > **JACK:**  
 > “The papers… they said no names. Just designation.  
-> But it didn’t feel right. But when I looked at you, I didn’t see V-32-L. I saw… June.”
+> But it didn’t feel right. When I looked at you, I didn’t see V-32-L. I saw… June.”
 
 > **JUNE (sharper):**  
 > “That wasn’t the first time I saw you. You filed forms. You watched them run their hands over girls who didn’t speak back. You were always careful not to touch. But you didn’t stop the others.”
@@ -527,7 +527,7 @@ AUDIT NOTE:
 > “Subject V-32-L (‘June’) has shown consistent compliance and output. Due to signs of long-term psychological erosion and latent trauma, petitioner requests removal from service track and transfer to civilian protection custody under Clause 32-A: **Rehabilitative Reassignment (Private).**”
 
 #### SUPPORTING NOTES:  
-- Former Officer M. resigns from active duty prior to filing, citing “ethical divergence.”
+- Former Officer Jack M. requests reassignment to another branch prior to filing, citing “ethical divergence.”
 - Petition includes contraband: handwritten poem fragment by subject.
 
 #### FINAL RULING:  
