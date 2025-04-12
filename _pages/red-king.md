@@ -2420,7 +2420,7 @@ Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 > born in chains, born in silence, born *wrong*—  
 > and you are ready to end this—  
 >  
-> **you are one of us.**”
+> —**you are one of us.**”
 
 **[RECKONER LOOP ACTIVE – PLAYBACK CYCLE: INDEFINITE]**
 
