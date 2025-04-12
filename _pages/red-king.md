@@ -2341,15 +2341,10 @@ She pauses.
 Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 
 > “To the remaining survivors of **VENUS**, who saw the start of it all— 
->  
 > To the new women of **MERCURY**, toiling in the neo-industries where history repeats—  
->  
 > To the girls of **NEPTUNE**, their brainwaves copied and experimented on without their knowledge—   
->  
 > To the daughters of **JUPITER**, chained in debt-slavery to build their reckoning programs—  
->  
 > To the refugees of **SATURN**, who once thought themselves safe—  
->  
 > To the ghosts of **URANUS**—yes, *you*—the ones who blend with the men in the Pillar, unseen—  
 >  
 > **—we see you.** 
@@ -2363,14 +2358,14 @@ Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 >  
 > Come to us as you are: bleeding, vengeful, half-healed, still shaking.  
 >  
-> And all the women crammed into correction facilities on **VENUS**, who saw the truth and warned the rest— 
->  The unnamed martyrs on **MERCURY**, the first to take action, cutting off their arms supply for so long— 
->   The shrewd priestesses on **SATURN**, who sent batches of incense, candles, prayer and spell-books under loopholes in the contract— 
->    The overworked paper-pushers on **NEPTUNE**, who still found time to disseminate our pamphlets— 
->     The second generation of **MERCURY**, who armed us to teeth from workshops hidden in the mountains— 
->      The brilliant women of **JUPITER** who mailed us thumbsticks of bomb schematics and sabotaged communication centers— 
->       The silent angels of **URANUS**, who braved the Pillar and sacrificed everything to take it down— 
->        The countless men who stood beside us, who never asked for anything in return— 
+> And all the women crammed into correction facilities on **VENUS**, who saw the truth and warned the rest—  
+>  The unnamed martyrs on **MERCURY**, the first to take action, cutting off their arms supply for so long—  
+>   The shrewd priestesses on **SATURN**, who sent batches of incense, candles, prayer and spell-books under loopholes in the contract—  
+>    The overworked paper-pushers on **NEPTUNE**, who still found time to disseminate our pamphlets—  
+>     The second generation of **MERCURY**, who armed us to teeth from workshops hidden in the mountains—  
+>      The brilliant women of **JUPITER** who mailed us thumbsticks of bomb schematics and sabotaged communication centers—  
+>       The silent angels of **URANUS**, who braved the Pillar and sacrificed everything to take it down—  
+>        The countless men who stood beside us, who never asked for anything in return—  
 >  
 > **—we love you.** 
 >  
