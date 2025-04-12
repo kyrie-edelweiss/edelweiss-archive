@@ -2014,8 +2014,7 @@ Mira steps in front of the console.
 
 She cracks her knuckles once.  
 Her fingers hover over the SPA interface like they were never meant for violence.  
-But here, this **is** violence.  
-**Code as blade. Syntax as sabotage.**
+But here on Jupiter, this **is** violence.  
 
 She doesn’t blink.  
 Her fingers move fast, precise.  
