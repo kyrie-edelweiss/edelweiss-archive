@@ -39,7 +39,7 @@ _"No—no, fuck, this isn’t enough! I need more—it's never enough! More!"_
 In the background, an older woman stands alone. Her presence is calm, composed, like the eye of a storm. Her hair is streaked with gray and bound tightly, but her gaze is sharp—calculating. She watches, her eyes filled with the kind of certainty that comes only from true belief.
 
 **OLDER WOMAN** (low, commanding):  
-_"Abigail._ He is nothing but meat. Tear his cock off. With your teeth."_
+_"Abigail. He is nothing but meat. Tear his cock off. With your teeth."_
 
 **MIDDLE-AGED WOMAN** (weeping, celebratory):  
 _"They deserve it—they deserve this! This is what they’ve done to us. This is the only justice we have!"_
