@@ -866,7 +866,7 @@ This could not be kept up any longer.
 
 > *“We worked opposite ends of the facility. I ran maintenance routing—sixteen hours sorting cables that didn’t go anywhere. She was in the chemical rooms. Breathing bleach like perfume. Hands always cracked.”*
 
-> *“There was a chute behind the incinerator vent. No cameras. No sensors. We’d lie on the steel and pretend it was soft. Pretend the heat wasn’t from the vents.”*
+> *“There was a chute behind the incinerator vent. No cameras. No sensors. We’d lie on the steel.”*
 
 > **[AUDIO: LOW, METALLIC WIND – DISTANT PIPELINE PRESSURE]**
 
