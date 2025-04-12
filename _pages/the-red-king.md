@@ -1324,59 +1324,59 @@ Neither man acknowledges it.
 
 ## [BDYRECK – VAP 33-102 – APPROACH PHASE]
 
-**Time Stamp:** 12:43:12
+**Time Stamp:** 12:43:12  
 **Location:** Exterior – Vitruvian Motel, Quadrant 4C, **VENUS**
 
 *(Footsteps in dust. Wind blows faintly. Cam shakes as boots crunch over cracked cement. All three officers are on approach: weapons slung low, helmets off. The motel looms ahead—tall, crooked, bleeding rust.)*
 
-**MIKE**:
-There she is.
+**MIKE**:  
+There she is.  
 The pride of the pre-revolution tourism industry. Fuckin’ two stars, maybe.
 
-**TANGO**:
+**TANGO**:  
 Generous. You can smell the rot from here.
 
-**ZETA**:
+**ZETA**:  
 Focus.
 
 (The camera pans over the building—two floors visible, but the silhouette is wrong. Windows are either boarded or melted inward.)
 
-**ZETA (reading tablet)**:
+**ZETA (reading tablet)**:  
 Registry lists it as decommissioned twenty years ago.
 Signal pings from two missing contractors came from inside, though.
 
 (ZETA walks closer, eyes scanning the entry.)
 
-**TANGO (squinting)**:
+**TANGO (squinting)**:  
 Hold up. You see that?
 
 (Tango points forward. The door is slightly ajar, but warped inward at the hinge, like something forced its way out.)
 
-**ZETA**:
+**ZETA**:  
 Structural integrity’s shot. Keep eyes on me. Helmets on.
 
 **MIKE (quietly)**:
 Why’s the door already open?
 
-**TANGO**:
+**TANGO**:  
 They knew we were coming.
 
 (Beat. Silence. Wind shifts.)
 
-**ZETA**:
+**ZETA**:  
 Weapons check. We breach on my mark.
 
 *(Zeta straps his boots tighter.)*
 
-**MIKE**:
+**MIKE**:  
 You ever get the feeling someone's watching you?
 
-**TANGO**:
+**TANGO**:  
 No.
 
 *(Pause.)*
 
-**TANGO (softer)**:
+**TANGO (softer)**:  
 But I do now.
 
 ---
@@ -1384,10 +1384,7 @@ But I do now.
 ## [BDYRECK – VAP 33-102 – ENTRY PHASE]
 
 **Time Stamp:** 12:45:01  
-
 **Location:** Interior – Vitruvian Motel, Reception Level
-
----
 
 *(Door hinges creak. The metal doesn’t resist—it swings inward with the slow exhale of a deep breath. The interior is darker than expected. The camera auto-corrects exposure. The air immediately registers several degrees warmer.)*
 
@@ -1411,7 +1408,7 @@ Focus. Signs of habitation—anything recent?
 
 *(TANGO moves toward the desk. His cam picks up a broken landline, stained not with dust, but with something *damp*. There are no footprints on the floor, just odd drag patterns. Something was moved. Or pulled.)*
 
-**TANGO**:
+**TANGO**:  
 This place smells like old copper and vinegar.
 
 **MIKE:**:  
@@ -1422,7 +1419,7 @@ There’s no ocean nearby.
 Block that noise out. Stay sharp.
 
 **TANGO (low)**:  
-He’s not wrong. It’s faint... but it’s there. Rolling tide. Coming from below us?
+He’s not wrong. It’s faint... but it’s there. Rolling tide. Coming from above us?
 
 *(Silence falls. The only sound is distant, rhythmic. Not wind. Not pipes. Not footsteps. But a low **pulling sound**, as if something massive were breathing through layers of walls.)*
 
@@ -1470,8 +1467,6 @@ What the hell kind of motel hangs that in the lobby?
 ## [BDYRECK – VAP 33-102 – STAIRWELL ASCENT]
 **Time Stamp:** 12:51:18  
 **Location:** Vitruvian Motel – Central Stairwell
-
----
 
 *(Heavy door creaks open. Flashlights cut through dust-laced dark. The stairwell is narrow, ribbed with old pipes and condensation. The walls sweat. Paint bubbles in long, oozing strips.)*
 
@@ -1586,8 +1581,6 @@ This is **Floor 6**.
 **Location:** Vitruvian Motel – Floor 6, East Wing  
 **Status:** Active Sweep
 
----
-
 *(The door creaks as Zeta opens it. The hallway beyond is long, unlit. Their flashlights cut into amber haze. The corridor has no windows, no signs, and no visible end at first. Only silence.)*
 
 **ZETA**:  
@@ -1633,24 +1626,24 @@ This was never just a motel.
 
 *(A hum increases as they approach the far door. It’s larger than the others. It doesn’t fit the frame. Looks newer—but not cleaner. Like something rebuilt it *from the inside*.)*
 
-**ZETA**:
+**ZETA**:  
 Something was pushing from inside. It's been sealed off. Nothing in, or out.
 
-**TANGO**:
+**TANGO**:  
 Stack up.
 
-**MIKE**:
+**MIKE**:  
 Tango—
 
-**TANGO**:
+**TANGO**:  
 We breach it. Now.
 
 *(They position themselves around the door—standard breach posture. The camera shakes slightly from Tango’s pulse. The wall next to the door is moist to the touch.)*
 
-**MIKE**:
+**MIKE**:  
 I've got a bad feeling, boss.
 
-**ZETA**:
+**ZETA**:  
 You’re not alone.
 
 ---
@@ -1661,7 +1654,7 @@ For just a second—so complete it feels like cascading pressure.
 Then—)*
 
 **TANGO (cold)**:  
-On my mark.
+—KICK IT OPEN!
 
 ---
 
@@ -1670,19 +1663,13 @@ On my mark.
 **Time Stamp:** 13:30:38  
 **Source:** Officer TANGO Bodycam | Audio + Visual Sync  
 
----
-
 ### **FRAME 0001**  
 **[Visual]**: Tango stands at the door, side-facing. Mike at rear-left. Zeta rear-right.  
 **[Audio]**: Faint exhalation from within room. Door hums faintly. Flashlights stutter in sync.  
 **[Note]**: Air temperature spikes +3.4°C in 2.1 seconds.
 
----
-
 **[TANGO:]**  
 One.
-
----
 
 ### **FRAME 0003**  
 **[Visual]**: Camera picks up slight bulge in doorframe. Wood looks soft. Sweating.  
@@ -1690,23 +1677,15 @@ One.
 **[ZETA (low)]:**  
 It’s moving.
 
----
-
 **[TANGO:]**  
 Two.
-
----
 
 ### **FRAME 0006**  
 **[Visual]**: MIKE shifts. Glove lifts toward visor. Sudden head tilt—possible dizziness.  
 **[Audio]**: Heart monitor (Tango) elevates to 113 bpm. Ocean audio re-emerges at 4% gain.
 
----
-
 **[TANGO:]**   
 Three.
-
----
 
 ### **FRAME 0007**  
 **[Visual]**: Tango's leg kicks. Door swings inward—no resistance. No creak. No impact. It glides open like paper.  
@@ -1714,14 +1693,10 @@ Three.
 **[System]**: BDYREC flags this frame with:  
 > ***"MOTION DETECTED… FRONT / LEFT / RIGHT / TOP / BOTTOM / BEHIND…"***
 
----
-
 ### **FRAME 0010**  
 **[Visual]**: Light bursts all over.  
 **[Camera Sync]**: Visual smearing begins. Color inversion for 0.7s. Room beyond becomes hard to resolve.  
 Only central figure remains stable: **the girl**.
-
----
 
 ### **FRAME 0011–0013**  
 **[Visual]**: Subject visible.  
@@ -1733,8 +1708,6 @@ Only central figure remains stable: **the girl**.
 **[Audio]**: Screaming begins. Full bandwidth. No pattern. No language.  
 **[System Note]**: Audio exceeds internal compression. Digital audio bruising begins.
 
----
-
 ### **FRAME 0014**  
 **[MIKE]**:  
 She’s alive—holy shit—she’s alive!
@@ -1745,16 +1718,12 @@ Ma’am, we’re with the VAP. We’re here to help you. Do you hear me?
 **[ZETA]:**  
 Tango—approach slow. Restraints first.
 
----
-
 ### **FRAME 0017**  
 **[Visual]**: TANGO steps closer. Camera jitter increases.  
 Flashlight catches damp surface on bed. Looks like sweat or condensation.  
 Subject’s screaming doesn’t change tone. Continuous. Almost **mechanical**.  
 **[TANGO]**:  
 You’re safe. You’re safe. It’s over.
-
----
 
 ### **FRAME 0020–0022**  
 
@@ -1771,15 +1740,11 @@ Jesus, it’s like they’re part of her.
 **[TANGO]:**  
 She’s freezing. But her skin’s wet. How does that even—
 
----
-
 ### **FRAME 0025**  
 **[Audio]**: Screaming **cuts out.**  
 Immediate silence.  
 Subject locks eyes with Tango. Camaera zoom auto-adjusts—focus sharpens.  
 Her lips move. No sound.  
-
----
 
 ### **FRAME 0027**  
 **[Visual]**: Straps begin to fray—slowly, like dissolving fiber. No one cuts them.  
@@ -1791,118 +1756,106 @@ We’re leaving. Zeta?
 **[ZETA]**:  
 Move. Now.
 
----
-
 ### **FRAME 0029–0032**  
 **[Visual]**: Final shot before exit.  
 Subject turns her head—just slightly—back toward the room. Her face goes blank.  
 **[Audio]**: The ocean returns. Louder now. Pressurized.  
 Room temperature drops 6°C in 4 seconds.  
 
----
-
 ### ***BDYRECK-ANNOTATION: END OF BREACH PHASE***
 
 ---
 
-## **22:49:11 – EXTRACTION BEGINS
+## 14:00:11 – EXTRACTION BEGINS
 **Time Stamp:** 13:29:22  
 **Location:** Vitruvian Motel – Floor 6, East Wing
 **Status:** In Progress
 
 *(Boots on tile. Harsh breathing. The girl is silent now, being carried between Tango and Zeta. Mike leads, weapon drawn. Lights dim.)*
 
-**MIKE**:
+**MIKE**:  
 We’re clear. Let’s move. Fast.
 
-**TANGO**:
+**TANGO**:  
 Got her. Her legs aren’t responding—like she’s… disconnected.
 
-**ZETA**:
+**ZETA**:  
 Focus on the extraction. Don't talk out of place.
 
 *(They reach the stairwell. Mike leads the way, more hardened now. He swings the door open. For a moment, there’s only darkness.)*
 
-**MIKE (hesitating)**:
+**MIKE (hesitating)**:  
 ...Wait. We didn’t climb this many floors.
 
-**TANGO (whispers)**:
+**TANGO (whispers)**:  
 No... we only came up two.
 
 *(They begin descending. Floor by floor. The numbers etched into the concrete are scratched, smeared, distorted—as if the building is trying to forget its own structure.)*
 
----
-
-### 22:50:18 – FLOOR -1
+### 14:02:18 – FLOOR -1
 
 *(Lights flicker out. Emergency strips glow faint red. The girl makes a sound—not a scream, but a breath like something surfacing from sleep.)**
 
-**MIKE**
-This isn’t real.
-I—I counted. Two floors up.
+**MIKE**  
+This isn’t real.  
+I—I counted. Two floors up.  
 We never climbed this far.
 
-**ZETA**
+**ZETA**  
 You think too much. Just walk.
 
-**TANGO**
+**TANGO**  
 These floors weren’t here on the way in.
 
-### 22:51:03 – FLOOR -3
+### 14:12:03 – FLOOR -3
 
 *(The walls feel closer. The steps narrower. Each floor passed has no doors—just blank landings, like hollow vertebrae.)*
 
-**MIKE**
+**MIKE**  
 I can’t tell if we’re descending… or being led.
 
-**TANGO (to the girl)**
+**TANGO (to the girl)**  
 Can you hear me? Can you move?
 
-*(She doesn’t respond. But her eyes blink. And she smiles.)*
+*(She doesn’t respond. But her eyes blink. And she smiles absent-mindedly.)*
 
-### 22:52:27 – FLOOR -6
+### 14:38:27 – FLOOR -6
 
-**ZETA**
+**ZETA**  
 We're almost there. Stay sharp.
 
-**TANGO (quiet)**
+**TANGO (quiet)**  
 No one asked where “there” was.
 
 *(The girl lifts her head. Looks directly at Mike. Her lips move, soundless. Nothing comes out of her. All of them notice, but each one of them keeps it to himself.)*
 
-### 22:53:15 – FLOOR -8
+### 14:44:15 – FLOOR -8
 
-(In the middle, a hatch. Square, steel and rusted. SPA-issue emergency escape hatch.)
-
-Stamped into its surface:
+(In the middle, a hatch. Square, steel and rusted. SPA-issue emergency escape hatch. Stamped into its surface:)
 
 > “WELCOME BACK TO VENUS, CAPTAIN.”
 
-**MIKE**
+**MIKE**  
 This wasn’t here before.
 
-**TANGO**
+**TANGO**  
 None of this was.
 
-**ZETA**
+**ZETA**  
 Hatch should lead to safety. Open it.
 
-*(MIKE pulls the latch. It gives with a groan. Air rushes through—hot, dry, metallic.)*
+*(MIKE pulls the latch. It gives with a groan. Air rushes through—hot, dry, metallic.)*  
+*The outside is grounded with concrete. No reception. No motel.*  
+*They step out. The motel vanishes behind them.*  
+*All that's left is the four of them - Tango, Zeta, Mike, and the girl in her silence.)*
 
-*(The outside is grounded with concrete. No reception. No motel.)*
-
-*(They step out. The motel vanishes behind them.)*
-
-*(All that's left is the four of them - Tango, Zeta, Mike, and the girl in her silence.)*
-
-**ZETA (flat)**
+**ZETA (flat)**  
 Extraction complete.
 
-**TANGO (staring at her)**
-No.
+**TANGO (staring at her)**  
+No.  
 Not complete.
-
-She’s still in there.
+**She’s still in there.**
 
 > **> FILE: BDYCAM [TANGO] | UNIT 33-102 | 11-06-1988**  
 > **> LOCATION: VENUS, SOUTHWEST QUADRANT, BLOOD COAST**
@@ -1917,7 +1870,7 @@ She’s still in there.
 **DATE:** 11-18-1988  
 **SUBJECT:** VAP 33-102 – Post-Extraction Review  
 **FROM:** SPC Analyst Mina J. Cat (Seven Planet Committee – NEPTUNE)  
-**TO:** Clearance-Level III Recipients / Seven Planet Authority Chair Edelweiss
+**TO:** Clearance-Level III Recipients / SPA Chief Executive Officer Edelweiss
 
 ---
 
@@ -2117,11 +2070,11 @@ Behind her, the corporate seal spins in slow, almost funereal orbit: seven styli
 Now, one of them—**VENUS**—glows blood-red. It pulses, silently mocking the others. It bleeds in time with her breath.
 
 > **EDELWEISS:**  
-> “Hello, citizens This is Avery-Mary Edelweiss… former chief executive officer… Neptune quadrant.”
+> “Greetings, citizens. This is Avery-Mary Edelweiss… former chief executive officer… Neptune quadrant.”
 
 Her voice is thin. She speaks like she's unraveling from the inside.
 
-> “As of this morning, all neo-industry outposts on Mercury… all orbital research stations across the Jovian moons… all Uranian contractor training… have been formally collapsed.”
+> “As of this morning, all neo-industry outposts on Mercury… all orbital research stations across the Jovian moons… all Uranian contractor training… everything has been formally collapsed.”
 
 She glances to the side.
 
