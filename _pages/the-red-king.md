@@ -151,13 +151,13 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 “A moment of silence, please, for all confirmed *client* casualties.”  
 *(The projection dims to a dark gray, displaying a silent counter of names: 841 dead.)*
 
-> **SLIDE 2 – VENUS**  
+> **SLIDE 2 –** Venus  
 > *(Visual: glitched-out industrial landscape, static interference, silhouettes of women holding rifles are rendered in black, “1966: Total Comms Loss | 1969: Final Withdrawal”)*
-“**VENUS**: The situation is critical,” Hertz states, the image casting red light across the conference chamber.  
-“This was the epicenter of the servile uprising. The site of the Effort Distribution Complexes. Communications ceased entirely in 1966. All management infrastructure has been destroyed. Local security assets were extracted in 1969. From a strategic standpoint, every inhabitant of VENUS is now considered a malfunctioning asset and should be dealt with accordingly.”  
+“Venus: The situation is critical,” Hertz states, the image casting red light across the conference chamber.  
+“This was the epicenter of the servile uprising. The site of the Effort Distribution Complexes. Communications ceased entirely in 1966. All management infrastructure has been destroyed. Local security assets were extracted in 1969. From a strategic standpoint, every inhabitant of Venus is now considered a malfunctioning asset and should be dealt with accordingly.”  
 *A silence follows.*  
 “Full reclamation is unlikely. We assess long-term asset loss as permanent.”  
-*(The reckorder’s projection subtly distorts, as if infected by the very chaos **VENUS** represents.)*
+*(The reckorder’s projection subtly distorts, as if infected by the very chaos Venus represents.)*
 
 
 > **SLIDE 3 –** Earth  
@@ -760,7 +760,7 @@ This could not be kept up any longer.
 ---
 
 # Chapter Nine: The Sunless Records
-**Period: 31 Years Ago … Year: 1955 … Location: VENUS** 
+**Period: 31 Years Ago … Year: 1955 … Location: Venus** 
 
 ## Transcript – Archive Clip 047
 > **[VOICE – FEMALE, MID-30s, SMOKY ACCENT]**  
@@ -1319,11 +1319,11 @@ Neither man acknowledges it.
 ---
 
 # Chapter Thirteen - Water Womb World
+**Period: Present Day … Year: 1988 … Location: VENUS**
 
 ## [BDYRECK – VAP 33-102 – APPROACH PHASE]
-
 **Time Stamp:** 12:43:12  
-**Location:** Exterior – Vitruvian Motel, Quadrant 4C, **VENUS**
+**Location:** Exterior – Vitruvian Motel, Quadrant 4C
 
 *(Footsteps in dust. Wind blows faintly. Cam shakes as boots crunch over cracked cement. All three officers are on approach: weapons slung low, helmets off. The motel looms ahead—tall, crooked, bleeding rust.)*
 
@@ -1831,7 +1831,7 @@ No one asked where “there” was.
 
 (In the middle, a hatch. Square, steel and rusted. SPA-issue emergency escape hatch. Stamped into its surface:)
 
-> “WELCOME BACK TO VENUS, CAPTAIN.”
+> “WELCOME BACK TO **VENUS**, CAPTAIN.”
 
 **MIKE**  
 This wasn’t here before.
@@ -1867,14 +1867,14 @@ Not complete.
 **CLASSIFICATION:** RED-LISTED / COMPARTMENTALIZED / EYES-ONLY  
 **DATE:** 11-18-1988  
 **SUBJECT:** VAP 33-102 – Post-Extraction Review  
-**FROM:** SPC Analyst Mina J. Cat (Seven Planet Committee – NEPTUNE)  
+**FROM:** SPC Analyst Mint J. Suarez (Seven Planet Committee – NEPTUNE)  
 **TO:** Clearance-Level III Recipients / SPA Chief Executive Officer Edelweiss
 
 ---
 
 ### **MISSION SUMMARY:**
 
-On 11-06-1988, Venus Asset Patrol Unit 33-102 (Tango, Zeta, Mike) conducted a classified retrieval sweep at a deprecated structure referred to as the **Vitruvian Motel** (Quadrant 4C). Their mission was to locate and retrieve two lost civilian contractors, presumed deceased or defected. Instead, they encountered and extracted an **unidentified female entity** from an unregistered sixth floor of the structure.
+On 11-06-1988, **VENUS** Asset Patrol Unit 33-102 (Tango, Zeta, Mike) conducted a classified retrieval sweep at a deprecated structure referred to as the **Vitruvian Motel** (Quadrant 4C). Their mission was to locate and retrieve two lost civilian contractors, presumed deceased or defected. Instead, they encountered and extracted an **unidentified female entity** from an unregistered sixth floor of the structure.
 
 Visual and audio logs recovered from Captain Jack "Tango" Miller's BDY-RECK have been reviewed in full. Findings are as follows.
 
@@ -1910,7 +1910,7 @@ Visual and audio logs recovered from Captain Jack "Tango" Miller's BDY-RECK have
 - **Subject containment is to be maintained indefinitely.** Transfer to Solar Detention Center is not advised at this time.
 - **The Vitruvian Motel site is to be quarantined and expunged** from all Venusian tourism and infrastructure maps.
 - Officer Tango is to be placed under observation.  
-   Not for dereliction—his record is clean—but for signs of **“semantic drift.”** He has begun using pre-collapse Venusian language during off-hours.
+   Not for dereliction—his record is clean—but for signs of **“semantic drift.”** He has begun using proto-Venusian language during off-hours.
 - Full analysis of Floor 6’s **resonance field** is pending.  
    Preliminary readings suggest **spatiotemporal rupture** seeded in that location.
 
@@ -1918,7 +1918,7 @@ Visual and audio logs recovered from Captain Jack "Tango" Miller's BDY-RECK have
 
 ### **FINAL NOTE:**
 
-Though the retrieved subject shows no overt aggression, her presence has triggered a **222% spike in long-range Venusian anomaly reports** within the last 24 hours.
+Though the retrieved subject shows no overt aggression, her presence has triggered a **222% spike** in long-range **VENUS** anomaly reports within the last 120 hours.
 
 This may be correlation.
 
@@ -1927,7 +1927,7 @@ It may also be the **beginning of the end**.
 ---
 
 **SIGNED,**  
-_J. Cat_  
+_Mint J. Suarez_  
 **Seven Planet Committee**
 
 ---
@@ -1942,8 +1942,6 @@ Only law, ancient and cold, drawn from the marrow of worlds older than time.
 
 I was sentenced to execution.  
 Not death—no. That would be a kindness.  
-
-An **unmaking**.  
 
 And I deserve it.  
 I know what I did.  
