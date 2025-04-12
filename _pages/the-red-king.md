@@ -398,7 +398,180 @@ But not cruel.
 
 Not yet.
 
-# Chapter Five - Bedtime Stories
+## Chapter Five - Conditioning
+**Period: 29 Years Ago … Year: 1955 … Location: Venus**
+> _“There’s a moment between touch and recognition.  
+> When the body obeys but the soul flinches.  
+> That’s where we live. In the flinch.”_
+
+### REASSIGNMENT LOG – PRIVATE EXCHANGE: SECTOR 3  
+**File Name:** `ASSET-REASSIGNMENT-BRIBE.LOG`  
+**Subject:** V-55-T ("Sarah")  
+**Personnel:**  
+- N. Delvane (VAP Corrections Senior Officer)  
+- F. Brennick (**NEPTUNE** Senior Finance Executive)
+
+[10:44] – Executive Brennick files “Special Interest Request” for V-55-T  
+[10:45] – Officer Delvane flags asset as “Libido Drift + Emotional Volatility”  
+[10:47] – Funds transferred to Delvane’s discretionary maintenance account  
+[10:56] – V-55-T removed from compliance labor and reassigned to “Companionship Service”  
+[11:20] – Officer signs revised ownership transfer under Clause 7: “Performance Incentives”
+
+FLAG:  
+— No reprimand issued.
+
+
+---
+
+### CORRECTION LOG – VENUSIAN PROTOCOL 14/9  
+**File Name:** `VAP-JM-CORRECTION-ENTRY-143`  
+**Subject:** V-32-L ("June")  
+**Personnel:** Jack M. (VAP Corrections Junior Officer)  
+**Location:** Dormitory Sub-Chamber, Zone G9
+
+[06:03] – V-32-L marked for review due to “Low Industrial Output + Emotional Flatline”  
+[06:04] – Officer M. selects direct re-evaluation under Correction Protocol 14/9  
+[06:05] – Subject unresisting  
+[06:06] – Physical compliance confirmed  
+[06:06] – Emotional output: none.  
+[06:16] – Officer M. notes: “Subject maintained prolonged eye contact. No speech.”  
+[06:30] – Session ends. Subject returned to quarters.
+
+COMMENT FIELD (blank)
+
+AUDIT NOTE:  
+— First correction session logged for Officer M.
+— Subject displays elevated cortisol levels but no disruptive behavior.
+
+---
+
+### SUPPLEMENTAL MEMORY LOG – RECOVERED VOICE RECORDING  
+**SOURCE:** Maintenance Lift 7 – Unsecured Conversation  
+**DATE:** [Estimate: One week post-Correction Session, Unit V-32-L]
+
+> **JACK (speaking softly):**  
+> “I wasn’t thinking. Not the way I should’ve been.  
+> Just another box to tick. Another hour gone.”
+
+> **JUNE (quiet, measured):**  
+> “You didn’t look at me.”
+
+> **JACK:**  
+> “No… I didn’t.”
+
+> **JUNE:**  
+> “They train you for that? Or does it come on its own?”
+
+> **JACK:**  
+> “Little bit of both.”
+
+> **[PAUSE – 3 seconds of mechanical hum.]**
+
+> **JUNE:**  
+> “You said my name. When it wasn't on the sheet.”
+
+> **JACK (startled):**  
+> “I wasn’t supposed to. It just… slipped.”
+
+> **JUNE:**  
+> “That was the only real thing that happened in that room.”
+
+> **JACK:**  
+> “The papers… they said no names. Just designation.  
+> But it didn’t feel right. But when I looked at you, I didn’t see V-32-L. I saw… June.”
+
+> **JUNE (sharper):**  
+> “That wasn’t the first time I saw you. You filed forms. You watched them run their hands over girls who didn’t speak back. You were always careful not to touch. But you didn’t stop the others.”
+
+> **JACK:**  
+> “…I signed girls out like inventory.”
+
+> **JUNE:**  
+> “Then why change now?”
+
+> **JACK:**  
+> “Because you spoke. You weren’t supposed to.”
+
+> **JUNE:**  
+> “Because I said ‘please’?”
+
+> **JACK (shaken):**  
+> “No. Because you said it like it meant something.”
+
+> **JUNE:**  
+> “So you stopped.”
+
+> **[SILENCE – 6 seconds.]**
+
+> **JACK:**  
+> “I did.”
+
+> **[METALLIC SHIFT – slight lean, shared silence]**
+
+> **JACK:**  
+> “What they do to you—  
+> I can’t unsee it.”
+
+> **JUNE:**  
+> “Then do something.”
+
+> **JACK (after a pause):**  
+> “I will. I promise. I’ll get you out.”
+
+> **JUNE (softly, almost amused):**  
+> “You’ll what, file a form? Buy me like a coffee machine?”
+
+> **JACK:**  
+> “If that’s what the rules say… then yes.”
+
+> **[June breathes. Slow exhale.]**
+
+> **JUNE:**  
+> “If you do… don’t call it ownership.  
+> Call it protection.  
+> And don’t ever say I’m yours.  
+> Say you’re mine.”
+
+> **JACK (barely above a whisper):**  
+> “I’m yours.”
+
+---
+
+### CIVILIAN TRANSFER PETITION – V-32-L  
+**Filed by:** Former Officer Jack M.  
+**Petition ID:** #1129–VPC–ΔSEAL  
+**Date:** 08.17.1986  
+**Filed With:** Bureau of Resource Efficiency, Civil Dispute Council (**NEPTUNE**)
+
+#### REQUEST:  
+> “Subject V-32-L (‘June’) has shown consistent compliance and output. Due to signs of long-term psychological erosion and latent trauma, petitioner requests removal from service track and transfer to civilian protection custody under Clause 32-A: **Rehabilitative Reassignment (Private).**”
+
+#### SUPPORTING NOTES:  
+- Former Officer M. resigns from active duty prior to filing, citing “ethical divergence.”
+- Petition includes contraband: handwritten poem fragment by subject.
+
+#### FINAL RULING:  
+> **APPROVED.**  
+> Arbitration judge cites irregular precedent:  
+> _“If an officer can be held responsible for dehumanization, then let one be held responsible for rehumanization.”_
+
+---
+
+### SMUDGED PERSONAL NOTE — JUNE  
+> *You spend so long being touched like a thing, you start to wish you weren’t in your skin at all.*  
+> *When he filed for me, I laughed inside. I really did. Like I was a desk lamp he bought at a clearance sale. They let him. All he had to do was use the right form.  
+Clause 32-A. Emotional Rehabilitation.*  
+> *They didn’t even look at me. Just signed it like an expense report. Funny, isn’t it?  
+> *You can be trafficked, tortured, torn open—and saved—by the same hand, with the right paperwork.*
+> *But when he touched me, after the ruling…*  
+> *I didn’t flinch.*  
+> *Because he asked first.*  
+> *And I said yes.*  
+> *And I fell into his arms.*
+> *This was new.*  
+> *I liked this.*
+
+# Chapter Six - Bedtime Stories
 **Period: Present Day … Year: 1984 … Location: Venus**
 
 _The phosphorus light trembled like a candle lost in a cavernous lung. Outside, the sulfurous wind hissed its muted lullaby. Inside, the air was *thick*—syrupy with heat and pressure and the scent of something ancient._
@@ -536,7 +709,7 @@ Nothing.
 
 When she gasps back into herself, her hands are curled into fists, pressed to her stomach like she’s trying to hold something in. Her breath hitches.
 
-# Chapter Six - Red Sex
+# Chapter Seven - Red Sex
 **Period: Present Day … Year: 1985 … Location: Venus**
 
 The sex was a little awkward.  
@@ -583,7 +756,7 @@ That's usually when I shut her up.
 
 I don’t want her to see how close I am to burning, too.
 
-# Chapter Seven - Waiting For Black Metal Records To Come In The Mail
+# Chapter Eight - Waiting For Black Metal Records To Come In The Mail
 **Period: Present Day … Year: 1986 … Location: Venus**
 
 Katherina's life had become a joke at her own expense.
@@ -618,8 +791,8 @@ The worst part was the suspicion. **MARS** had to be hiding something. Behind al
 
 This could not be kept up any longer.
 
-# Chapter Eight: Rememberance Records
-**Period: 15 Years Ago … Year: 1969 … Location: VENUS** 
+# Chapter Nine: The Sunless Records
+**Period: 31 Years Ago … Year: 1955 … Location: VENUS** 
 
 ## Transcript – Archive Clip 047
 > **[VOICE – FEMALE, MID-30s, SMOKY ACCENT]**  
@@ -743,7 +916,7 @@ This could not be kept up any longer.
 
 > *“But when I lie still enough, I swear I can feel her palm again. Cold at first. Always warming.”*
 
-# Chapter Nine - Black Metal Records
+# Chapter Ten - Black Metal Records
 **Period: Present Day … Year: 1987 … Location: Venus**
 
 Tonight was silent.  
@@ -881,7 +1054,7 @@ Mars would be sorry.
 
 Mars was the night, the nightmare.
 
-# Chapter Ten - Curse of the RED KING
+# Chapter Eleven - Curse of the RED KING
 **Period: Present Day … Year: 1987 … Location: Venus**
 
 _(Above the churning yellow clouds of Venus, **KATHERINA** levitates. In her cupped palms, she holds Mars—small, dim, stripped of dominion. Her jaw is clenched. Her eyes burn. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open.)_
@@ -1033,12 +1206,12 @@ _**MARS**_ (whispering):
 
 _(And **VENUS** would be once more.)_
 
-# Chapter Eleven - Stories
+# Chapter Twelve - Stories
 **Period: Present Day … Year: 1988 … Location: URANUS**
 
 A utilitarian breakroom, dimly lit and acoustically sterile, rests on the 437th sublevel of **The Pillar**, the vast vertical military-industrial complex of **URANUS**. The walls are matte, synthetic steel. The air is stale, processed, and pressurized for endurance rather than comfort.
 
-One of them, a grizzled captain in his forties with a receding hairline and acid-pocked skin, activates the embedded reckoner interface beside the meal dispenser.
+A grizzled captain in his sixties with a receding hairline and acid-pocked skin, activates the embedded reckoner interface beside the meal dispenser.
 
 He selects **Broadcast Channel**.
 
@@ -1167,7 +1340,7 @@ The reckoner, long thought shut off, flickers once more. A final message pulses 
 
 Neither man acknowledges it.
 
-# Chapter Twelve - Water Womb World
+# Chapter Thirteen - Water Womb World
 
 ## [BDYRECK – VAP 33-102 – APPROACH PHASE]
 
@@ -1191,15 +1364,6 @@ Focus.
 **ZETA (reading tablet)**:
 Registry lists it as decommissioned twenty years ago.
 Signal pings from two missing contractors came from inside, though.
-
-**TANGO**:
-Let's take bets—dead or hostages?
-
-**MIKE**:
-Dead. Deady-dead-dead dead.
-
-**ZETA**:
-Hostages.
 
 (ZETA walks closer, eyes scanning the entry.)
 
@@ -1835,7 +1999,7 @@ It may also be the **beginning of the end**.
 _J. Cat_  
 **Seven Planet Committee**
 
-# Chapter Thirteen - The RED CHARIOT
+# Chapter Fourteen - The RED CHARIOT
 **Period: ?????? … Year: ?????? … Location: ??????**
 
 **NEPTUNE**, the **APEX OF JUDGEMENT**, was silent as they passed sentence.  
@@ -1958,7 +2122,7 @@ My crusade is righteous, my cause just. I burn with the lost souls of billions. 
 
 I am the **RED CHARIOT**.
 
-# Chapter Fourteen – Flies Have Their House
+# Chapter Fifteen – Flies Have Their House
 **Period: Present Day … Year: 1989 … Location: NEPTUNE**
 
 **[CAMERA FEED: LIVE RECKONER BROADCAST]**  
@@ -2034,9 +2198,8 @@ Her voice is low, steady, the kind that speaks *after* war—when there’s no n
 >  
 > To the enforcers of the Seven Planet Authority:  
 >  
-> Your stations are silent.  
-> Your fleets are grounded.  
-> Your codes are broken.  
+> Your currency is worthless.  
+> Your codes of conduct are broken.  
 > Your camps are liberated.
 >  
 > This is not a negotiation.  
