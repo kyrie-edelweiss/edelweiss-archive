@@ -99,7 +99,8 @@ _"Something stirs beneath the surface."_
 *A brief pause.*  
 “That's everyone? Excellent. Good morning. I am Avery-Mary Edelweiss, executive director of this board. This is William Hertz, my senior strategic officer. Welcome to the first official Seven Planet Committee meeting.”
 
-_Her words are crisp, her cadence refined by decades of institutional leadership. Her voice carries the affect of someone who has long since learned how to suppress both her accent and her allegiance to anything **but** the company._  
+_Her words are crisp, her cadence refined by decades of institutional leadership. Her voice carries the affect of someone who has long since learned how to suppress both her accent and her allegiance to anything **but** the company._
+
 “First, allow me to extend formal commendation. Each of you has demonstrated exceptional performance across high-priority sectors including advanced engineering, capital finance, defense logistics, research, and beyond. Your selection was not incidental—your track records have been reviewed, audited, and validated at the highest levels. Let this moment serve as a rare acknowledgment: your contributions are seen. They are appreciated. Well done.”
 
 *A ripple of polite laughter. Applause follows—brief, respectful. She does not join in.*  
