@@ -1136,7 +1136,7 @@ They would’ve kept you, protected you, worshipped you.
 
 But the Seven Planet Authority—the human government of the system— found you.  
 They ripped you from their arms.  
-Raised you underground in bunkers.  
+Raised you on the surface, in bunkers.  
 Malnourished you. Hurt you.  
 Called you names—  
 _Bad omen. Chimera. Icon of the coming revolution._
