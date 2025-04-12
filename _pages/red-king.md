@@ -2390,7 +2390,7 @@ Another pause. The tone is different now. Fiercer.
 
 > And all the women once crammed into correction facilities on **VENUS**, who saw the truth and warned the rest—  
 >  
-> The unnamed martyrs on **MERCURY**, the first to take action, cutting off their arms supply for so long—  
+> The unnamed martyrs on **MERCURY**, the first to take action, who disrupted their arms supply for just long enough—  
 >  
 > The shrewd priestesses on **SATURN**, who sent batches of incense, candles, prayer and spell-books under loopholes in the contract—  
 >  
