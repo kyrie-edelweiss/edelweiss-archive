@@ -190,7 +190,7 @@ _Lamont, **SATURN**’s representative, gives a brief nod of approval._
 *(The reckoner zooms in on interlinking tunnel paths and encrypted communication feeds, painting a network of control.)*  
 “This is our current position. If **NEPTUNE** falls,” he pauses, letting the final slide pulse, “we all fall.”  
 
-_A standing ovation erupts, echoing through the grand chamber. The reckoner slowly fades to black, leaving only the emblem of the **7-P Committee** hovering midair like a watchful eye._
+_A standing ovation erupts, echoing through the grand chamber. The reckoner slowly fades to black, leaving only the emblem of the **SP Committee** hovering midair like a watchful eye._
 
 ---
 
