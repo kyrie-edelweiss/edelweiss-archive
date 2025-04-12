@@ -817,7 +817,7 @@ This could not be kept up any longer.
 
 > *“I worked in the Correctional Oversight Department—Venus branch. Mid-floor. Nobody important. My job was to certify the behavioral assessments for serviles who ‘failed compliance.’ Not the punishment. Just the process around it.”*
 
-> **[SFX: Ambient office noise – faint printer whir, air recirculators, a distant drone of bureaucratic hum.]**
+> **[AUDIO: AMBIENT OFFICE NOISE – FAINT PRINTER WHIRR, AIR RECIRCULATORS, DISTANT DRONING]**
 
 > *“You’d get these reports—lines of numbers. Emotional volatility, libido productivity, obedience latency, fertility status. It all looked clean. Math always does.”*
 
@@ -868,7 +868,7 @@ This could not be kept up any longer.
 
 > *“There was a chute behind the incinerator vent. No cameras. No sensors. We’d lie on the steel and pretend it was soft. Pretend the heat wasn’t from the vents.”*
 
-> **[SFX: LOW, METALLIC WIND – DISTANT PIPELINE PRESSURE]**
+> **[AUDIO: LOW, METALLIC WIND – DISTANT PIPELINE PRESSURE]**
 
 > *“She always came to me marked. Scrapes, heat rash, burn lines where the collar stuck to her. I’d press my mouth to every one. Real gentle. Like I was fixing them.”*
 
@@ -880,7 +880,7 @@ This could not be kept up any longer.
 
 > *“I said I’d write her a report if that helped. Three violations of protocol. Two sustained interruptions. One unsanctioned moan.”*
 
-> **[SFX: SMALL LAUGHTER – BARELY AUDIBLE. SHARED.]**
+> **[AUDIO: SMALL LAUGHTER – BARELY AUDIBLE. SHARED.]**
 
 > *“There were times we didn’t even undress. Just held each other through the fabric. She’d say, ‘If we strip too fast they’ll think we’re working again.’”*
 
