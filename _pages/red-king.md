@@ -2090,7 +2090,7 @@ Discomfort happens first."
 
 **MIRA**:  
 "The broadcast reached all of Ganymede and Io.  
-Overseven hundred thousand colonists.  
+Over seven hundred thousand colonists.  
 That's enough."
 
 ---
