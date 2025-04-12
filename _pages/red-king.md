@@ -405,8 +405,8 @@ FLAG:
 COMMENT FIELD (blank)
 
 AUDIT NOTE:  
-— First correction session logged for Officer M.
-— Subject displays elevated cortisol levels but no disruptive behavior.
+— First correction session logged for Officer M.  
+— V-32-L displays elevated cortisol levels but no disruptive behavior.
 
 ---
 
