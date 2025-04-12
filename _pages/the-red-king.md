@@ -1932,7 +1932,209 @@ _Mint J. Suarez_
 
 ---
 
-# Chapter Fourteen - The RED CHARIOT
+## Chapter 14 - White Cell
+**Period: Present Day … Year: 1989 … Location:** Callisto
+
+The cryonics lab hadn’t been operational in years.
+
+Frost still clung to the glass of the old stasis tanks, curling like silver veins across cracked plexi. Most of the capsules had long since been gutted—either salvaged by SPA engineers or left to rot, their contents decayed, systems fried. The air smelled faintly of rusted coolant and something older: something chemical and human.
+
+Mira sits cross-legged on the clean section of the floor, lab coat peeled halfway off. She’s angular, hollow-eyed, sharp as a scalpel left in ice. Her fingers wrap around a cracked ceramic cup. She stares into the tea.
+
+They’d repurposed an IV rack into a clothesline. The oxygen tanks stored food now—mostly freeze-dried Venusian nutrient packs, smuggled in past Europa patrols. One corner of the lab held their makeshift transmitter, cannibalized from a severed communication relay.
+
+A singular cryopod buzzed with reappropriated power, jury-rigged into a low-watt heat source. Its original label—**PROPERTY OF JUPITER CRYO-FCLTY 9**—was painted over.
+
+Alva lies on her side, head heavy on Ivy’s thigh. She's tall, broad-shouldered — her lab coat just barely fits. Her voice is soft, rich, always measured. Her nails are painted with trembled care. Ivy strokes her scalp slowly. Not pity. Ritual.
+
+**MIRA**:  
+"Two minutes, forty-six seconds. That’s how long the loop ran."
+
+**ALVA** (without opening her eyes):  
+"Longer than I lasted the first time I got "corrected" back on Europa."
+
+**IVY** (soft):  
+"Don't say that. Not here.  
+
+---
+
+> **[FLASHBACK – JUPITER JUNCTION HALLWAY 7C – 03:01]**
+
+Three white coats in dim lighting. Two are scanned, flagged female. The third—Alva—registers male.
+
+The technician, identifiable as Europan, looks up. He sees a tired man. A system maintenance type. Looks away again.
+
+Mira lingers behind as Alva taps a console, the skin of her knuckles taut.
+
+**SPA TECHNICIAN (yawning):**  
+"You're here for the 7C debug?"
+
+**ALVA** (voice flat, low, flawless):  
+"Yeah. Just followin’ instructions."
+
+**SPA TECHNICIAN (yawning):**  
+"What about the girls?"
+
+Standing between Mira and the technician, Alva loves physically, wordlessly: a hand resting, a shoulder shielding, a body blocking a man’s gaze.  
+She protects because she knows what it feels like to be unprotected.
+
+**ALVA (same tone, confidently):**  
+"I paid good cash for them."
+
+The tech nods. Trusts the voice. Trusts the broad shoulders.  
+**Never looks at her eyes.**
+
+---
+
+**[BACK TO PRESENT – CALLISTO CRYO-ROOM]**
+
+**ALVA** (sighing):  
+"I hate how easy it was.  
+They never saw *me*.  
+They saw the shape. The hips. The weight."
+
+**IVY** (gently):  
+"They *never saw you.* But we do."
+
+**MIRA:**  
+"He didn’t even ask for clearance. Just let us in."
+
+**IVY** (low, rational):  
+"Maybe he was exhausted. Maybe he sympathized."
+
+---
+
+> **[FLASHBACK – MOMENT OF INSERTION - JUPITER JUNCTION GRAND TERMINAL – 03:12]**
+
+The terminal hub is humming with low-frequency sleep sounds: server fans, the occasional hiss of coolant lines, the soft beep of automated system sweeps. Blue SPA logos rotate lazily across the central screen—faceless, clean, inhuman.
+
+Ivy moves first, fast and silent.  
+She pulls the USB-drive from inside her sleeve, fingers steady despite the blood still crusted under one thumbnail. The casing is smooth, anonymous, **but the payload inside is Venusian doctrine**, compressed into executable nerve.
+
+She slides the drive into the terminal slot.  
+The light on it flashes—**green, then amber.** Standby.
+
+Mira steps in front of the console.
+
+She cracks her knuckles once.  
+Her fingers hover over the SPA interface like they were never meant for violence.  
+But here, this **is** violence.  
+**Code as blade. Syntax as sabotage.**
+
+She doesn’t blink.  
+Her fingers move fast, precise.  
+No wasted motion.  
+Every keystroke is a knife twisted.
+
+The terminal hesitates.  
+A flicker.
+
+Alva watches from the doorway, hand tight on the stun-baton tucked under her coat. She counts her own heartbeats.
+
+Then—
+
+**The screen collapses.**
+
+Blue vanishes.  
+Black for half a second.  
+Then:
+
+> **A white silhouette of a woman**. Head turned. One hand reaching down into the red like she's pulling something from beneath reality.  
+> Her figure flickers with heat distortions—made of signal noise, not flesh.
+
+And then, the voice comes.
+
+> _“You were never supposed to see her.  
+> But she was always there, hidden in some half-whispered dream.”_
+
+**The speakers tremble.**
+
+It’s not loud. It’s **intimate.**  
+A whisper at odds with the sterile air of the facility.
+
+From deep in the walls, another system pings—alert, scrambling.
+
+Ivy yanks the drive free.
+
+Mira hits escape, wipes the shell, and locks the terminal with a line of nonsense code.  
+Alva signals: Time to go.
+
+They vanish through the rear conduit before the internal sensors reboot.
+
+The memory fades.
+
+---
+
+**[BACK TO PRESENT – CALLISTO CRYO-ROOM]**
+
+**ALVA**:  
+"I keep thinking… if Katherina saw me, would she know what I am?"
+
+When Alva questions whether Katherina would see her as a woman, Ivy doesn't offer comfort. She offers confirmation—a truth spoken with the finality of law.
+
+**MIRA** (firm):  
+"She’d know. She’d know you're all the same. You both suffered."
+
+And Katherina’s name hung in the stale air like condensation.  
+Still present.  
+A presence at rest beside them.
+
+---
+
+**IVY** (fingers still in Cyan’s hair):  
+"Do you think anyone believed our message?"
+
+**ALVA**:  
+"Doesn’t matter. Belief is post-processing.  
+Discomfort happens first."
+
+**MIRA**:  
+"The broadcast reached all of Ganymede and Io.  
+Overseven hundred thousand colonists.  
+That's enough."
+
+---
+
+**MIRA**:  
+"I don’t think Mars is gone."
+
+**ALVA** (tilting her head up):  
+"Mm?"
+
+**MIRA**:  
+"I think he’s still out there. Waiting to be let back in."
+
+---
+
+They sit like that for a while.  
+No broadcasts on their reckoner. No humming screens. Just their coats and warm tea.
+
+**MIRA** (gently):  
+"Hey, Alva."
+
+**ALVA**:  
+"Yeah?"
+
+**MIRA**:  
+"Thanks for standing between me and that man.  
+I felt safe. You didn’t have to."
+
+**ALVA** (looking away):  
+"I wanted to.  
+You’re warm.  
+And kind."
+
+**IVY** (smiling):  
+"You both are."
+
+That night, Callisto is quiet.  
+By morning, the Seven Planet Authority would pass several more articles under the Gender Protection Act.
+
+But they knew **something had shifted**.
+
+---
+
+# Chapter Fifteen - The RED CHARIOT
 **Period: ?????? … Year: ?????? … Location: ??????**
 
 **NEPTUNE**, the **APEX OF JUDGEMENT**, was silent as they passed sentence.  
@@ -2055,7 +2257,7 @@ I am the **RED CHARIOT**.
 
 ---
 
-# Chapter Fifteen – Flies Have Their House
+# Chapter Sixteen – Flies Have Their House
 **Period: Present Day … Year: 1989 … Location: NEPTUNE**
 
 **[CAMERA FEED: LIVE RECKONER BROADCAST]**  
@@ -2127,9 +2329,9 @@ The redhead turns to the lens. Only her eyes remain visible now beneath a veil o
 
 Her voice is low, steady, the kind that speaks *after* war—when there’s no need to shout.
 
-> **“This broadcast will repeat until every last loyalist reactionary is found and shot.**  
+> **“This broadcast will repeat until every last SPA reactionary is found and shot.**  
 >  
-> To the enforcers of the Seven Planet Authority:  
+> To the enforcers of the Seven Planet Authority: 
 >  
 > Your currency is worthless.  
 > Your codes of conduct are broken.  
@@ -2182,5 +2384,3 @@ Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 > **you are one of us.**”
 
 **[RECKONER LOOP ACTIVE – PLAYBACK CYCLE: INDEFINITE]**
-
-# THE END
