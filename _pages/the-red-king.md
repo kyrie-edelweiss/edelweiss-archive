@@ -15,7 +15,7 @@ _**AUDIO… ACTIVE**_
 
 The static hums, low and steady, vibrating with tension, like an old machine working itself into oblivion. Beneath the noise, there is something darker—a muffled rhythm of breathing, ragged and desperate. The cries of men, distorted and broken, fill the silence between mechanical growls. Their voices are not sharp—more like the gasps of drowning creatures, their calls twisted into something far less human.
 
-**YOUNG WOMAN** (panting, weeping, laughing):
+**YOUNG WOMAN** (panting, weeping, laughing):  
 "Fuck—fuck, fuck—I can feel it—I'm so close, I'm so close!"
 
 **MIDDLE-AGED WOMAN** (fevered, chanting):  
@@ -257,8 +257,6 @@ And then there once was a young woman—**Katherina.**
 
 The nights were long now, longer than they had any right to be. Out here, in this forgotten corridor of the cosmos, light was a dying thing. The stars no longer comforted; they glared down like indifferent gods with eyes that had long since turned away. The sky was *blacker than black,* not empty, but *hollow.* 
 
-Katherina survived.
-
 Her life unfolded in a flickering chamber of pale phosphorus light. The phosphorus would hum incessantly - and when it did go silent, she could almost hear her thoughts echo.
 
 She subsisted on her stale canned food reserve. She read brittle books by the soft white light, old words etched by forgotten hands. Every now and then she allowed herself a small indulgence—her signature mixed tea brewed from what remains of the local herbs, laced with syrup that she rationed like it was blood. The sweetness made her cry sometimes.
@@ -281,24 +279,16 @@ There was no answer.
 
 Only silence. The kind that weighs.
 
-But her thoughts pulsed like a signal:
+And then her thoughts spiral from there:
 
-*"I hope someone visits me soon.*
-
-*That's what I need.*
-
-*I won’t be alone anymore.*
-
-*When they come visit me…*
-
-*I won’t be so cold.*
-
-*It’ll be nice.*
-
-*I can't be alone anymore.*
-
-*I hope someone visits me soon.*
-
+*"I hope someone visits me soon.*  
+*That's what I need.*  
+*I won’t be alone anymore.*  
+*When they come visit me…*  
+*I won’t be so cold.*  
+*It’ll be nice.*  
+*I can't be alone anymore.*  
+*I hope someone visits me soon.*  
 *I won't be alone anymore."*
 
 She repeated these words like scripture. Like a mantra carved into her soul by frostbitten fingers.
