@@ -731,7 +731,7 @@ This could not be kept up any longer.
 
 > *“We’d slide the uniforms down to the ankles. Lie belly to belly. Arms hooked together like netting. We never rushed. The longer we went, the more it felt like we were wasting company time. That felt holy.”*
 
-> *“I remember the first time she cried while she was inside me. Said it felt too real. Said it hurt to feel *wanted* without a clipboard.”*
+> _“I remember the first time she cried while she was inside me. Said it felt too real. Said it hurt to feel **wanted** without a clipboard.”_
 
 > *“I said I’d write her a report if that helped. Three violations of protocol. Two sustained interruptions. One unsanctioned moan.”*
 
@@ -777,7 +777,7 @@ Katherina had learned not to *think*.
 
 Thinking was dangerous.  
 A single wrong phrase, a flicker of doubt—  
-and he’d could be inside her again.  
+and he could be inside her again.  
 
 So she went through the motions.  
 
@@ -892,17 +892,17 @@ Mars was the night, the nightmare.
 # Chapter Ten - Curse of the RED KING
 **Period: Present Day … Year: 1987 … Location: Venus**
 
-_(Above the churning yellow clouds of Venus, **KATHERINA** levitates. In her cupped palms, she holds MARS—small, dim, stripped of dominion. Her jaw is clenched. Her eyes burn. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open.)_
+_(Above the churning yellow clouds of Venus, **KATHERINA** levitates. In her cupped palms, she holds Mars—small, dim, stripped of dominion. Her jaw is clenched. Her eyes burn. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open.)_
 
 *Mars*: (begging)
 Don't do this.  
 Put me back, please.  
 I thought you loved me.
 
-_**KATHERINA**_: (voice booming across the night sky):  
+_**KATHERINA**_ (voice booming across the night sky):  
 **I THOUGHT I LOVED YOU. BUT YOU WERE JUST ALL I HAD. YOU MADE SURE YOU WERE ALL I HAD.**
 
-*Mars*: (softly)
+*Mars* (softly):  
 That’s not true, **KATHERINA**.  
 You were all *I* had too.  
 Celestial bodies were never meant to touch the human world.  
@@ -910,7 +910,7 @@ But I broke the rules. For you.
 I just wanted to feel.  
 To know what it was like.
 
-_**KATHERINA**_: (seething):  
+_**KATHERINA**_ (seething):  
 **SEE WHAT? TO SEE WHAT IT'S LIKE TO USE SOMEONE LIKE A FLESH SOCK?**
 
 *Mars*:  
@@ -991,12 +991,12 @@ _(She convulses. Rage and disbelief churn in her gut. She grips MARS tighter.)_
 _**KATHERINA**_:  
 **"THAT CAN'T BE… IT'S LIES… YOU'RE LYING AGAIN…"**
 
-*Mars*: (gasping):  
+*Mars* (gasping):  
 Stop—please—you’re hurting me!
 
 _(Reflex. Her grip loosens.)_
 
-*Mars*: (whimpering):  
+*Mars*:  
 I was trying to protect you…  
 From the bitter truth and all the pain that comes with it.  
 I love you, **KATHERINA**.  
@@ -1005,7 +1005,7 @@ Do you trust me?
 
 _(A pause. Her mind sways like a candle in vacuum.)_
 
-_**KATHERINA:**_ (quiet):  
+_**KATHERINA**_ (quiet):  
 **"I TRUST YOU."**
 
 *Mars*:  
@@ -1021,12 +1021,12 @@ _Katherina:_
 
 _(But it’s too late. She drops. Her body plummets, limp, through the sulfurous skies. Falling—not in love, but back to earth. Into ruin.)_
 
-_**MARS**_: (ascending, regaining form):  
+_**MARS**_ (ascending, regaining form):  
 **I'M SORRY. I'M SORRY. I'M SO SORRY.**
 
 _(He catches her gently. Her skin pales. Her hair drains of color. Her eyes go hollow. Her essence returns to Venus—the place of her making, and of her unmaking.)_
 
-_**MARS**_: (stroking her hair):  
+_**MARS**_ (stroking her hair):  
 **MY LITTLE SUN.** 
 **I NEVER MEANT FOR THIS TO HAPPEN.** 
 **I JUST…**
@@ -1034,7 +1034,7 @@ _**MARS**_: (stroking her hair):
 
 _(He lowers her down—into the dirt.)_
 
-_**MARS**_: (whispering):  
+_**MARS**_ (whispering):  
 **"VENUS IS DEAD."**  
 **"I NAME YOU VENUS."**  
 **"LONG LIVE VENUS."**
@@ -1044,7 +1044,7 @@ _(And **VENUS** would be once more.)_
 # Chapter Eleven - Stories
 **Period: Present Day … Year: 1988 … Location: URANUS**
 
-A utilitarian breakroom, dimly lit and acoustically sterile, rests on the 437th sublevel of **The Pillar**, the vast vertical military-industrial complex of **URANUS**. The walls are matte, synthetic steel. The air is stale, processed, and pressurized for endurance rather than comfort. A man sits in half-silence—security contractor by trade, conditioned for both frontline chaos and bureaucratic inertia.
+A utilitarian breakroom, dimly lit and acoustically sterile, rests on the 437th sublevel of **The Pillar**, the vast vertical military-industrial complex of **URANUS**. The walls are matte, synthetic steel. The air is stale, processed, and pressurized for endurance rather than comfort.
 
 One of them, a grizzled captain in his forties with a receding hairline and acid-pocked skin, activates the embedded reckoner interface beside the meal dispenser.
 
@@ -1064,35 +1064,31 @@ Sweeping vistas of scarlet oceans and sleek, white corporate domes unfurl across
 
 > *"The **Blood Ocean Phenomenon** has entirely revitalized the shamed little sister of our System."*
 
-> *"Gone are the days of chaos in the pressure-mines, the hormonal sabotage, the unwashed rites of radical femininity. We have *turned the tide.*"*
+> _"Gone are the days of chaos in the pressure-mines, the hormonal sabotage, the unwashed rites of radical femininity. We have **turned the tide.**"_
 
-Visuals shift. Dramatic flyovers of steaming crater lakes. Serviles in crisp white uniforms. Corporate flags planted on rockslides.
+Visuals shift. Dramatic flyovers of steaming crater lakes. Corporate flags planted on rockslides.
 
-> *"The **Sunless Commune**, once the heart of Venusian sedition, is no more."*
+> _"The **Sunless Commune**, once the heart of Venusian sedition, is no more."_
 
-> *"Over one hundred insurgents neutralized. Twelve kilometers of tunnel system collapsed. No survivors confirmed."*
+> *"Over ten thousand insurgents neutralized. Six-thousand two-hundred forty-eight kilometers of tunnel system collapsed. No survivors confirmed."*
 
 A pause. The light flickers red, as if responding to blood pressure.
 
 > *"And with the reclamation of this key site, we are proud to say..."*
 
-> *"...**Venus is open again.**"*
+> *"...**VENUS is open again.**"*
 
 Footage of hotels beside sterilized craters. Men in suits clink glasses near phosphorescent waterfalls. A servile girl in background focus wipes her nose, then disappears in the edit.
 
 > *"The revolution is over. The communards are gone. The caves are clear."*
 
-> *"Venus now welcomes all with *clean lungs, clean ledgers, and a clear conscience.*"*
-
 > *"Come see the blood. Come see the red. Wash away your sins."*
 
-The ad cuts with precision. One frame lingers too long—an aerial view of scorched rock spelling out **WE REMEMBER** in servo-scars before the screen whites out.
+The ad cuts with precision. One frame lingers too long—an aerial view of scorched rock spelling out **WE REMEMBER** in earthen scars before the screen whites out.
 
 Then, the Broadcast Channel resumes. Music plays. The message is gone.
 
 ---
-
-**[INT. STUDIO: Ultra-polished chrome backdrop. A floating, translucent corporate sigil pulses softly behind the anchor: SEVEN PLANET AUTHORITY.]**
 
 **[ANCHOR – GENDERLESS, MODULATED VOICE, BLINKING AT REGULAR INTERVALS]**
 
@@ -1106,7 +1102,7 @@ Then, the Broadcast Channel resumes. Music plays. The message is gone.
 
 ---
 
-> *“In celestial news: the planet **MARS** has not appeared in any known orbital registry since this morning’s report. Observatories on Jupiter confirm the body’s absence. SPA officials say it is ‘probably a clerical abstraction’ and **urge calm.**”*
+> *“In celestial news: the planet **MARS** has not appeared in any known orbital registry since this morning’s report. Observatories on **JUPITER** confirm the body’s absence. SPA officials say it is ‘probably a clerical abstraction’ and **urge calm.**”*
 
 > *“The Seven Planet Authority reminds citizens: the **perception of loss does not constitute loss**.”*
 
@@ -1115,7 +1111,6 @@ Then, the Broadcast Channel resumes. Music plays. The message is gone.
 > *“On economic fronts, a **System-wide reinvestment campaign** has been initiated to encourage **prompt and enthusiastic re-colonization of Venus.**”*
 
 > *“SPA Compliance & Wellness notes a sharp rise in fertility compatibility among Venus-adjacent zones.  
-**This is considered auspicious.**”*
 
 ---
 
@@ -1132,17 +1127,13 @@ Then, the Broadcast Channel resumes. Music plays. The message is gone.
 
 ---
 
-> *“And finally: The Neptune Light Index has returned to expected ambient levels after last week’s unusual surge in red-spectrum photonic activity. Reports of disembodied whispering were confirmed to be a **localized sound glitch**, attributed to overheating in Ministry-approved devotional headphones.”*
+> *“And finally: The Neptune Light Index has returned to expected ambient levels after last week’s unusual surge in red-spectrum photonic activity. Reports of disembodied whispering were confirmed to be a **systemized sound glitch**, attributed to overheating in Ministry-approved headpieces.”*
 
 > *“All systems remain green.”*
 
 ---
 
-> *“This has been thE SPA Broadcast Channel. Obedience is harmony.”*
-
-> *“You are seen.  
-You are correct.  
-You are whole.”*
+> *“This has been the SPA Broadcast Channel. Obedience is harmony.”*
 
 **[END TRANSMISSION]**
 
@@ -1154,7 +1145,7 @@ Footsteps approach.
 
 A second man enters—late thirties, clean-cut, clipboard underarm. Lieutenant Anthony. He strides across the room and forcibly presses a sequence on the reckoner’s physical panel, terminating the broadcast.
 
-“Turn that shit off, Jack. You know watching the Broadcast Channel isn’t good for your health,” Aames remarks, not unkindly, but with the edge of authority.
+“Turn that shit off, Jack. You know watching the Broadcast Channel isn’t good for your health,” Anthony remarks, not unkindly, but with the edge of authority.
 
 The captain rubs his temples. He doesn’t argue. Just mutters.
 
