@@ -775,7 +775,9 @@ This could not be kept up any longer.
 
 > *"There was a girl in our complex. She'd always tuck her hair in a ponytail, and we’d pass her the ration powder first like she was a captain. One time she traded an entire night's sleep for three hormone capsules smuggled in through Callisto. I never asked how she knew which guards were stupid."*
 
-> *"...She didn’t talk about who she was. She didn’t have to. She walked like someone who had survived every kind of 'no.'"*
+> *"...She didn’t talk about who she was. She didn’t have to."*
+
+> *"She looked like she was falling apart—like someone who'd survived telling them 'no.'"*
 
 > *"She’d go out at night and rewire the speakers—spliced them into something older. Found tapes, not from SPA, not from anyone official. Songs. Women reading poems. Women screaming. And one time, this woman—hollow voice, flat like concrete—she just says, over and over:  
 >  
