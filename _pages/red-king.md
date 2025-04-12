@@ -2373,7 +2373,7 @@ Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 >  
 > The overworked paper-pushers on **NEPTUNE**, who still found time to disseminate our pamphlets—  
 >  
-> The second generation of **MERCURY**, who armed us to teeth from workshops hidden in the mountains—  
+> The second generation of **MERCURY**, who armed us to the teeth from workshops hidden in the mountains—  
 >  
 > The brilliant women of **JUPITER** who mailed us thumbsticks of bomb schematics and sabotaged communication centers—  
 >  
