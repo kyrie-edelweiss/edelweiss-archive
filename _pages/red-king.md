@@ -1373,17 +1373,6 @@ Weapons check. We breach on my mark.
 
 *(Zeta straps his boots tighter.)*
 
-**MIKE**:  
-You ever get the feeling someone's watching you?
-
-**TANGO**:  
-No.
-
-*(Pause.)*
-
-**TANGO (softer)**:  
-But I do now.
-
 ---
 
 ## [BDYRECK – VAP 33-102 – ENTRY PHASE]
@@ -1699,13 +1688,13 @@ Three.
 > ***"MOTION DETECTED… FRONT / LEFT / RIGHT / TOP / BOTTOM / BEHIND…"***
 
 ### **FRAME 0010**  
-**[Visual]**: Light bursts all over.  
+**[Visual]**: A burst of light.  
 **[Camera Sync]**: Visual smearing begins. Color inversion for 0.7s. Room beyond becomes hard to resolve.  
 Only central figure remains stable: **the girl**.
 
 ### **FRAME 0011–0013**  
 **[Visual]**: Subject visible.  
-- Female. Pale skin. Naked. No immediate physical trauma.  
+- Female. Pale skin. Naked, small. Skinny frame. No immediate physical trauma.  
 - Restrained to rusted bedframe. Restraints appear old—fabric and metal.  
 - Bed is bolted into floor.  
 - Subject’s eyes open. Mouth open.
@@ -1718,7 +1707,7 @@ Only central figure remains stable: **the girl**.
 She’s alive—holy shit—she’s alive!
 
 **[TANGO]**:  
-Ma’am, we’re with the VAP. We’re here to help you. Do you hear me?
+Ma’am, we’re with the **VENUS** Patrol. We’re here to help you. Do you hear me?
 
 **[ZETA]:**  
 Tango—approach slow. Restraints first.
