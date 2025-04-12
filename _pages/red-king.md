@@ -2361,7 +2361,7 @@ Her voice is low, steady, the kind that speaks *after* war—when there’s no n
 
 She pauses.
 
-Then her tone shifts—lower, but more human. Fiercer. Almost tender.
+Then her tone shifts—lower, but more human. Mourning. Almost tender.
 
 > “To the remaining survivors of **VENUS**, who saw the start of it all—  
 >  
@@ -2385,8 +2385,10 @@ Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 > And we are not whole without you. 
 >  
 > Come to us as you are: bleeding, vengeful, half-healed, still shaking.  
->  
-> And all the women crammed into correction facilities on **VENUS**, who saw the truth and warned the rest—  
+
+Another pause. The tone is different now. Fiercer.
+
+> And all the women once crammed into correction facilities on **VENUS**, who saw the truth and warned the rest—  
 >  
 > The unnamed martyrs on **MERCURY**, the first to take action, cutting off their arms supply for so long—  
 >  
