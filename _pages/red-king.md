@@ -1387,9 +1387,9 @@ Hold up. You see that?
 (Tango points forward. The door is slightly ajar, but warped inward at the hinge, like something forced its way out.)
 
 **ZETA**:  
-Structural integrity’s shot. Keep eyes on me. Helmets on.
+Keep eyes on me. Helmets on.
 
-**MIKE (quietly)**:
+**MIKE (quietly)**:  
 Why’s the door already open?
 
 **TANGO**:  
