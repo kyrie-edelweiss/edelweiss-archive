@@ -1299,7 +1299,7 @@ Then, the Broadcast Channel resumes. Music plays. The message is gone.
 
 ---
 
-> *“And finally: The Neptune Light Index has returned to expected ambient levels after last week’s unusual surge in red-spectrum photonic activity. Reports of disembodied whispering were confirmed to be a **systemized sound glitch**, attributed to overheating in Ministry-approved headpieces.”*
+> *“And finally: The Neptune Light Index has returned to expected ambient levels after last week’s unusual surge in red-spectrum photonic activity. Reports of disembodied whispering were confirmed to be a **systemized sound glitch**, attributed to overheating in Committee-approved headpieces.”*
 
 > *“All systems remain green.”*
 
