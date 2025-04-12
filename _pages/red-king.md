@@ -145,6 +145,7 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 
 > **SLIDE 1 – MERCURY**  
 > *(Visual: a scorched, wind-blasted colony; heat-map overlay in red; “Threat Vector: Eliminated”)*
+
 “**MERCURY**: Following a sabotage event targeting atmospheric filtration systems, the colony is currently non-viable,” Hertz begins.  
 “No recovery operations are scheduled. While regrettable, the loss neutralizes a significant threat vector. Reconstruction efforts will prioritize enhanced security infrastructure.”  
 *He pauses. The screen flickers.*  
@@ -153,6 +154,7 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 
 > **SLIDE 2 –** Venus  
 > *(Visual: glitched-out industrial landscape, static interference, silhouettes of women holding rifles are rendered in black, “1966: Total Comms Loss | 1969: Final Withdrawal”)*
+
 “Venus: The situation is critical,” Hertz states, the image casting red light across the conference chamber.  
 “This was the epicenter of the servile uprising. The site of the Effort Distribution Complexes. Communications ceased entirely in 1966. All management infrastructure has been destroyed. Local security assets were extracted in 1969. From a strategic standpoint, every inhabitant of Venus is now considered a malfunctioning asset and should be dealt with accordingly.”  
 *A silence follows.*  
@@ -162,12 +164,14 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 
 > **SLIDE 3 –** Earth  
 > *(Visual: grayscale Earth turning slowly; “DECOMMISSIONED” stamped across its surface, timeline overlay of mass migration off-planet)*
+
 “Earth: There is little to address,” William continues, unmoved.  
 “It's no longer a recognized operating territory.”  
 *Green shifts, then stills. No one else speaks.*
 
 > **SLIDE 4 – MARS**  
 > *(Visual: red dunes swallowing machines, strange static glyphs appearing momentarily; status reads: “UNEXPLAINED FAILURE”)*
+
 “**MARS:** Despite its status as our first colonization candidate, every initiative has ended in unexplained failure. It remains unoccupied, and likely will remain so.”  
 *(The reckorder emphasizes a flashing red buffer zone around the planet’s orbit.)*  
 “Fortunately, its remoteness and symbolic importance to the insurgents acts as a natural barrier to ideological contagion.”  
@@ -175,6 +179,7 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 
 > **SLIDE 5 – JUPITER**  
 > *(Visual: R&D moons in orbit; data streams showing green operational metrics; Callisto marked “under surveillance”)*
+
 “**JUPITER**: Our R&D satellites—Io, Europa, and Ganymede—remain stable and ideologically neutral. We intend to increase funding to maintain their strategic output.”  
 *He nods toward the red-pulsing marker on Callisto.*  
 > “Minor disturbances have been reported, but remain manageable.”
@@ -187,15 +192,15 @@ _Lamont, **SATURN**’s representative, gives a brief nod of approval._
 
 > **SLIDE 7 – URANUS**  
 > *(Visual: The Pillar stretching from the middle of the planet vertically in both directions; silhouettes amid masses of men labeled “TARGET – EXECUTE”)*
+
 “**URANUS:** Our central defense contractor training site. The Pillar spans from planetary core to upper atmosphere and lower atmosphere. This is an exclusively-male sector.”  
 *(The reckorder highlights internal maps of training regimens and punishment queues.)*  
 “Execution protocols are in place for any suspected sympathizer of Venusian ideology. With proper oversight, further action will be minimal.”  
 *Kildare, ex-military, remains stone-faced.*
 
----
-
 > **SLIDE 8 – NEPTUNE**  
 > *(Visual: city-surface, stacked architecture like corporate files, sprawling underground nerve-map; a blinking green dot marks their current position)*
+
 “**NEPTUNE:** Our administrative capital. Beneath the surface lies a vast bureaucratic nerve center—synchronization at full capacity.”  
 *(The reckorder zooms in on interlinking tunnel paths and encrypted communication feeds, painting a network of control.)*  
 “This is our current position. If **NEPTUNE** falls,” he pauses, letting the final slide pulse,  
