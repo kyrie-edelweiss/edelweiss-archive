@@ -7,9 +7,11 @@ permalink: /red-king/
 ---
 
 # Chapter One - The Severed Womb
-**Period: 15 Years Ago … Year: 1969 … Location: Venus**  
-
-_**BDYRECK-FOOTAGE – VAP 06-011 – 03-01-1969**_
+**VAP 06-011 – BODY-RECKORDER FOOTAGE**  
+**YEAR OF OCCURRENCE:** Early 1969  
+**ERA:** PRE-COLLAPSE  
+**LOCATION:** VENUS – Quadrant 4C, Vitruvian Motel  
+**CLASSIFICATION:** RED CODE – UNAUTHORIZED MATERIAL  
 
 _**AUDIO… ACTIVE**_
 
@@ -78,9 +80,11 @@ _"Something stirs beneath the surface."_
 
 ---
 
-# Chapter Two – A Brief Meeting  
-
-**Period: 8 Years Ago … Year: 1976 … Location: NEPTUNE**
+# Chapter Two – A Brief Meeting
+**TIMESTAMP:** Early-To-Mid 1976  
+**ERA:** PRE-COLLAPSE  
+**LOCATION:** NEPTUNE – Executive Council Chamber, Tower A-Prime  
+**CLASSIFICATION:** BLACK CODE – UNAUTHORIZED MATERIAL
 
 
 *A cohort of twelve high-ranking personnel are positioned equidistantly around a long, mirror-polished conference table within a spacious, meticulously curated executive chamber. At the helm, a commanding figure presides—posture poised, hands interlaced with practiced composure.*  
@@ -102,20 +106,20 @@ _Her words are crisp, her cadence refined by decades of institutional leadership
 “When I was elevated to this position,” she says, eyes scanning the room with a cool steadiness, “I was advised to consider it a unique honor. There are few women in these ranks—statistically, next to none before me. I accepted this not as a contradiction, but as a *correction*. Sentiment is not a substitute for strategy.”
 
 *She continues, tone shifting to operational gravity.*  
-“Due to the insurgent forces that have seized control of our critical asset **VENUS** — as well as their continued acts of violence carried out under the guise of so-called *sex liberation*, this department has been established with a singular mandate: to dismantle the rising tide of female-led radical extremism.”  
+“Due to the insurgent forces that have seized control of our critical asset Venus — as well as their continued acts of violence carried out under the guise of so-called *sex liberation*, this department has been established with a singular mandate: to dismantle the rising tide of female-led radical extremism.”  
 *A few nods. Some lean forward. Green emits a quiet whistle. Applause, firmer this time.*
 
-“They will not proceed unchecked. We will neutralize their influence and weed out their uprising, starting from the outermost colonies — **NEPTUNE** — and advancing inward across every planetary jurisdiction under our protection,” she states, gesturing emphatically.  
+“They will not proceed unchecked. We will neutralize their influence and weed out their uprising, starting from the outermost colonies — **NEPTUNE** — and advancing inward across every sector jurisdiction under our protection,” she states, gesturing emphatically.  
 *The room breaks into structured applause.*  
 *She does not smile. She simply nods once—subtle, contained—then signals to her second-in-command.*
 
-“I’ll now hand it over to William, who will provide an overview of the planetary situation. He’s a very smart, capable, and passionate man.”
+“I’ll now hand it over to William, who will provide an overview of the case-by-case situation. He’s a very smart, capable, and passionate man.”
 
 ---
 
 _William Hertz steps forward with measured authority. A low mechanical hum follows as the **reckoner**, embedded into the ceiling panel, activates. The chamber lights dim slightly. A translucent projection materializes on the wall behind him—clean, minimal, and institutional blue._
 
-> **SLIDE 1 – MERCURY**  
+> **SECTOR 1 – MERCURY**  
 > *(Visual: a scorched, wind-blasted colony; heat-map overlay in red; “Threat Vector: Eliminated”)*
 
 “**MERCURY**: Following a sabotage event targeting atmospheric filtration systems, the colony is currently non-viable,” Hertz begins.  
@@ -126,7 +130,7 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 “A moment of silence, please, for all confirmed *client* casualties.”  
 *(The projection dims to a dark gray, displaying a silent counter of names: 1481 dead.)*
 
-> **SLIDE 2 –** Venus  
+> **SECTOR 2 –** Venus  
 > *(Visual: glitched-out industrial landscape, static interference, silhouettes of women holding rifles are rendered in black, “1966: Total Comms Loss | 1969: Final Withdrawal”)*
 
 “Venus: The situation is critical,” Hertz states, the image casting red light across the conference chamber.  
@@ -138,7 +142,7 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 *(The reckoner’s projection subtly distorts, as if infected by the very chaos Venus represents.)*
 
 
-> **SLIDE 3 –** Earth  
+> **SECTOR 3 –** Earth  
 > *(Visual: grayscale Earth turning slowly; “DECOMMISSIONED” stamped across its surface, timeline overlay of mass migration off-planet)*
 
 “Earth: There is little to address,” William continues, unmoved.  
@@ -146,7 +150,7 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 
 *Green shifts, then stills. No one speaks.*
 
-> **SLIDE 4 – MARS**  
+> **SECTOR 4 – MARS**  
 > *(Visual: red dunes swallowing machines, strange static glyphs appearing momentarily; status reads: “UNEXPLAINED FAILURE”)*
 
 “**MARS:** Despite its status as our first colonization candidate, every initiative has ended in unexplained failure. It remains unoccupied, and likely will remain so.”  
@@ -154,21 +158,21 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 “Fortunately, its remoteness and symbolic importance to the insurgents acts as a natural barrier to ideological contagion.”  
 *Jones and Michael exchange quiet nods, scribbling notes down.*
 
-> **SLIDE 5 – JUPITER**  
+> **SECTOR 5 – JUPITER**  
 > *(Visual: R&D moons in orbit; data streams showing green operational metrics; Callisto marked “under surveillance”)*
 
 “**JUPITER**: Our R&D satellites—Io, Europa, and Ganymede—remain stable and ideologically neutral. We intend to increase funding to maintain their strategic output.”  
 *He nods toward the red-pulsing marker on Callisto.*  
 > “Minor disturbances have been reported, but remain manageable.”
 
-> **SLIDE 6 – SATURN**  
+> **SECTOR 6 – SATURN**  
 > *(Visual: glowing ring cities with stained-glass hues; fine-print contracts scroll in the corner; stat: “204,239 Faith Centers”)*  
 “**SATURN**: Since our departure from Earth, **SATURN** has served as a nexus for spiritual and cultural continuity.”  
 “The settlements are autonomous and doctrinally rigid. Our presence is limited, bound by longstanding contract. Intervention is neither advised nor welcomed.”  
 
 _Lamont, **SATURN**’s representative, gives a brief nod of approval._
 
-> **SLIDE 7 – URANUS**  
+> **SECTOR 7 – URANUS**  
 > *(Visual: The Pillar stretching from the middle of the planet vertically in both directions; silhouettes amid masses of men labeled “TARGET – EXECUTE”)*
 
 “**URANUS:** Our central defense contractor training site. The Pillar spans from planetary core to upper atmosphere and lower atmosphere. This is an exclusively-male sector.”  
@@ -177,7 +181,7 @@ _Lamont, **SATURN**’s representative, gives a brief nod of approval._
 
 *Kildare, ex-military, remains stone-faced.*
 
-> **SLIDE 8 – NEPTUNE**  
+> **SECTOR 8 – NEPTUNE**  
 > *(Visual: city-surface, stacked architecture like corporate files, sprawling underground nerve-map; a blinking green dot marks their current position)*
 
 “**NEPTUNE:** Our administrative capital. Beneath the surface lies a vast bureaucratic nerve center—synchronization at full capacity.”  
@@ -189,7 +193,11 @@ _A standing ovation erupts, echoing through the grand chamber. The reckoner slow
 ---
 
 # Chapter Three - Katherina
-**Period: Present Day … Year: 1984 … Location: Venus**
+**KATHERINA SERIES**  
+**YEAR OF RECORD:** Early 1984  
+**ERA:** POST-COLLAPSE  
+**LOCATION:** VENUS – Former Commune Zone, Southern Acid Belt  
+**STATUS:** Person of Interest
 
 There were many dwellers within the expanse of space—some bearing names that rang like chimes through the ancient ether, others nameless, faceless things, whose presence could only be felt in the tremble of matter and thought. These watchers had lingered in the void long before Earth’s first radio wave pulsed outward. They had seen empires rise from dust and fall into ash across the breadth of the stars.
 
@@ -255,8 +263,12 @@ Ever since the **SUN** departed.
 
 ---
 
-# Chapter Four - The RED KING
-**Period: Present Day … Year: 1984 … Location: Venus**
+# Chapter Four - The Red King
+**KATHERINA SERIES – CONTACT**  
+**YEAR OF RECORD:** Mid 1985  
+**ERA:** POST-COLLAPSE  
+**LOCATION:** VENUS – Former Commune Zone, Southern Acid Belt  
+**STATUS:** To Be Monitored – Long-Term Psychological Deterioration Logged
 
 Katherina lay draped across her narrow bed, limbs slack, eyes fluttering beneath pale lids—half-sunken in sleep, half-hungering still. She had devoured another text from the Venusian archive, a brittle book bound in leather-soft skin, its pages soaked in language that shimmered like oil under her flickering phosphorus light. She’d read it cover to cover, mouth parted in trance, and tossed it into the growing pile beside her—*The Liturgies of the Fleshbound Womb*, or something like that.
 
@@ -342,8 +354,13 @@ But not cruel.
 
 ---
 
-## Chapter Five - Conditioning
-**Period: 29 Years Ago … Year: 1955 … Location: Venus**
+# Chapter Five - Conditioning & Obedience
+**PERSONNEL FILE EXCERPT – HISTORICAL COMPLIANCE RECORDS**  
+**YEAR OF RECORD:** Late 1960  
+**ERA:** PRE-COLLAPSE  
+**LOCATION:** VENUS – Correctional Complex, Zone G9  
+**NOTES:** Subject Interaction: Officer Jack M. & Servile V-32-L (“June”)  
+**CLASSIFICATION:** SENSITIVE
 
 > _“There’s a moment between touch and recognition.  
 > When the body obeys but the mind flinches.  
@@ -517,7 +534,11 @@ AUDIT NOTE:
 ---
 
 # Chapter Six - Bedtime Stories
-**Period: Present Day … Year: 1984 … Location: Venus**
+**KATHERINA SERIES – CONTACT – CONTINUED**  
+**YEAR OF RECORD:** Mid 1985  
+**ERA:** POST-COLLAPSE  
+**LOCATION:** VENUS – Unknown  
+**ANNOTATION:** Expunge All References To Precise Location - Entity Confirmed
 
 _The phosphorus light trembled like a candle lost in a cavernous lung. Outside, the sulfurous wind hissed its muted lullaby. Inside, the air was **thick**—syrupy with heat and pressure and the scent of something ancient._
 
@@ -657,7 +678,10 @@ When she gasps back into herself, her hands are curled into fists, pressed to he
 ---
 
 # Chapter Seven - Red Sex
-**Period: Present Day … Year: 1985 … Location: Venus**
+**KATHERINA SERIES – PRIVATE SEGMENT**  
+**YEAR OF RECORD:** Mid-to-Late 1985  
+**ERA:** POST-COLLAPSE  
+**LOCATION:** VENUS – Unknown  
 
 The sex was a little awkward.  
 
@@ -706,7 +730,10 @@ I don’t want her to see how close I am to burning, too.
 ---
 
 # Chapter Eight - Waiting For Black Metal Records To Come In The Mail
-**Period: Present Day … Year: 1986 … Location: Venus**
+**KATHERINA SERIES – DISSOCIATIVE PHASE**  
+**DATE OF RECORD:** Early 1986  
+**ERA:** POST-COLLAPSE  
+**LOCATION:** VENUS – Unknown  
 
 Katherina's life had become a joke at her own expense.
 
@@ -742,8 +769,13 @@ This could not be kept up any longer.
 
 ---
 
-# Chapter Nine: Testimonies
-**Period: 31 Years Ago … Year: 1955 … Location: Venus** 
+# Chapter Nine: The Wretched
+**HISTORICAL TRANSCRIPTS – INCRIMINATING RECORDINGS**  
+**TIMESTAMP:** Mid-To-Late 1962  
+**ERA:** PRE-COLLAPSE  
+**LOCATION:** VENUS – Effort Distribution Complexes  
+**DOCUMENT TYPE:** Servile Testimonies & Posthumous Recollections – Contraband  
+**CLASSIFICATION:** RED CODE – UNAUTHORIZED MATERIAL
 
 ## Transcript – Archive Clip 047
 > **[VOICE – FEMALE, MID-30s, SMOKY ACCENT]**  
@@ -874,7 +906,11 @@ This could not be kept up any longer.
 ---
 
 # Chapter Ten - Black Metal Records
-**Period: Present Day … Year: 1987 … Location: Venus**
+**KATHERINA SERIES – TERMINAL PSYCHOGENIC EVENT**  
+**YEAR OF RECORD:** Late 1987  
+**ERA:** POST-COLLAPSE  
+**LOCATION:** VENUS – Unknown 
+**CLASSIFICATION:** BLACK CODE - UNAUTHORIZED MATERIAL
 
 Tonight was silent.  
 
@@ -1013,8 +1049,12 @@ Mars was the night, the nightmare.
 
 ---
 
-# Chapter Eleven - Curse of the RED KING
-**Period: Present Day … Year: 1987 … Location: Venus**
+# Chapter Eleven - Curse of the Red King
+**KATHERINA SERIES – TERMINAL PSYCHOGENIC EVENT – CONTINUED**  
+**YEAR OF OCCURRENCE:** Late 1987  
+**ERA:** POST-COLLAPSE  
+**LOCATION:** VENUS – Atmospheric Apex  
+**CLASSIFICATION:** BLACK CODE - UNAUTHORIZED MATERIAL
 
 _(Above the churning yellow clouds of Venus, **KATHERINA** levitates. In her cupped palms, she holds Mars—small, dim, stripped of dominion. Her jaw is clenched. Her eyes burn. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open.)_
 
@@ -1167,8 +1207,12 @@ _(And **VENUS** would be once more.)_
 
 ---
 
-# Chapter Twelve - Stories
-**Period: Present Day … Year: 1988 … Location: URANUS**
+# Chapter Twelve - The Broadcast Channel
+**YEAR OF BROADCAST:** Early 1988  
+**LOCATION:** URANUS – The Pillar, Sublevel 437  
+**ERA:** POST-CURSE  
+**VIEWER:** Captain Jack M.  
+**RESPONSE STRATEGY:** Denial In Full, Misinform Masses
 
 A utilitarian breakroom, dimly lit and acoustically sterile, rests on the 437th sublevel of **The Pillar**, the vast vertical military-industrial complex of **URANUS**. The walls are matte, synthetic steel. The air is stale, processed, and pressurized for endurance rather than comfort.
 
@@ -1228,7 +1272,7 @@ Then, the Broadcast Channel resumes. Music plays. The message is gone.
 
 ---
 
-> *“In celestial news: the planet **MARS** has not appeared in any known orbital registry since this morning’s report. Observatories on **JUPITER** confirm the body’s absence. SPA officials say it is ‘probably a clerical abstraction’ and **urge calm.**”*
+> *“In celestial news: the sector **MARS** has not appeared in any known orbital registry since this morning’s report. Observatories on **JUPITER** confirm the body’s absence. SPA officials say it is ‘probably a clerical abstraction’ and **urge calm.**”*
 
 > *“The Seven Planet Authority reminds citizens: the **perception of loss does not constitute loss**.”*
 
@@ -1304,7 +1348,12 @@ Neither man acknowledges it.
 ---
 
 # Chapter Thirteen - Water Womb World
-**Period: Present Day … Year: 1988 … Location: VENUS**
+**OPERATIONAL LOG: VAP 33-102 – BODY-RECKORDER FOOTAGE**  
+**TIMESTAMP:** Early 1988
+**ERA:** POST-CURSE  
+**LOCATION:** VENUS – Quadrant 4C, Vitruvian Motel  
+**MISSION STATUS:** Investigation of Anomalous Signal – Two Personnel Missing  
+**UNIT COMPOSITION:** Captain Tango, Officer Zeta, Junior Officer Mike
 
 ## [BDYRECK – VAP 33-102 – APPROACH PHASE]
 **Time Stamp:** 12:43:12  
@@ -1906,8 +1955,13 @@ _Mint J. Suarez_
 
 ---
 
-## Chapter 14 - White Cell
-**Period: Present Day … Year: 1989 … Location:** Callisto
+### Chapter Fourteen – I Need A Spacesuit To Leave My Home 
+**operation_name:** "tea leaves"  
+**cell_designation:** "white cell"  
+**operation_date:** "february third, one thousand nine hundred eighty-nine"   
+**cell_location:** "our home"  
+**operatives:** "ivy, alva, mira"  
+**other_cells_involved:** "X"  
 
 The cryonics lab hadn’t been operational in years.
 
@@ -2104,8 +2158,9 @@ But they knew **something had shifted**.
 
 ---
 
-# Chapter Fifteen - The RED CHARIOT
-**Period: ?????? … Year: ?????? … Location: ??????**
+### Chapter Fifteen – The One Who Waits At The End Of All
+**ANOMALOUS CELESTIAL ACTIVITY: EXO-SYSTEMIC TRAJECTORY DETECTED**  
+**STATUS:** Infinite Acceleration Event in Progress  
 
 **NEPTUNE**, the **APEX OF JUDGEMENT**, was silent as they passed sentence.  
 
@@ -2227,11 +2282,11 @@ I am the **RED CHARIOT**.
 
 ---
 
-# Chapter Sixteen – Flies Have Their House
-**Period: Present Day … Year: 1989 … Location: NEPTUNE**
-
-**[CAMERA FEED: LIVE RECKONER BROADCAST]**  
-**[Status: Hijacked Signal – Origin Unverified]**
+### Chapter Sixteen – Flies Have Their House 
+**RECKONER LIVE FEED – SPA BROADCAST**  
+**DATE OF TRANSMISSION:** Late 1989  
+**ERA:** POST-CURSE  
+**LOCATION:** NEPTUNE – Executive Council Chamber, Tower A-Prime 
 
 The image flickers. Then stabilizes.
 
