@@ -536,7 +536,7 @@ Clause 32-A. **Private Rehabilitative Reassignment.**_
 # Chapter Six - Bedtime Stories
 **Period: Present Day … Year: 1984 … Location: Venus**
 
-_The phosphorus light trembled like a candle lost in a cavernous lung. Outside, the sulfurous wind hissed its muted lullaby. Inside, the air was *thick*—syrupy with heat and pressure and the scent of something ancient._
+_The phosphorus light trembled like a candle lost in a cavernous lung. Outside, the sulfurous wind hissed its muted lullaby. Inside, the air was **thick**—syrupy with heat and pressure and the scent of something ancient._
 
 Katherina sat upright upon her narrow bed, posture brittle but poised, facing the frost-veined window like it was an altar. Beyond the fogged pane, in that strange depthless black where the stars had once sung, the shape waited. Not hovering. Not looming.
 
