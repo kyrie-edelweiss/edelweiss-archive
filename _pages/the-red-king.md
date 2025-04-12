@@ -456,7 +456,8 @@ The echo sank into her ribs. She nodded.
 
 The conversation twisted again—spiraled downward like a bloody offering down a stone drain.
 
-> **"THEY RAVAGED IT,"** he said, **"ALL OF IT. THERE’S NOTHING LEFT."**
+> **"THEY RAVAGED IT,"**
+> **"ALL OF IT. THERE’S NOTHING LEFT."**
 
 War. Starfire. Collapse. The death of Venusian cities, the fracturing of mind and memory and myth.
 
@@ -492,7 +493,7 @@ But **MARS** paused—perhaps for the first time—and offered her a way out:
 > **"YOU DON’T HAVE TO BURDEN YOURSELF WITH THIS.  
 > REMEMBER, YOU CAN BACK OUT ANYTIME."**
 
-Katherina answered without blinking:
+Katherina answered without blinking.
 
 > **"I UNDERSTAND."**
 
@@ -552,8 +553,6 @@ The sex was a little awkward.
 
 She always felt so *small*.
 
-Not physically—her body was long and wiry, almost stretched thin by gravity that never loved her back. No, she was small in the way people get when they forget how to be real. When they perform every gesture like it's been passed down from ghosts.
-
 She kept trembling, like she wasn’t built for touch. Like something had broken and regrown inside her crooked.
 
 Katherina sang sometimes, low and off-key. And she danced. Not like a girl, but like a marionette. Tangled strings, twirling just out of reach, her toes skimming ash.
@@ -578,7 +577,7 @@ And she wonders:
 > “Was it the poison-laced oceans and the endless factories?”  
 > “Or was it the tears she shed constantly?”  
 > “Did her sorrow deform her?”  
-> “Would the **SUN** still make love to her disfigured mantle”
+> “Would the **SUN** still make love to her disfigured mantle?”  
 > “Did VENUS feel lonely, too?”
 
  And then she spirals from there…
@@ -638,7 +637,7 @@ This could not be kept up any longer.
 
 > *"There was a girl in our barracks. She'd tuck her hair under the helmet, and we’d pass her the ration powder first like she was a captain. One time she traded an entire night's sleep for three hormone capsules smuggled in through Callisto. I never asked how she knew which guards were stupid."*
 
-> *"...She didn’t talk about who she was. She didn’t have to. She *walked like someone who had survived every kind of 'no.'*"*
+> *"...She didn’t talk about who she was. She didn’t have to. She walked like someone who had survived every kind of 'no.'"*
 
 > *"She’d go out at night and rewire the speakers—spliced them into something older. Found tapes, not from SPA, not from anyone official. Songs. Women reading poems. Women screaming. And one time, this woman—hollow voice, flat like concrete—she just says, over and over:  
 >  
@@ -650,26 +649,26 @@ This could not be kept up any longer.
 
 > *"When we bled, they made us work with it in. Said it built tolerance. When we cried, they lowered our rations. Said hydration needed incentive."*
 
-> *"...That girl—Flicker, we called her—she never looked hungry, even when she was. She had this way of looking through you like she could measure how much of you was still your own."*
+> *"...That girl—Flicker, we called her—she never looked hungry, even when she was. She had this way of looking through you."*
 
 > *"She taught us things without saying them. Like how to cough once before a false shift report. How to tell the difference between VAP officers and asset contractors by the shape of their boots. How to leave messages in the scent-coding of cleaning fluid."*
 
-> *"After her, it stopped being about escape. It started being about inheritance. About building something *they couldn’t flatten.*"*
+> _"After her, it stopped being about escape. It started being about inheritance. About building something **they couldn’t flatten.**"_
 
 > *"They caught her in 1965. Stripped her in front of the wall she wired. Said she was ‘trying to corrupt the servile system.’ But I remember this—she smiled. Even with her jaw busted open. Smiled like she’d already made it out."*
 
 > **[VOICE CRACKLES BACK IN – NEW SPEAKER, YOUNG, BREATHLESS]**  
 > *"She didn’t just smuggle tapes. She smuggled the idea that we could have voices. She left holes in the walls where we could plant them."*
 
-> *"...I don’t remember her real name. But we called her *Flicker.*"*  
+> _"...I don’t remember her real name. But we called her *Flicker.*"_  
 
-> *"And every time a VAP unit’s comms cut out mid-sweep? Every time a door looks, feels a little wrong? Every time a girl disappears for three nights and comes back with something in her eyes?"*
+> *"And every time a VAP unit’s comms cut out mid-sweep? Every time a door looks and feels a little wrong? Every time a girl disappears for three nights and comes back with something in her eyes?"*
 
 > *"That’s Flick."*
 
 ## Transcript – Archive Clip 112 
 > **[VOICE – MALE, MID-50s, HOARSE BUT CONTROLLED]**  
-> *“They called it *Asset Conditioning*. I called it paperwork.”*
+> _“They called it **Asset Conditioning**. I called it paperwork.”_
 
 > *“I worked in the Correctional Oversight Department—Venus branch. Mid-floor. Nobody important. My job was to certify the behavioral assessments for serviles who ‘failed compliance.’ Not the punishment. Just the process around it.”*
 
@@ -713,10 +712,6 @@ This could not be kept up any longer.
 > *“I’m sending it now. If you get this, you’re either brave or already damned.”*
 
 > *“Do something with it.”*
-
-Certainly. Below is an **archive entry** told in the established **Venusian Broadcast Archive** format—**intimate, restrained**, but emotionally vivid. It captures the **rare, hidden tenderness** between two servile women in the depths of the Venus system—where affection is forbidden, and sex without surveillance is a form of rebellion. The piece blends **subtle eroticism** with defiance and vulnerability.
-
-It’s not graphic—but it’s deeply **physical**, **political**, and **private**.
 
 ---
 
