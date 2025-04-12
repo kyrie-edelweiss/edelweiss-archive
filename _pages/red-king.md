@@ -1780,7 +1780,7 @@ Room temperature drops 6°C in 4 seconds.
 
 ## 14:00:11 – EXTRACTION BEGINS
 **Time Stamp:** 13:29:22  
-**Location:** Vitruvian Motel – Floor 6, East Wing
+**Location:** Vitruvian Motel – Floor 6, East Wing  
 **Status:** In Progress
 
 *(Boots on tile. Harsh breathing. The girl is silent now, being carried between Tango and Zeta. Mike leads, weapon drawn. Lights dim.)*
