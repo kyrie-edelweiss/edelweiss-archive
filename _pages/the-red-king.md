@@ -793,9 +793,9 @@ This could not be kept up any longer.
 > **[VOICE CRACKLES BACK IN – NEW SPEAKER, YOUNG, BREATHLESS]**  
 > *"She didn’t just smuggle tapes. She smuggled the idea that we could have voices. She left holes in the walls where we could plant them."*
 
-> _"...I don’t remember her real name. But we called her *Flicker.*"_  
+> _"...I don’t remember her real name. But we called her **Flicker.**"_  
 
-> *"And every time they'd raid our dorms for contraband, and come back empty-handed to their superiors? Every time they'd drop dead, and the company would file it as 'sudden heart failure'? Every time a girl disappears for three nights and comes back with something in her eyes?"*
+> *"And every time they'd raid our dorms for contraband, and come back empty-handed to their superiors? Every time they'd drop dead, and the company would file it as 'sudden heart failure'? Every time a girl disappears for three nights and then **doesn't** come back bruised, beaten and raped?"*
 
 > *"That’s Flick."*
 
