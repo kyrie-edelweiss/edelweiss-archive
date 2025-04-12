@@ -802,7 +802,7 @@ This could not be kept up any longer.
 
 > _"...I don’t remember her real name. But we called her **Flicker.**"_  
 
-> *"Every time they'd raid our dorms for contraband with and come back empty handed? Every time they'd drop dead, and the company would file it as 'sudden heart failure'? And every time a girl disappears for three nights and then **doesn't** come back bruised, beaten and raped?"*
+> *"Every time they'd raid our dorms for contraband with and come back empty handed? Every time they'd drop dead, and the company would file it as 'sudden heart failure'? And every time a girl disappears for three nights and then **doesn't** come back bruised, beaten?"*
 
 > *"That’s Flick."*
 
