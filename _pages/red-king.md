@@ -2350,16 +2350,12 @@ Her voice is low, steady, the kind that speaks *after* war—when there’s no n
 
 > To the enforcers of the Seven Planet Authority: 
 >  
-> Your currency is worthless.  
-> Your codes of conduct are broken.  
-> Your camps are liberated.
+> Your currency will be worthless.  
+> Your codes of conduct will be broken.  
+> Your camps will be liberated—forcefully.
 >  
 > This is not a negotiation.  
-> This is correction.  
->  
-> You were not sabotaged.  
->  
-> **You were overpowered.**  
+> This is correction.   
 >  
 > Your time is over.”  
 
