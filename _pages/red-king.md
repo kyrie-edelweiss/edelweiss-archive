@@ -443,7 +443,7 @@ AUDIT NOTE:
 > But it didn’t feel right. When I looked at you, I didn’t see V-32-L. I saw… June.”
 
 > **JUNE (sharper):**  
-> “That wasn’t the first time I saw you. You filed forms. You watched them run their hands over girls who didn’t speak back. You were always careful not to touch. But you didn’t stop the others.”
+> “That wasn’t the first time I saw you. You filed forms. You watched them run their hands over girls who didn’t speak back.”
 
 > **JACK:**  
 > “…I signed girls out like inventory.”
