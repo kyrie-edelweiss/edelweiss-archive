@@ -167,7 +167,8 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 > “Minor disturbances have been reported, but remain manageable.”
 
 > **SECTOR 6 – SATURN**  
-> *(Visual: glowing ring cities with stained-glass hues; fine-print contracts scroll in the corner; stat: “204,239 Faith Centers”)*  
+> *(Visual: glowing ring cities with stained-glass hues; fine-print contracts scroll in the corner; stat: “204,239 Faith Centers”)*
+
 “**SATURN**: Since our departure from Earth, **SATURN** has served as a nexus for spiritual and cultural continuity.”  
 “The settlements are autonomous and doctrinally rigid. Our presence is limited, bound by longstanding contract. Intervention is neither advised nor welcomed.”  
 
