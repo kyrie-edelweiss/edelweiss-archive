@@ -2384,7 +2384,7 @@ Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 > **—we love you.** 
 >  
 > If you are a woman—  
-> born in chains, born in silence, born *wrong*— 
+> born in chains, born in silence, born *wrong*—  
 > and you are ready to end this—  
 >  
 > **you are one of us.**”
