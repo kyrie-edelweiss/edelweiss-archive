@@ -2081,7 +2081,7 @@ A presence at rest beside them.
 
 ---
 
-**IVY** (fingers still in Cyan’s hair):  
+**IVY** (fingers still in Alva’s hair):  
 "Do you think anyone believed our message?"
 
 **ALVA**:  
