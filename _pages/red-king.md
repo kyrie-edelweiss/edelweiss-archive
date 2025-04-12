@@ -219,7 +219,7 @@ She grew quieter.
 
 But sometimes, when sleep found her in its gentler moods, Katherina would dream.
 
-She would dream of two women—one young and golden-haired, the other older, her face scarred and her hair red like beetroot. They held her, fed her, whispered words not in any Earthborn tongue. She remembered the smell of oil and incense, the soft scratch of robes, the heat of hands on her forehead.
+She would dream of two women—one young and golden-haired, the other older, her face scarred and her hair red like beetroot. They held her, fed her, whispered words not in any Earthern tongue. She remembered the smell of oil and incense, the soft scratch of robes, the heat of hands on her forehead.
 
 And when the dreams faded—when she woke to the silence and the metal and the frost—something inside her *broke further.*
 
