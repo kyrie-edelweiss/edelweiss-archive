@@ -29,7 +29,7 @@ At the center of the room, six women form a circle. Some kneel, some stand, othe
 
 The men are gagged, bound with thick, soiled linen. They are nothing more than vessels—emptied of their humanity, reduced to objects for the women’s ritual. The air hums with the rhythm of it all: thrusts, screams, cuts, and grunts that blur into one chaotic symphony of violent devotion.
 
-Each stroke, each tear of flesh, each cry from the men is not an act of cruelty—no, it is an offering. Every drop of blood is sacrament. Every scream is a hymn of liberation, a hymn that sings the destruction of everything they have known. The women’s movements are erratic, almost animalistic in their zeal, as they strip the men of their power, piece by piece.
+Each stroke, each tear of flesh, each cry from the men is not an act of cruelty—no, it is an offering. Every drop of blood is sacrament. Every scream is a hymn of liberation, a hymn that sings the destruction of everything they have known. The women’s movements are erratic, almost animalistic in their zeal.
 
 _**MOTION… ERROR – EQUIPMENT MALFUNCTION**_
 
