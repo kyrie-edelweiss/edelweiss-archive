@@ -39,7 +39,7 @@ _"No—no, fuck, this isn’t enough! I need more—it's never enough! More!"_
 In the background, an older woman stands alone. Her presence is calm, composed, like the eye of a storm. Her hair is streaked with gray and bound tightly, but her gaze is sharp—calculating. She watches, her eyes filled with the kind of certainty that comes only from true belief.
 
 **OLDER WOMAN** (low, commanding):  
-_"Abigail. He is nothing but meat. Tear his cock off. With your teeth."_
+_"Abigail._ He is nothing but meat. Tear his cock off. With your teeth."_
 
 **MIDDLE-AGED WOMAN** (weeping, celebratory):  
 _"They deserve it—they deserve this! This is what they’ve done to us. This is the only justice we have!"_
@@ -105,7 +105,7 @@ A brief pause.
 > “That's everyone? Excellent. Good morning. I am Avery-Mary Edelweiss, executive director of this board. This is William Hertz, my senior strategic officer. Welcome to the first official Seven Planet Committee meeting.”
 
 
-Her words are crisp, her cadence refined by decades of institutional leadership. Her voice carries the affect of someone who has long since learned how to suppress both her accent and her allegiance to anything _but_ the company.
+Her words are crisp, her cadence refined by decades of institutional leadership. Her voice carries the affect of someone who has long since learned how to suppress both her accent and her allegiance to anything *but* the company.
 
 
 > “First, allow me to extend formal commendation. Each of you has demonstrated exceptional performance across high-priority sectors including advanced engineering, capital finance, defense logistics, research, and beyond. Your selection was not incidental—your track records have been reviewed, audited, and validated at the highest levels. Let this moment serve as a rare acknowledgment: your contributions are seen. They are appreciated. Well done.”
@@ -117,19 +117,19 @@ A ripple of polite laughter. Applause follows—brief, respectful.
 She does not join in.
 
 
-> “When I was elevated to this position,” she says, eyes scanning the room with a cool steadiness, “I was advised to consider it a unique honor. There are few women in these ranks—statistically, none before me. I accepted this not as a contradiction, but as a _correction_. Sentiment is not a substitute for strategy.”
+> “When I was elevated to this position,” she says, eyes scanning the room with a cool steadiness, “I was advised to consider it a unique honor. There are few women in these ranks—statistically, none before me. I accepted this not as a contradiction, but as a *correction*. Sentiment is not a substitute for strategy.”
 
 
 She continues, tone shifting to operational gravity.
 
 
-> “Due to the insurgent forces that have seized control of the Edelweiss Station — and more notably, our critical asset **VENUS** — as well as their continued acts of violence carried out under the guise of so-called _sex liberation_, this department has been established with a singular mandate: to dismantle the rising tide of female-led radical extremism.”
+> “Due to the insurgent forces that have seized control of the Edelweiss Station — and more notably, our critical asset **VENUS** — as well as their continued acts of violence carried out under the guise of so-called *sex liberation*, this department has been established with a singular mandate: to dismantle the rising tide of female-led radical extremism.”
 
 
 A few nods. Some lean forward. Green emits a quiet whistle. Applause, firmer this time.
 
 
-> “Let me be clear,” she says, voice sharpening. “I am not here to _represent_ women. I am here to eliminate threats. And the revolution currently staging its spectacle on Venus, under the perverse banner of 'female supremacy,' is the most potent ideological virus we’ve seen yet.”
+> “Let me be clear,” she says, voice sharpening. “I am not here to *represent* women. I am here to eliminate threats. And the revolution currently staging its spectacle on Venus, under the perverse banner of 'female supremacy,' is the most potent ideological virus we’ve seen yet.”
 
 
 She lets the silence weigh.
@@ -150,20 +150,20 @@ She does not smile. She simply nods once—subtle, contained—then signals to h
 William Hertz steps forward with measured authority. A low mechanical hum follows as the **reckorder**, embedded into the ceiling panel, activates. The chamber lights dim slightly. A translucent projection materializes on the wall behind him—clean, minimal, and institutional blue.
 
 > **SLIDE 1 – MERCURY**  
-> _(Visual: a scorched, wind-blasted colony; heat-map overlay in red; “Threat Vector: Eliminated”)_
+> *(Visual: a scorched, wind-blasted colony; heat-map overlay in red; “Threat Vector: Eliminated”)*
 >
 > “**MERCURY**: Following a sabotage event targeting atmospheric filtration systems, the colony is currently non-viable,” Hertz begins.  
 > “No recovery operations are scheduled. While regrettable, the loss neutralizes a significant threat vector. Reconstruction efforts will prioritize enhanced security infrastructure.”
 
 He pauses. The screen flickers.
 
-> “A moment of silence, please, for all confirmed _client_ casualties.”  
-> _(The projection dims to a dark gray, displaying a silent counter of names: 841 dead.)_
+> “A moment of silence, please, for all confirmed *client* casualties.”  
+> *(The projection dims to a dark gray, displaying a silent counter of names: 841 dead.)*
 
 ---
 
 > **SLIDE 2 – VENUS**  
-> _(Visual: glitched-out industrial landscape, static interference, silhouettes of women holding rifles are rendered in black, “1966: Total Comms Loss | 1969: Final Withdrawal”)_
+> *(Visual: glitched-out industrial landscape, static interference, silhouettes of women holding rifles are rendered in black, “1966: Total Comms Loss | 1969: Final Withdrawal”)*
 >
 > “**VENUS**: The situation is critical,” Hertz states, the image casting red light across the conference chamber.
 >
@@ -172,12 +172,12 @@ He pauses. The screen flickers.
 A silence follows.
 
 > “Full reclamation is unlikely. We assess long-term asset loss as permanent.”  
-> _(The reckorder’s projection subtly distorts, as if infected by the very chaos **VENUS** represents.)_
+> *(The reckorder’s projection subtly distorts, as if infected by the very chaos **VENUS** represents.)*
 
 ---
 
 > **SLIDE 3 – EARTH**  
-> _(Visual: grayscale Earth turning slowly; “DECOMMISSIONED” stamped across its surface, timeline overlay of mass migration off-planet)_
+> *(Visual: grayscale Earth turning slowly; “DECOMMISSIONED” stamped across its surface, timeline overlay of mass migration off-planet)*
 >
 > “**EARTH**: There is little to address,” William continues, unmoved.  
 > “Earth is no longer a recognized operating territory.”
@@ -187,7 +187,7 @@ Green shifts, then stills. No one else speaks.
 ---
 
 > **SLIDE 4 – MARS**  
-> _(Visual: red dunes swallowing machines, strange static glyphs appearing momentarily; status reads: “UNEXPLAINED FAILURE”)_
+> *(Visual: red dunes swallowing machines, strange static glyphs appearing momentarily; status reads: “UNEXPLAINED FAILURE”)*
 >
 > “**MARS:** Despite its status as our first colonization candidate, every initiative has ended in unexplained failure. It remains unoccupied, and likely will remain so.”
 
@@ -200,7 +200,7 @@ Jones and Michael exchange quiet nods, scribbling notes down.
 ---
 
 > **SLIDE 5 – JUPITER**  
-> _(Visual: R&D moons in orbit; data streams showing green operational metrics; Callisto marked “under surveillance”)_
+> *(Visual: R&D moons in orbit; data streams showing green operational metrics; Callisto marked “under surveillance”)*
 >
 > “**JUPITER**: Our R&D satellites—Io, Europa, and Ganymede—remain stable and ideologically neutral. We intend to increase funding to maintain their strategic output.”
 
@@ -211,7 +211,7 @@ He nods toward the red-pulsing marker on Callisto.
 ---
 
 > **SLIDE 6 – SATURN**  
-> _(Visual: glowing ring cities with stained-glass hues; fine-print contracts scroll in the corner; stat: “204,239 Faith Centers”)_
+> *(Visual: glowing ring cities with stained-glass hues; fine-print contracts scroll in the corner; stat: “204,239 Faith Centers”)*
 >
 > “**SATURN**: Since our departure from Earth, **SATURN** has served as a nexus for spiritual and cultural continuity.”
 
@@ -222,7 +222,7 @@ Lamont, **SATURN**’s representative, gives a brief nod of approval.
 ---
 
 > **SLIDE 7 – URANUS**  
-> _(Visual: The Pillar stretching from the middle of the planet vertically in both directions; silhouettes amid masses of men labeled “TARGET – EXECUTE”)_
+> *(Visual: The Pillar stretching from the middle of the planet vertically in both directions; silhouettes amid masses of men labeled “TARGET – EXECUTE”)*
 >
 > “**URANUS:** Our central defense and contractor training site. The Pillar spans from planetary core to upper atmosphere and lower atmosphere.”
 
@@ -235,7 +235,7 @@ Kildare, ex-military, remains stone-faced.
 ---
 
 > **SLIDE 8 – NEPTUNE**  
-> _(Visual: city-surface, stacked architecture like corporate files, sprawling underground nerve-map; a blinking green dot marks their current position)_
+> *(Visual: city-surface, stacked architecture like corporate files, sprawling underground nerve-map; a blinking green dot marks their current position)*
 >
 > “**NEPTUNE:** Our administrative capital. Beneath the surface lies a vast bureaucratic nerve center—synchronization at full capacity.”
 
@@ -255,7 +255,7 @@ They bore witness, too, when humanity—bleeding, burning, desperate—fled its 
 
 And then there once was a young woman—**Katherina.**
 
-The nights were long now, longer than they had any right to be. Out here, in this forgotten corridor of the cosmos, light was a dying thing. The stars no longer comforted; they glared down like indifferent gods with eyes that had long since turned away. The sky was _blacker than black,_ not empty, but _hollow._ 
+The nights were long now, longer than they had any right to be. Out here, in this forgotten corridor of the cosmos, light was a dying thing. The stars no longer comforted; they glared down like indifferent gods with eyes that had long since turned away. The sky was *blacker than black,* not empty, but *hollow.* 
 
 Katherina survived.
 
@@ -271,11 +271,11 @@ But sometimes, when sleep found her in its gentler moods, Katherina would dream.
 
 She would dream of two women—one young and golden-haired, the other older, her face scarred and her hair red like beetroot. They held her, fed her, whispered words not in any Earthborn tongue. She remembered the smell of oil and incense, the soft scratch of robes, the heat of hands on her forehead.
 
-And when the dreams faded—when she woke to the silence and the metal and the frost—something inside her _broke further._
+And when the dreams faded—when she woke to the silence and the metal and the frost—something inside her *broke further.*
 
 One night, when her thoughts became too loud and the darkness too vast, Katherina would step into the lightless deadzone of her abode sheltered from the encroach of the phosphorus-light. Her breath was foggy. She dropped to her knees.
 
-Kneeling, she turned her eyes to the stars—not in reverence, but in desperation. Her voice, hoarse from disuse, cracked as she pleaded to the celestial spheres, to the husks of constellations, to the absent light of the **SUN**._
+Kneeling, she turned her eyes to the stars—not in reverence, but in desperation. Her voice, hoarse from disuse, cracked as she pleaded to the celestial spheres, to the husks of constellations, to the _absent light of the **SUN**._
 
 There was no answer.
 
@@ -283,23 +283,23 @@ Only silence. The kind that weighs.
 
 But her thoughts pulsed like a signal:
 
-_"I hope someone visits me soon._
+*"I hope someone visits me soon.*
 
-_That's what I need._
+*That's what I need.*
 
-_I won’t be alone anymore._
+*I won’t be alone anymore.*
 
-_When they come visit me…_
+*When they come visit me…*
 
-_I won’t be so cold._
+*I won’t be so cold.*
 
-_It’ll be nice._
+*It’ll be nice.*
 
-_I can't be alone anymore._
+*I can't be alone anymore.*
 
-_I hope someone visits me soon._
+*I hope someone visits me soon.*
 
-_I won't be alone anymore."_
+*I won't be alone anymore."*
 
 She repeated these words like scripture. Like a mantra carved into her soul by frostbitten fingers.
 
@@ -307,7 +307,7 @@ And time—patient, cruel, unending—marched on.
 
 No voice ever came. No warmth returned. The world she once knew was dust, the people she once loved were myth, and the stars were no longer storytellers, only tombstones.
 
-Her loneliness metastasized into something deeper. Not merely a want for company—but a _hunger_ for purpose, for meaning, for **visitation.**
+Her loneliness metastasized into something deeper. Not merely a want for company—but a *hunger* for purpose, for meaning, for **visitation.**
 
 Sometimes, she thought she heard whispers from the sky. Songs from the rust of metal. Footsteps in the radio-static. Sometimes, she welcomed them.
 
@@ -324,13 +324,13 @@ Ever since the **SUN** departed.
 # Chapter 4 - The RED KING
 **Period: Present Day … Year: 1984 … Location: Venus**
 
-Katherina lay draped across her narrow bed, limbs slack, eyes fluttering beneath pale lids—half-sunken in sleep, half-hungering still. She had devoured another text from the Venusian archive, a brittle book bound in leather-soft skin, its pages soaked in language that shimmered like oil under her flickering phosphorus light. She’d read it cover to cover, mouth parted in trance, and tossed it into the growing pile beside her—_The Liturgies of the Fleshbound Womb_, or something like that.
+Katherina lay draped across her narrow bed, limbs slack, eyes fluttering beneath pale lids—half-sunken in sleep, half-hungering still. She had devoured another text from the Venusian archive, a brittle book bound in leather-soft skin, its pages soaked in language that shimmered like oil under her flickering phosphorus light. She’d read it cover to cover, mouth parted in trance, and tossed it into the growing pile beside her—*The Liturgies of the Fleshbound Womb*, or something like that.
 
 The air around her pulsed with faint heat. Her mind flickered between dream and waking.
 
-Then, in the corner of her softening sight—_a shadow._
+Then, in the corner of her softening sight—*a shadow.*
 
-First upon her thigh. Then sliding upward across her ribs, to her chest, like a hand made not of matter but _pressure._ The room dimmed further, and the breath in her lungs felt thick with iron. The shadow moved—not quickly, not violently—but _deliberately_, with the certainty of something that had been waiting far too long.
+First upon her thigh. Then sliding upward across her ribs, to her chest, like a hand made not of matter but *pressure.* The room dimmed further, and the breath in her lungs felt thick with iron. The shadow moved—not quickly, not violently—but *deliberately*, with the certainty of something that had been waiting far too long.
 
 The thunder that once rumbled in the high sky fell silent.
 
@@ -339,14 +339,14 @@ Even the low, constant hum of Venus's acidic winds held its breath.
 And in the stillness—beyond the glass of her narrow window, past the ragged clouds of sulfur and rain—stood something massive.
 
 It did not blink. It did not move.  
-But it _watched._
+But it *watched.*
 
 **MARS.**  
 The **RED KING**.
 
 And Katherina, paralyzed in that dim room, felt her thoughts collapse like ash. Her skin turned to glass. Her blood grew cold. She tried to scream, to call out, but only breath escaped—wet and useless.
 
-Her hand reached for the knife in the bedside drawer—a rusted little thing, barely sharper than a spoon—but even that small act felt impossible beneath that _gaze._
+Her hand reached for the knife in the bedside drawer—a rusted little thing, barely sharper than a spoon—but even that small act felt impossible beneath that *gaze.*
 
 And then—like thunder cracking across her bones—a voice:
 
@@ -365,11 +365,11 @@ And again, the voice:
 **"YOU RUN TOO FAR IN THE DARK…  
 AND YOU GET YOURSELF LOST."**
 
-Something changed. The dream peeled back. This was not a vision. This was not fantasy or delusion or fever-born madness. This was _now._ This was _real._
+Something changed. The dream peeled back. This was not a vision. This was not fantasy or delusion or fever-born madness. This was *now.* This was *real.*
 
 Her pleading had been answered—not by the star-eyed mothers, not by the Watchers, not by Venus, but by **MARS.**
 
-And he had come in _full._
+And he had come in *full.*
 
 The silence thickened. Her chest heaved. The lightbars flickered and dimmed, flickered and died.
 
@@ -380,19 +380,19 @@ I CAN MAKE YOU WHOLE."**
 
 Katherina opened her mouth. She did not scream.
 
-She _spoke_ to him.
+She *spoke* to him.
 
-She told him how alone she was. How long she had wandered. How there were no voices left. How she had searched every place, every spot, every echo. How her memories were slipping from her. How she stockpiled rations into boxes and boxes of the stuff. How she no longer remembered the faces of her mothers, or if they had ever loved her, or if they were even real. And how her name is _Katherina_.
+She told him how alone she was. How long she had wandered. How there were no voices left. How she had searched every place, every spot, every echo. How her memories were slipping from her. How she stockpiled rations into boxes and boxes of the stuff. How she no longer remembered the faces of her mothers, or if they had ever loved her, or if they were even real. And how her name is *Katherina*.
 
 She told him how she had waited.
 
 And waited.
 
-And _waited._
+And *waited.*
 
 The voice no longer rattled her teeth. The bed no longer trembled.
 
-Something inside her soul — _something frayed and near-broken_ — stilled.
+Something inside her soul — *something frayed and near-broken* — stilled.
 
 And then:
 
@@ -411,31 +411,31 @@ Not yet.
 # Chapter 5 - Bedtime Stories
 **Period: Present Day … Year: 1984 … Location: Venus**
 
-_The phosphorus light trembled like a candle lost in a cavernous lung. Outside, the sulfurous wind hissed its muted lullaby. Inside, the air was _thick_—syrupy with heat and pressure and the scent of something ancient._
+_The phosphorus light trembled like a candle lost in a cavernous lung. Outside, the sulfurous wind hissed its muted lullaby. Inside, the air was *thick*—syrupy with heat and pressure and the scent of something ancient._
 
 Katherina sat upright upon her narrow bed, posture brittle but poised, facing the frost-veined window like it was an altar. Beyond the fogged pane, in that strange depthless black where the stars had once sung, the shape waited. Not hovering. Not looming.
 
-Simply _there_.
+Simply *there*.
 
-**MARS** had no face—but somehow she could feel the weight of his eyes. The curve of attention. His silence was not absence, but _invitation._
+**MARS** had no face—but somehow she could feel the weight of his eyes. The curve of attention. His silence was not absence, but *invitation.*
 
-They _spoke_.
+They *spoke*.
 
-For an hour or more—though time had long since become a concept for the desperate—they traded truths like relics. Her voice was coarse, shaped by long disuse and colder nights. His voice, by contrast, was monolithic. Not loud. _Large._ A sound that filled space and bone and the narrowing corridors of her mind.
+For an hour or more—though time had long since become a concept for the desperate—they traded truths like relics. Her voice was coarse, shaped by long disuse and colder nights. His voice, by contrast, was monolithic. Not loud. *Large.* A sound that filled space and bone and the narrowing corridors of her mind.
 
 She told him of her loneliness. Of the dead cities. The old names. The taste of ration-syrup and the tea that made her weep. She told him of her searching, of the bunkers, the towers, the bones she whispered to. Of her mothers—real or imagined—and of the dreams where hands stroked her hair and kissed her third eye.
 
 He listened.
 
-And then, somewhere between a laugh and a confession, Katherina made a sly remark—about the _men_ of Venus, or rather, the lack of them. The hollow ones, the cruel ones, the weak ones. She spoke of longing. Of hunger. Of the heat between her thighs that not even prayer could soothe.
+And then, somewhere between a laugh and a confession, Katherina made a sly remark—about the *men* of Venus, or rather, the lack of them. The hollow ones, the cruel ones, the weak ones. She spoke of longing. Of hunger. Of the heat between her thighs that not even prayer could soothe.
 
-**MARS** did not pause. He _declared_:
+**MARS** did not pause. He *declared*:
 
 > **"I AM THE PERFECT MAN. I AM THE CONCEPT OF MAN. THERE WILL NEVER BE ANOTHER LIKE ME."**
 
-His words did not warm her. They _pierced_ her. Something inside her clenched—not in fear, but in awe. In recognition.
+His words did not warm her. They *pierced* her. Something inside her clenched—not in fear, but in awe. In recognition.
 
-They discussed this—what it meant to _be_ a man, a god, a concept made flesh through will and violence and memory. And desire.
+They discussed this—what it meant to *be* a man, a god, a concept made flesh through will and violence and memory. And desire.
 
 Then she asked about the others.
 
@@ -445,7 +445,7 @@ The voices once heard across the stars. The transmissions. The colonies. The lau
 
 > **"THE OTHERS ARE GONE. THEY ABANDONED US."**
 
-She reeled. But not because he knew. Because he _didn’t_. He, too, was unsure. They had simply… vanished.
+She reeled. But not because he knew. Because he *didn’t*. He, too, was unsure. They had simply… vanished.
 
 He repeated, quieter this time, but with twice the weight:
 
@@ -468,12 +468,12 @@ War. Starfire. Collapse. The death of Venusian cities, the fracturing of mind an
 
 And that was truth.
 
-Not spoken. _Etched._
+Not spoken. *Etched.*
 
 > **"WE ONLY HAVE EACH OTHER.  
 > IT’S ALL THEIR FAULT."**
 
-Katherina did not resist this truth. She _absorbed_ it. Welcomed it like warmth on a frostbitten palm. Their world—ravaged, starless, orphaned—was still _theirs._
+Katherina did not resist this truth. She *absorbed* it. Welcomed it like warmth on a frostbitten palm. Their world—ravaged, starless, orphaned—was still *theirs.*
 
 They spoke further. Of survival. Of purpose. Of becoming more than the echo of a dead race.
 
@@ -483,7 +483,7 @@ And then, **MARS**, with the slow gravity of inevitability, said:
 > THIS COLD PLACE IS OUR HOME.  
 > WE WILL MAKE IT OUR HOME."**
 
-His voice was not pleading. It was _sovereign._
+His voice was not pleading. It was *sovereign.*
 
 She did not hesitate. She understood.
 
@@ -496,7 +496,7 @@ Katherina answered without blinking:
 
 > **"I UNDERSTAND."**
 
-A breathless pause followed. The light dimmed further. Outside, the shape in the void seemed to lean _closer._
+A breathless pause followed. The light dimmed further. Outside, the shape in the void seemed to lean *closer.*
 
 And then, softly—like a knife kissing skin:
 
@@ -511,7 +511,7 @@ Fingers combing through her hair.
 A lullaby hummed off-key.  
 The feel of soft cloth draped over her cheek while someone whispered:
 
-_"Shh, little one. You're safe. You're loved. Sleep now."_
+*"Shh, little one. You're safe. You're loved. Sleep now."*
 
 There were two voices.  
 Two women.  
@@ -523,8 +523,8 @@ They told her stories about stars.
 
 She remembers lying between them in the dark, the hum of a failing generator overhead, feeling them breathe on either side.
 
-_"You're going to be someone,"_ one whispered.  
-_"You already are,"_ said the other.
+*"You're going to be someone,"* one whispered.  
+*"You already are,"* said the other.
 
 But then it changes.
 
@@ -533,8 +533,8 @@ A flashlight in her eyes.
 Gloves again—but colder this time. Rougher.  
 Voices she didn’t recognize.
 
-_"She’s the one."_  
-_"Just sedate her."_
+*"She’s the one."*  
+*"Just sedate her."*
 
 She screamed for her mothers.  
 She felt the needle.
@@ -548,64 +548,64 @@ When she gasps back into herself, her hands are curled into fists, pressed to he
 # Chapter 6 - White Cell
 **Period: 8 Years Ago … Year: 1976 … Location: VENUS**
 
-> _SERGEI’S JOURNAL_
+> *SERGEI’S JOURNAL*
 
 > **PAGE 3**  
-> - _...precipitation’s picking up. I gotta find shelter._  
+> - *...precipitation’s picking up. I gotta find shelter.*  
 > - _It’s been like this for a while. The poor bastards still think there’s anything left in this hellhole. The metal’s all vanished and rusted, the acid rain made sure of that. They come in droves from **SATURN**'s installations, thinking they’ll find jack shit trinkets and baubles from their various cult bullshit here._  
-> - _Sometimes they come from other planets with their own stupid good-for-nothing motivations._  
-> - _If the monsoon won’t kill 'em, the heat surely will. Then I loot them._
+> - *Sometimes they come from other planets with their own stupid good-for-nothing motivations.*  
+> - *If the monsoon won’t kill 'em, the heat surely will. Then I loot them.*
 
 > **PAGE 4**  
-> - _Life’s good._  
-> - _I carry a pistol, just to be sure. You never know._  
+> - *Life’s good.*  
+> - *I carry a pistol, just to be sure. You never know.*  
 
 > **PAGE 9**  
-> - _Sometimes they land in the catacombs. Not my problem. I find some of them in shackles. The work of the Seven Planet Authority, no doubt._  
-> - _Found a survivor camp full of women who were shot to death._  
+> - *Sometimes they land in the catacombs. Not my problem. I find some of them in shackles. The work of the Seven Planet Authority, no doubt.*  
+> - *Found a survivor camp full of women who were shot to death.*  
 
 > **PAGE 12**  
 > - _I found a corpse that didn’t rot._  
-> - _It was smiling, still warm, though I know it was dead for days. He had seven circles carved into his chest—like planetary alignments gone wrong._  
-> - _I think he was from Mercury._  
-> - _I left him where I found him. Buried his gun, though. Seemed like the right thing to do._
+> - *It was smiling, still warm, though I know it was dead for days. He had seven circles carved into his chest—like planetary alignments gone wrong.*  
+> - *I think he was from Mercury.*  
+> - *I left him where I found him. Buried his gun, though. Seemed like the right thing to do.*
 
 > **PAGE 18**  
-> - _You fucking guessed it—found more man-murder sites today._  
-> - _This world’s getting to me, and it’s gettin’ bad. Been hearing whispers in the ground for a while. Makes no goddamn sense._  
+> - *You fucking guessed it—found more man-murder sites today.*  
+> - *This world’s getting to me, and it’s gettin’ bad. Been hearing whispers in the ground for a while. Makes no goddamn sense.*  
 > - _They always said the blood of men would rise to the skies one day and become newborn oceans._  
 > - _That the soil’s cursed with fossils of some fucked-lookin’ bird people._  
 > - _That the sun would one day leave us._  
-> - _I don’t think there’s much left in me._
+> - *I don’t think there’s much left in me.*
 
 > **PAGE 23**  
 > - _Saw her silhouette on the ridge last night. I thought I was alone out here._
 
 > **PAGE 27**  
 > - _**VENUS** isn’t just dying. It’s remembering._  
-> - _Something deep under this crust wants to come back._  
-> - _Maybe it already has. Maybe it’s her. The one from the prophecy. That girl. The one who eats names._  
+> - *Something deep under this crust wants to come back.*  
+> - *Maybe it already has. Maybe it’s her. The one from the prophecy. That girl. The one who eats names.*  
 
 > **PAGE 32**  
-> - _The fire spoke last night._  
-> - _I was burning a carcass, and the smoke bent into words. Told me to drop my name. Said it was rotting me from the inside._  
-> - _I woke up this morning without my voice._  
-> - _Wrote my name over and over in the gravel to try to remember it. It kept changing._
+> - *The fire spoke last night.*  
+> - *I was burning a carcass, and the smoke bent into words. Told me to drop my name. Said it was rotting me from the inside.*  
+> - *I woke up this morning without my voice.*  
+> - *Wrote my name over and over in the gravel to try to remember it. It kept changing.*
 
 > **PAGE 33**  
 > - _Don’t answer if someone asks you to tell them your name._   
-> - _I think I made her angry. I think she knows I wrote all this down._  
-> - _I'm going to bury the journal where the wind doesn’t blow._  
-> - _No more pages. Not if I want to keep my skin._
+> - *I think I made her angry. I think she knows I wrote all this down.*  
+> - *I'm going to bury the journal where the wind doesn’t blow.*  
+> - *No more pages. Not if I want to keep my skin.*
 
-> _(This is the final entry. The rest of the journal is blank, except for faint imprints in the paper—as if someone kept writing, without ink, long after the pen dried up.)_
+> *(This is the final entry. The rest of the journal is blank, except for faint imprints in the paper—as if someone kept writing, without ink, long after the pen dried up.)*
 
 # Chapter 7 - Red Sex
 **Period: Present Day … Year: 1985 … Location: Venus**
 
 The sex was a little awkward.  
 
-She always felt so _small_.
+She always felt so *small*.
 
 Not physically—her body was long and wiry, almost stretched thin by gravity that never loved her back. No, she was small in the way people get when they forget how to be real. When they perform every gesture like it's been passed down from ghosts.
 
@@ -623,7 +623,7 @@ She wore it like she owed it to someone—maybe to the dead, maybe to Venus hers
 
 I shouldn't, but I peer into her dreams.
 
-She dreams of before the flash. Of a time when Venus and the **SUN** were close—_intimate_. She says they used to kiss through clouds, through fire. She says Venus was radiant once. That she _glowed_. Like I remember Venus.
+She dreams of before the flash. Of a time when Venus and the **SUN** were close—*intimate*. She says they used to kiss through clouds, through fire. She says Venus was radiant once. That she *glowed*. Like I remember Venus.
 
 And she wonders:
 
@@ -666,7 +666,7 @@ She subsisted on sugar cubes and rice. Sometimes honey if she rationed right. Th
 
 All the standard phosphorus lights malfunctioned. Gasoline was low to the point where she moved in pitch black, counting steps.
 
-Keeping herself busy with arts and crafts was growing more and more difficult. Drawing had become shameful. **MARS** didn’t like the way she depicted him-said it was "dishonest." Her karaoke was increasingly uninspired. And the monospeaker—_that_ speaker—emitted this faint whine, a mosquito in her ear that never died. It broadcast his voice sometimes, or a distorted imitation of it.
+Keeping herself busy with arts and crafts was growing more and more difficult. Drawing had become shameful. **MARS** didn’t like the way she depicted him-said it was "dishonest." Her karaoke was increasingly uninspired. And the monospeaker—*that* speaker—emitted this faint whine, a mosquito in her ear that never died. It broadcast his voice sometimes, or a distorted imitation of it.
 
 He still enjoyed her dancing. Actually, he loved it. Sensual, slow. She danced even when her legs shook. Even when her lungs burned.
 
@@ -676,24 +676,24 @@ They used to talk about strange, beautiful things. Cosmic things. Ideas. Symbols
 
 The demands came faster. Her mind couldn’t keep up. Sometimes she'd forget her own name.
 
-> _Sex ruins everything that could’ve been beautiful._
+> *Sex ruins everything that could’ve been beautiful.*
 
 She didn’t remember where she heard that. Or if she said it first. Maybe it was in a dream. Maybe it was a thought Venus once whispered before the **SUN** left her behind.
 
-The worst part was the suspicion. **MARS** had to be hiding something. Behind all the cold lust, behind the obsession—something was _wrong_. She didn’t have the words. She only had a sensation deep in her stomach.
+The worst part was the suspicion. **MARS** had to be hiding something. Behind all the cold lust, behind the obsession—something was *wrong*. She didn’t have the words. She only had a sensation deep in her stomach.
 
 This could not be kept up any longer.
 
 # Chapter 8: Rememberance Records
 ## Transcript – Archive Clip 047
 > **[VOICE – FEMALE, MID-30s, SMOKY ACCENT]**  
-> _"I used to iron their sheets. Every morning, before shift. You could still smell the oil from the drills when you held the corners. They said that was charm. Said that was tradition."_
+> *"I used to iron their sheets. Every morning, before shift. You could still smell the oil from the drills when you held the corners. They said that was charm. Said that was tradition."*
 
 > **[LAUGHTER – MULTIPLE WOMEN, DISTORTED]**
 
-> _"There was a girl in our barracks. She'd tuck her hair under the helmet, and we’d pass her the ration powder first like she was a captain. One time she traded an entire night's sleep for three hormone capsules smuggled in through Callisto. I never asked how she knew which guards were stupid."_
+> *"There was a girl in our barracks. She'd tuck her hair under the helmet, and we’d pass her the ration powder first like she was a captain. One time she traded an entire night's sleep for three hormone capsules smuggled in through Callisto. I never asked how she knew which guards were stupid."*
 
-> _"...She didn’t talk about who she was. She didn’t have to. She _walked like someone who had survived every kind of 'no.'_"_
+> *"...She didn’t talk about who she was. She didn’t have to. She *walked like someone who had survived every kind of 'no.'*"*
 
 > *"She’d go out at night and rewire the speakers—spliced them into something older. Found tapes, not from SPA, not from anyone official. Songs. Women reading poems. Women screaming. And one time, this woman—hollow voice, flat like concrete—she just says, over and over:  
 >  
@@ -701,73 +701,73 @@ This could not be kept up any longer.
 
 > **[AUDIO GLITCH – 13 SECONDS OF SILENCE]**
 
-> _"Venus was always too hot for dreams. The walls sweated. The oxygen was thin and bitter. They kept the lights tuned to colors that made you forget time—said it improved productivity. No clocks. No mirrors. Just efficiency."_
+> *"Venus was always too hot for dreams. The walls sweated. The oxygen was thin and bitter. They kept the lights tuned to colors that made you forget time—said it improved productivity. No clocks. No mirrors. Just efficiency."*
 
-> _"When we bled, they made us work with it in. Said it built tolerance. When we cried, they lowered our rations. Said hydration needed incentive."_
+> *"When we bled, they made us work with it in. Said it built tolerance. When we cried, they lowered our rations. Said hydration needed incentive."*
 
-> _"...That girl—Flicker, we called her—she never looked hungry, even when she was. She had this way of looking through you like she could measure how much of you was still your own."_
+> *"...That girl—Flicker, we called her—she never looked hungry, even when she was. She had this way of looking through you like she could measure how much of you was still your own."*
 
-> _"She taught us things without saying them. Like how to cough once before a false shift report. How to tell the difference between VAP officers and asset contractors by the shape of their boots. How to leave messages in the scent-coding of cleaning fluid."_
+> *"She taught us things without saying them. Like how to cough once before a false shift report. How to tell the difference between VAP officers and asset contractors by the shape of their boots. How to leave messages in the scent-coding of cleaning fluid."*
 
-> _"After her, it stopped being about escape. It started being about inheritance. About building something _they couldn’t flatten._"_
+> *"After her, it stopped being about escape. It started being about inheritance. About building something *they couldn’t flatten.*"*
 
-> _"They caught her in 1965. Stripped her in front of the wall she wired. Said she was ‘trying to corrupt the servile system.’ But I remember this—she smiled. Even with her jaw busted open. Smiled like she’d already made it out."_
+> *"They caught her in 1965. Stripped her in front of the wall she wired. Said she was ‘trying to corrupt the servile system.’ But I remember this—she smiled. Even with her jaw busted open. Smiled like she’d already made it out."*
 
 > **[VOICE CRACKLES BACK IN – NEW SPEAKER, YOUNG, BREATHLESS]**  
-> _"She didn’t just smuggle tapes. She smuggled the idea that we could have voices. She left holes in the walls where we could plant them."_
+> *"She didn’t just smuggle tapes. She smuggled the idea that we could have voices. She left holes in the walls where we could plant them."*
 
-> _"...I don’t remember her real name. But we called her _Flicker._"_  
+> *"...I don’t remember her real name. But we called her *Flicker.*"*  
 
-> _"And every time a VAP unit’s comms cut out mid-sweep? Every time a door looks, feels a little wrong? Every time a girl disappears for three nights and comes back with something in her eyes?"_
+> *"And every time a VAP unit’s comms cut out mid-sweep? Every time a door looks, feels a little wrong? Every time a girl disappears for three nights and comes back with something in her eyes?"*
 
-> _"That’s Flick."_
+> *"That’s Flick."*
 
 ## Transcript – Archive Clip 112 
 > **[VOICE – MALE, MID-50s, HOARSE BUT CONTROLLED]**  
-> _“They called it _Asset Conditioning_. I called it paperwork.”_
+> *“They called it *Asset Conditioning*. I called it paperwork.”*
 
-> _“I worked in the Correctional Oversight Department—Venus branch. Mid-floor. Nobody important. My job was to certify the behavioral assessments for serviles who ‘failed compliance.’ Not the punishment. Just the process around it.”_
+> *“I worked in the Correctional Oversight Department—Venus branch. Mid-floor. Nobody important. My job was to certify the behavioral assessments for serviles who ‘failed compliance.’ Not the punishment. Just the process around it.”*
 
 > **[SFX: Ambient office noise – faint printer whir, air recirculators, a distant drone of bureaucratic hum.]**
 
-> _“You’d get these reports—lines of numbers. Emotional volatility, libido productivity, obedience latency, fertility status. It all looked clean. Math always does.”_
+> *“You’d get these reports—lines of numbers. Emotional volatility, libido productivity, obedience latency, fertility status. It all looked clean. Math always does.”*
 
-> _“The girls weren’t numbers, though. Not really. They were test cases. Every month, they’d slip new protocols into the system. Quietly. No memos. Just new checkboxes.”_
+> *“The girls weren’t numbers, though. Not really. They were test cases. Every month, they’d slip new protocols into the system. Quietly. No memos. Just new checkboxes.”*
 
 > *‘Has she made eye contact for more than 3.4 seconds?’  
 > ‘Has she asked to keep her original name?’  
 > ‘Has she formed intra-sex bonds unapproved by morale units?’  
-> ‘Does she exhibit… _independent linguistic framing?_’”*
+> ‘Does she exhibit… *independent linguistic framing?*’”*
 
 > **[PAUSE – BREATHING AUDIBLY THROUGH NOSE]**
 
-> _“You know what ‘independent linguistic framing’ means? It means she used a word we didn’t teach her.”_
+> *“You know what ‘independent linguistic framing’ means? It means she used a word we didn’t teach her.”*
 
-> _“If the girls scored red on more than two flags, the report went to VAP. From there, I didn’t see anything. Just reassignment notices. Or deletion codes.”_
+> *“If the girls scored red on more than two flags, the report went to VAP. From there, I didn’t see anything. Just reassignment notices. Or deletion codes.”*
 
-> _“Once, a girl wrote ‘no’ in chalk. On the side of a ration bin. Small, faint. Someone caught it. Her number was V-76-E. I still remember that. VAP came in within the hour. Two guards. One nurse.”_
+> *“Once, a girl wrote ‘no’ in chalk. On the side of a ration bin. Small, faint. Someone caught it. Her number was V-76-E. I still remember that. VAP came in within the hour. Two guards. One nurse.”*
 
-> _“I signed the removal form. I didn’t even have to type it. The system filled it out automatically. Just needed a biometric pulse. I gave it mine.”_
+> *“I signed the removal form. I didn’t even have to type it. The system filled it out automatically. Just needed a biometric pulse. I gave it mine.”*
 
 > **[SFX: PAPER SHUFFLING, THEN A DEEP EXHALE]**
 
-> _“They weren’t even hiding it. That was the part that got me. The cruelty wasn’t masked. It was modular.”_
+> *“They weren’t even hiding it. That was the part that got me. The cruelty wasn’t masked. It was modular.”*
 
-> _“There’s this protocol—Section 14/9b. Internal term: ‘Divergent Correctional Intimacy.’ I thought it was slang. Until I saw the documentation. Whole programs designed to ‘test the elasticity of feminine behavioral thresholds.’”_
+> *“There’s this protocol—Section 14/9b. Internal term: ‘Divergent Correctional Intimacy.’ I thought it was slang. Until I saw the documentation. Whole programs designed to ‘test the elasticity of feminine behavioral thresholds.’”*
 
-> _“They called it elastic. I called it what it was.”_
+> *“They called it elastic. I called it what it was.”*
 
-> _“Rape by spreadsheet.”_
+> *“Rape by spreadsheet.”*
 
 > **[SFX: CHAIR CREAKING, SLIGHT STATIC]**
 
-> _“I don’t expect forgiveness. I don’t expect survival. But I kept one file. Just one. Printed it off and fed it through a trash unit marked for sterilization. Burned the rest.”_
+> *“I don’t expect forgiveness. I don’t expect survival. But I kept one file. Just one. Printed it off and fed it through a trash unit marked for sterilization. Burned the rest.”*
 
-> _“This is the only copy.”_
+> *“This is the only copy.”*
 
-> _“I’m sending it now. If you get this, you’re either brave or already damned.”_
+> *“I’m sending it now. If you get this, you’re either brave or already damned.”*
 
-> _“Do something with it.”_
+> *“Do something with it.”*
 
 Certainly. Below is an **archive entry** told in the established **Venusian Broadcast Archive** format—**intimate, restrained**, but emotionally vivid. It captures the **rare, hidden tenderness** between two servile women in the depths of the Venus system—where affection is forbidden, and sex without surveillance is a form of rebellion. The piece blends **subtle eroticism** with defiance and vulnerability.
 
@@ -777,39 +777,39 @@ It’s not graphic—but it’s deeply **physical**, **political**, and **privat
 
 ### Transcript – Archive Clip 077 
 > **[VOICE – FEMALE, LATE 20s, TENDER, SLIGHTLY BREATHLESS]**  
-> _“Her hands were always cold at first. They’d warm up under my ribs.”_
+> *“Her hands were always cold at first. They’d warm up under my ribs.”*
 
-> _“We worked opposite ends of the facility. I ran maintenance routing—sixteen hours sorting cables that didn’t go anywhere. She was in the chemical rooms. Breathing bleach like perfume. Hands always cracked.”_
+> *“We worked opposite ends of the facility. I ran maintenance routing—sixteen hours sorting cables that didn’t go anywhere. She was in the chemical rooms. Breathing bleach like perfume. Hands always cracked.”*
 
-> _“There was a chute behind the incinerator vent. No cameras. No sensors. We’d lie on the steel and pretend it was soft. Pretend the heat wasn’t from the vents.”_
+> *“There was a chute behind the incinerator vent. No cameras. No sensors. We’d lie on the steel and pretend it was soft. Pretend the heat wasn’t from the vents.”*
 
 > **[SFX: LOW, METALLIC WIND – DISTANT PIPELINE PRESSURE]**
 
-> _“She always came to me marked. Scrapes, heat rash, burn lines where the collar stuck to her. I’d press my mouth to every one. Real gentle. Like I was fixing them.”_
+> *“She always came to me marked. Scrapes, heat rash, burn lines where the collar stuck to her. I’d press my mouth to every one. Real gentle. Like I was fixing them.”*
 
-> _“We never talked about being lovers. That word didn’t exist down there. But sometimes she’d whisper, real quiet, ‘I want to forget the shift code.’ That meant: don’t stop tonight. That meant: take the whole hour.”_
+> *“We never talked about being lovers. That word didn’t exist down there. But sometimes she’d whisper, real quiet, ‘I want to forget the shift code.’ That meant: don’t stop tonight. That meant: take the whole hour.”*
 
-> _“We’d slide the uniforms down to the ankles. Lie belly to belly. Arms hooked together like netting. We never rushed. The longer we went, the more it felt like we were wasting company time. That felt holy.”_
+> *“We’d slide the uniforms down to the ankles. Lie belly to belly. Arms hooked together like netting. We never rushed. The longer we went, the more it felt like we were wasting company time. That felt holy.”*
 
-> _“I remember the first time she cried while she was inside me. Said it felt too real. Said it hurt to feel _wanted_ without a clipboard.”_
+> *“I remember the first time she cried while she was inside me. Said it felt too real. Said it hurt to feel *wanted* without a clipboard.”*
 
-> _“I said I’d write her a report if that helped. Three violations of protocol. Two sustained interruptions. One unsanctioned moan.”_
+> *“I said I’d write her a report if that helped. Three violations of protocol. Two sustained interruptions. One unsanctioned moan.”*
 
 > **[SFX: SMALL LAUGHTER – BARELY AUDIBLE. SHARED.]**
 
-> _“There were times we didn’t even undress. Just held each other through the fabric. She’d say, ‘If we strip too fast they’ll think we’re working again.’”_
+> *“There were times we didn’t even undress. Just held each other through the fabric. She’d say, ‘If we strip too fast they’ll think we’re working again.’”*
 
-> _“Once, after a double shift, we fell asleep like that. Woke up to sirens. Crawled back to our quarters in opposite directions, grease on our thighs. Didn't speak for a week. Thought maybe we’d been flagged.”_
+> *“Once, after a double shift, we fell asleep like that. Woke up to sirens. Crawled back to our quarters in opposite directions, grease on our thighs. Didn't speak for a week. Thought maybe we’d been flagged.”*
 
-> _“But no summons came. No reassignment. No camera playback.”_
+> *“But no summons came. No reassignment. No camera playback.”*
 
-> _“We were ghosts again.”_
+> *“We were ghosts again.”*
 
-> _“We never got caught. Or maybe we did, and they let it happen. Maybe they needed to know what we’d cling to if left unsupervised.”_
+> *“We never got caught. Or maybe we did, and they let it happen. Maybe they needed to know what we’d cling to if left unsupervised.”*
 
-> _“She’s gone now. Reassigned. That’s what the docket said.”_
+> *“She’s gone now. Reassigned. That’s what the docket said.”*
 
-> _“But when I lie still enough, I swear I can feel her palm again. Cold at first. Always warming.”_
+> *“But when I lie still enough, I swear I can feel her palm again. Cold at first. Always warming.”*
 
 # Chapter 10 - Black Metal Records
 **Period: Present Day … Year: 1987 … Location: Venus**
@@ -833,7 +833,7 @@ Made her touch herself.
 But tonight?  
 Stillness.  
 
-Katherina had learned not to _think_.  
+Katherina had learned not to *think*.  
 
 Thinking was dangerous.  
 A single wrong phrase, a flicker of doubt—  
@@ -852,12 +852,12 @@ He was there.
 
 No warning. No chance.  
 
-Her skull _split open_ with his voice.  
+Her skull *split open* with his voice.  
 
 > **SINNER, WRONG DOER, EVIL DOER, WORKER OF INIQUITY, A BAD EXAMPLE, SCOUNDREL, VILLAIN, KNAVE, VIPER, WRETCH, THE DEVIL INCARNATE, MONSTER, DEMON, FALLEN ANGEL, LOST SHEEP, BLACK SHEEP, A LOAFER AND A SNEAK. A GOOD FOR NOTHING FUCKING BITCH AND A WHORE.**
 
 It wasn’t just noise.  
-It was _penetration_.  
+It was *penetration*.  
 
 He entered her thoughts like a blade.  
 Slid into the gaps of her memories.  
@@ -872,7 +872,7 @@ _"leave me alone. you have my body already, let the rest of me be"_
 But he was inside already.  
 And she couldn’t scream without him tasting it.
 
-_“leave me alone. leave me alone. please don't do it again, please, i can't do it anymore.”_
+*“leave me alone. leave me alone. please don't do it again, please, i can't do it anymore.”*
 
 Her voice sounded so far away.
 
@@ -888,7 +888,7 @@ _“leave m_**E ALONE.”**
 
 And that’s when something would break.
 Not inside her.  
-_But in the sky._
+*But in the sky.*
 
 **KATHERINA**'s hand rose—unthinking. Instinctual.  
 Like Venus herself moved through her veins.  
@@ -898,7 +898,7 @@ She struck upward.
 Tore at the heavens with thought turned to weapon.
 
 The sky peeled.  
-The stars _shivered_.
+The stars *shivered*.
 Her thoughts ran down, dripped down, became reality.
 The curse of the **RED KING**.
 
@@ -915,7 +915,7 @@ Blinding.
 Yellow.
 Revealed.
 
-And there it was — what Mars hid all this time. The truth she was _raped_ away from knowing.
+And there it was — what Mars hid all this time. The truth she was *raped* away from knowing.
 
 > The **SUN**.  
 > Still shining. Still burning.  
@@ -925,18 +925,18 @@ He had hidden the dawn.
 
 He stole the light,  
 stole the warmth,  
-stole _the life itself_—  
+stole *the life itself*—  
 
 —from **KATHERINA**.  
-—from _Venus_.  
-—from _everyone_.  
+—from *Venus*.  
+—from *everyone*.  
 
 Mars had done it.
 
 He had silenced the world in shadow and called it "love."
 
 > Mars wasn’t love.  
-> He was _control_.  
+> He was *control*.  
 > He was the night.  
 > He was the nightmare.  
 > The thing that whispers _“you’ll never be free.”_ 
@@ -954,7 +954,7 @@ Mars was the night, the nightmare.
 
 _(Above the churning yellow clouds of Venus, **KATHERINA** levitates. In her cupped palms, she holds MARS—small, dim, stripped of dominion. Her jaw is clenched. Her eyes burn. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open.)_
 
-_Mars_: (begging)
+*Mars*: (begging)
 Don't do this.  
 Put me back, please.  
 I thought you loved me.
@@ -962,9 +962,9 @@ I thought you loved me.
 _**KATHERINA**_: (voice booming across the night sky):  
 **I THOUGHT I LOVED YOU. BUT YOU WERE JUST ALL I HAD. YOU MADE SURE YOU WERE ALL I HAD.**
 
-_Mars_: (softly)
+*Mars*: (softly)
 That’s not true, **KATHERINA**.  
-You were all _I_ had too.  
+You were all *I* had too.  
 Celestial bodies were never meant to touch the human world.  
 But I broke the rules. For you.  
 I just wanted to feel.  
@@ -973,10 +973,10 @@ To know what it was like.
 _**KATHERINA**_: (seething):  
 **SEE WHAT? TO SEE WHAT IT'S LIKE TO USE SOMEONE LIKE A FLESH SOCK?**
 
-_Mars_:  
+*Mars*:  
 It wasn’t supposed to go like that.  
 You taught me what pleasure meant.  
-I didn’t know what it was to _want_ before you.  
+I didn’t know what it was to *want* before you.  
 And then… I couldn’t stop.  
 I was cursed with hunger.  
 And you—  
@@ -985,7 +985,7 @@ I’m sorry. I’m so sorry, **KATHERINA**.
 
 _(Silence. She doesn’t answer. He shifts in her palms.)_
 
-_Mars_:  
+*Mars*:  
 We can fix this.  
 We’ve both changed.  
 Let’s start again.  
@@ -994,7 +994,7 @@ This time… you say my name first.
 _**KATHERINA**_:  
 **"NO. I REFUSE. I CAN'T LET YOU TAKE CONTROL AGAIN."**
 
-_Mars_: (gently):  
+*Mars*: (gently):  
 Oh, my love. Control?  
 You’ve grown so much.  
 There's no point in controlling you anymore.  
@@ -1005,13 +1005,13 @@ Because you were special…
 
 _(Her face flickers—contempt, grief, longing. She begins to tremble.)_
 
-_Mars_: (whispering):  
+*Mars*: (whispering):  
 Aren’t you…  
 my little **SUN**?
 
 _(Her scream splits the upper atmosphere. Then, beneath the scream—sobs. Raw. Childlike. Her hands loosen.)_
 
-_Mars_: (soothing):  
+*Mars*: (soothing):  
 Shh… calm, calm now.  
 You want to know, don’t you?  
 The truth. About your parents. Your origin.  
@@ -1022,7 +1022,7 @@ _(She hesitates. Then a quiet answer.)_
 _**KATHERINA**_:  
 **"I… I DO. I DO WANT TO KNOW."**
 
-_Mars_:  
+*Mars*:  
 You were born of two Venusian mothers.  
 They loved you more than anything in this world.  
 They would’ve kept you, protected you, worshipped you.  
@@ -1051,12 +1051,12 @@ _(She convulses. Rage and disbelief churn in her gut. She grips MARS tighter.)_
 _**KATHERINA**_:  
 **"THAT CAN'T BE… IT'S LIES… YOU'RE LYING AGAIN…"**
 
-_Mars_: (gasping):  
+*Mars*: (gasping):  
 Stop—please—you’re hurting me!
 
 _(Reflex. Her grip loosens.)_
 
-_Mars_: (whimpering):  
+*Mars*: (whimpering):  
 I was trying to protect you…  
 From the bitter truth and all the pain that comes with it.  
 I love you, **KATHERINA**.  
@@ -1068,7 +1068,7 @@ _(A pause. Her mind sways like a candle in vacuum.)_
 _**KATHERINA:**_ (quiet):  
 **"I TRUST YOU."**
 
-_Mars_:  
+*Mars*:  
 Say my name.
 
 _**KATHERINA**_:_  
@@ -1114,37 +1114,37 @@ Immediately, a full-screen advertisement takes hold of the room, projecting acro
 
 ---
 
-> _"When people think of **VENUS**, they think of acid, black lungs, and sex cultists..."_
+> *"When people think of **VENUS**, they think of acid, black lungs, and sex cultists..."*
 
 The captain exhales sharply through his nose. He’s heard this pitch before.
 
-> _"Think again."_
+> *"Think again."*
 
 Sweeping vistas of scarlet oceans and sleek, white corporate domes unfurl across the curved wall. The projector adjusts dynamically, painting the briefing room in gentle, systemic red.
 
-> _"The **Blood Ocean Phenomenon** has entirely revitalized the shamed little sister of our System."_
+> *"The **Blood Ocean Phenomenon** has entirely revitalized the shamed little sister of our System."*
 
-> _"Gone are the days of chaos in the pressure-mines, the hormonal sabotage, the unwashed rites of radical femininity. We have _turned the tide._"_
+> *"Gone are the days of chaos in the pressure-mines, the hormonal sabotage, the unwashed rites of radical femininity. We have *turned the tide.*"*
 
 Visuals shift. Dramatic flyovers of steaming crater lakes. Serviles in crisp white uniforms. Corporate flags planted on rockslides.
 
-> _"The **Sunless Commune**, once the heart of Venusian sedition, is no more."_
+> *"The **Sunless Commune**, once the heart of Venusian sedition, is no more."*
 
-> _"Over one hundred insurgents neutralized. Twelve kilometers of tunnel system collapsed. No survivors confirmed."_
+> *"Over one hundred insurgents neutralized. Twelve kilometers of tunnel system collapsed. No survivors confirmed."*
 
 A pause. The light flickers red, as if responding to blood pressure.
 
-> _"And with the reclamation of this key site, we are proud to say..."_
+> *"And with the reclamation of this key site, we are proud to say..."*
 
-> _"...**Venus is open again.**"_
+> *"...**Venus is open again.**"*
 
 Footage of hotels beside sterilized craters. Men in suits clink glasses near phosphorescent waterfalls. A servile girl in background focus wipes her nose, then disappears in the edit.
 
-> _"The revolution is over. The communards are gone. The caves are clear."_
+> *"The revolution is over. The communards are gone. The caves are clear."*
 
-> _"Venus now welcomes all with _clean lungs, clean ledgers, and a clear conscience._"_
+> *"Venus now welcomes all with *clean lungs, clean ledgers, and a clear conscience.*"*
 
-> _"Come see the blood. Come see the red. Wash away your sins."_
+> *"Come see the blood. Come see the red. Wash away your sins."*
 
 The ad cuts with precision. One frame lingers too long—an aerial view of scorched rock spelling out **WE REMEMBER** in servo-scars before the screen whites out.
 
@@ -1156,49 +1156,49 @@ Then, the Broadcast Channel resumes. Music plays. The message is gone.
 
 **[ANCHOR – GENDERLESS, MODULATED VOICE, BLINKING AT REGULAR INTERVALS]**
 
-> _“Good evening. This is SPA Broadcast Channel. Your only source for uninterrupted, validated, and sanitized planetary information.”_
+> *“Good evening. This is SPA Broadcast Channel. Your only source for uninterrupted, validated, and sanitized planetary information.”*
 
 ---
 
-> _“Our lead story: The individual responsible for the **Dockyard-7 Mass Interruption** has been formally **convicted on suspicion of Venusian ideals** and arrested **two days prior to the incident itself**. Officials stress this is a precautionary success, not a timeline irregularity.”_
+> *“Our lead story: The individual responsible for the **Dockyard-7 Mass Interruption** has been formally **convicted on suspicion of Venusian ideals** and arrested **two days prior to the incident itself**. Officials stress this is a precautionary success, not a timeline irregularity.”*
 
-> _“The individual’s name will not be released to prevent sympathetic contamination.”_
-
----
-
-> _“In celestial news: the planet **MARS** has not appeared in any known orbital registry since this morning’s report. Observatories on Jupiter confirm the body’s absence. SPA officials say it is ‘probably a clerical abstraction’ and **urge calm.**”_
-
-> _“The Seven Planet Authority reminds citizens: the **perception of loss does not constitute loss**.”_
+> *“The individual’s name will not be released to prevent sympathetic contamination.”*
 
 ---
 
-> _“On economic fronts, a **System-wide reinvestment campaign** has been initiated to encourage **prompt and enthusiastic re-colonization of Venus.**”_
+> *“In celestial news: the planet **MARS** has not appeared in any known orbital registry since this morning’s report. Observatories on Jupiter confirm the body’s absence. SPA officials say it is ‘probably a clerical abstraction’ and **urge calm.**”*
+
+> *“The Seven Planet Authority reminds citizens: the **perception of loss does not constitute loss**.”*
+
+---
+
+> *“On economic fronts, a **System-wide reinvestment campaign** has been initiated to encourage **prompt and enthusiastic re-colonization of Venus.**”*
 
 > *“SPA Compliance & Wellness notes a sharp rise in fertility compatibility among Venus-adjacent zones.  
 **This is considered auspicious.**”*
 
 ---
 
-> _“In memorial: A **nationwide sermon** will air at midnight to commemorate **those lost on SATURN**.”_
+> *“In memorial: A **nationwide sermon** will air at midnight to commemorate **those lost on SATURN**.”*
 
-> _“Residents in Ring Cities 2 through 5 are advised to remain home during broadcast transmission for optimal reflection.”_
+> *“Residents in Ring Cities 2 through 5 are advised to remain home during broadcast transmission for optimal reflection.”*
 
 ---
 
-> _“In culture: the **Artemisia Reclamation Protest**, initially permitted as an art installation, has been reclassified as a **radical sex supremacy demonstration.** Protesters will be processed under the Gender Compliance Act.”_
+> *“In culture: the **Artemisia Reclamation Protest**, initially permitted as an art installation, has been reclassified as a **radical sex supremacy demonstration.** Protesters will be processed under the Gender Compliance Act.”*
 
 > *“Seventeen were arrested. Four were pregnant.  
 **None were in violation.**”*
 
 ---
 
-> _“And finally: The Neptune Light Index has returned to expected ambient levels after last week’s unusual surge in red-spectrum photonic activity. Reports of disembodied whispering were confirmed to be a **localized sound glitch**, attributed to overheating in Ministry-approved devotional headphones.”_
+> *“And finally: The Neptune Light Index has returned to expected ambient levels after last week’s unusual surge in red-spectrum photonic activity. Reports of disembodied whispering were confirmed to be a **localized sound glitch**, attributed to overheating in Ministry-approved devotional headphones.”*
 
-> _“All systems remain green.”_
+> *“All systems remain green.”*
 
 ---
 
-> _“This has been thE SPA Broadcast Channel. Obedience is harmony.”_
+> *“This has been thE SPA Broadcast Channel. Obedience is harmony.”*
 
 > *“You are seen.  
 You are correct.  
@@ -1251,7 +1251,7 @@ Neither man acknowledges it.
 **Time Stamp:** 12:43:12
 **Location:** Exterior – Vitruvian Motel, Quadrant 4C, **VENUS**
 
-_(Footsteps in dust. Wind blows faintly. Cam shakes as boots crunch over cracked cement. All three officers are on approach: weapons slung low, helmets off. The motel looms ahead—tall, crooked, bleeding rust.)_
+*(Footsteps in dust. Wind blows faintly. Cam shakes as boots crunch over cracked cement. All three officers are on approach: weapons slung low, helmets off. The motel looms ahead—tall, crooked, bleeding rust.)*
 
 **MIKE**
 There she is.
@@ -1299,7 +1299,7 @@ They knew we were coming.
 **ZETA**
 Weapons check. We breach on my mark.
 
-_(Zeta straps his boots tighter.)_
+*(Zeta straps his boots tighter.)*
 
 **MIKE**
 You ever get the feeling someone's watching you?
@@ -1307,7 +1307,7 @@ You ever get the feeling someone's watching you?
 TANGO:
 No.
 
-_(Pause.)_
+*(Pause.)*
 
 **TANGO (softer)**
 But I do now.
@@ -1322,13 +1322,13 @@ But I do now.
 
 ---
 
-_(Door hinges creak. The metal doesn’t resist—it swings inward with the slow exhale of a deep breath. The interior is darker than expected. The camera auto-corrects exposure. The air immediately registers several degrees warmer.)_
+*(Door hinges creak. The metal doesn’t resist—it swings inward with the slow exhale of a deep breath. The interior is darker than expected. The camera auto-corrects exposure. The air immediately registers several degrees warmer.)*
 
 **ZETA (flat)**  
 VAP 33-102. Entry point breached.  
 Natural light waning. Flashlights on.
 
-_(Flashlights snap on with soft mechanical clicks. The beams sweep across a trashed lobby. Furniture is overturned, decomposing. A reception desk sags in on itself. Wallpaper is peeling in wide, vertical strips. Godrays through the boarded windows.)_
+*(Flashlights snap on with soft mechanical clicks. The beams sweep across a trashed lobby. Furniture is overturned, decomposing. A reception desk sags in on itself. Wallpaper is peeling in wide, vertical strips. Godrays through the boarded windows.)*
 
 **MIKE**  
 Okay… this is worse than I expected.
@@ -1342,7 +1342,7 @@ I mean look at it. That used to be a couch. Now it’s mulch.
 **ZETA**  
 Focus. Signs of habitation—anything recent?
 
-_(TANGO moves toward the desk. His cam picks up a broken landline, stained not with dust, but with something _damp_. There are no footprints on the floor, just odd drag patterns. Something was moved. Or pulled.)_
+*(TANGO moves toward the desk. His cam picks up a broken landline, stained not with dust, but with something *damp*. There are no footprints on the floor, just odd drag patterns. Something was moved. Or pulled.)*
 
 **TANGO**
 This place smells like old copper and vinegar.
@@ -1357,7 +1357,7 @@ Block that noise out. Stay sharp.
 **TANGO (low)**  
 He’s not wrong. It’s faint... but it’s there. Rolling tide. Coming from below us?
 
-_(Silence falls. The only sound is distant, rhythmic. Not wind. Not pipes. Not footsteps. But a low **pulling sound**, as if something massive were breathing through layers of walls.)_
+*(Silence falls. The only sound is distant, rhythmic. Not wind. Not pipes. Not footsteps. But a low **pulling sound**, as if something massive were breathing through layers of walls.)*
 
 ---
 
@@ -1367,7 +1367,7 @@ Reception’s clear.
 **TANGO:**
 Split and sweep the side halls. Call out what you find.
 
-_(The squad moves. Zeta veers right. Mike takes left. Tango holds centerline. Their lights cut through air thick with invisible moisture. Each beam reveals _no mirrors._ Even where frame outlines remain on the wall—nothing reflective. Nothing watching back.)_
+*(The squad moves. Zeta veers right. Mike takes left. Tango holds centerline. Their lights cut through air thick with invisible moisture. Each beam reveals *no mirrors.* Even where frame outlines remain on the wall—nothing reflective. Nothing watching back.)*
 
 ---
 
@@ -1385,7 +1385,7 @@ Lobby level is clear. Proceeding to stairwell.
 
 ---
 
-_(ZETA moves ahead. The camera catches one final shot of the lobby—just before they pass into the stairwell: the corner of a painting. Water-damaged, streaked in red. The image is smeared, but some of it remains visible. A **man**. Kneeling. Arms raised. Eyes gone. The title plate beneath it is unreadable.)_
+*(ZETA moves ahead. The camera catches one final shot of the lobby—just before they pass into the stairwell: the corner of a painting. Water-damaged, streaked in red. The image is smeared, but some of it remains visible. A **man**. Kneeling. Arms raised. Eyes gone. The title plate beneath it is unreadable.)*
 
 **TANGO (staring)**  
 You seeing this?
@@ -1396,7 +1396,7 @@ Ignore it.
 **MIKE**  
 What the hell kind of motel hangs that in the lobby?
 
-_(No response. They move toward the stairwell. The sound of the ocean fades—not disappearing, but **receding**. Like it's waiting for them on another floor.)_
+*(No response. They move toward the stairwell. The sound of the ocean fades—not disappearing, but **receding**. Like it's waiting for them on another floor.)*
 
 ---
 
@@ -1406,7 +1406,7 @@ _(No response. They move toward the stairwell. The sound of the ocean fades—no
 
 ---
 
-_(Heavy door creaks open. Flashlights cut through dust-laced dark. The stairwell is narrow, ribbed with old pipes and condensation. The walls sweat. Paint bubbles in long, oozing strips.)_
+*(Heavy door creaks open. Flashlights cut through dust-laced dark. The stairwell is narrow, ribbed with old pipes and condensation. The walls sweat. Paint bubbles in long, oozing strips.)*
 
 **ZETA:**  
 Stairwell entry confirmed.
@@ -1420,7 +1420,7 @@ Same as morgues back on **SATURN.**
 
 ---
 
-_(They begin climbing. The steps are slick in places—worn through concrete, not metal. One groans under Mike’s weight. Flashlights wobble on the walls—revealing stains that look like old boot scuffs. Or claw marks. It’s hard to tell.)_
+*(They begin climbing. The steps are slick in places—worn through concrete, not metal. One groans under Mike’s weight. Flashlights wobble on the walls—revealing stains that look like old boot scuffs. Or claw marks. It’s hard to tell.)*
 
 **ZETA:**  
 Count your steps.
@@ -1442,7 +1442,7 @@ There wasn’t a door.
 
 ---
 
-_(They stop. The landing is blank. No signage. No hallway access. Just more stairs. The lighting fades to a dull, wet amber. A subtle hum now permeates the air—a low vibration, like the sound of an engine.)_
+*(They stop. The landing is blank. No signage. No hallway access. Just more stairs. The lighting fades to a dull, wet amber. A subtle hum now permeates the air—a low vibration, like the sound of an engine.)*
 
 **TANGO:**  
 You feel that?
@@ -1455,7 +1455,7 @@ Like it’s watching us climb.
 
 ---
 
-_(The next landing finally appears—barely different from the last. No signage. Just a wall where a hallway should be. A single light buzzes overhead, dimming every time someone passes beneath.)_
+*(The next landing finally appears—barely different from the last. No signage. Just a wall where a hallway should be. A single light buzzes overhead, dimming every time someone passes beneath.)*
 
 **ZETA:**  
 Altitude indicator says we’ve climbed 8 meters. That’s three floors’ worth.
@@ -1466,7 +1466,7 @@ We’ve only seen **one** floor.
 **TANGO:**  
 So where are the others?
 
-_(Pause.)_
+*(Pause.)*
 
 ---
 
@@ -1490,7 +1490,7 @@ Like the layers of hell.
 
 ---
 
-_(They pass another landing. The stairwell curves sharper now, like the building’s coiling around them. Shadows deepen. Light sources dwindle. The handrails are damp to the touch—slightly sticky.)_
+*(They pass another landing. The stairwell curves sharper now, like the building’s coiling around them. Shadows deepen. Light sources dwindle. The handrails are damp to the touch—slightly sticky.)*
 
 **MIKE (uneasy):**  
 How many more?
@@ -1527,7 +1527,7 @@ This is **Floor 6**.
 
 ---
 
-_(The door creaks as ZETA opens it. The hallway beyond is long, unlit. Their flashlights cut into amber haze. The corridor has no windows, no signs, and no visible end at first. Only silence.)_
+*(The door creaks as ZETA opens it. The hallway beyond is long, unlit. Their flashlights cut into amber haze. The corridor has no windows, no signs, and no visible end at first. Only silence.)*
 
 **ZETA:**  
 Floor 6 confirmed. Proceeding east.  
@@ -1541,18 +1541,18 @@ Same place the mirrors went.
 
 ---
 
-_(They step in. The hallway is too wide for a building this size. The walls are slightly bowed—curved inward like ribs. Floor tiles are damp. Stained.)_
+*(They step in. The hallway is too wide for a building this size. The walls are slightly bowed—curved inward like ribs. Floor tiles are damp. Stained.)*
 
 **ZETA (scanning):**  
 Four doors. Two left. Two right.  
 One at the end.
 
-_(They pause. All the doors are unmarked. Frames are warped—some bloated with moisture, others thinned like something pushed hard against them for years.)_
+*(They pause. All the doors are unmarked. Frames are warped—some bloated with moisture, others thinned like something pushed hard against them for years.)*
 
 **TANGO (noting quietly):**  
 You see this?
 
-_(TANGO gestures to the floor. Track marks. Scattered. Sharp turns. A pattern of dragging and circular pacing—no shoes.)_
+*(TANGO gestures to the floor. Track marks. Scattered. Sharp turns. A pattern of dragging and circular pacing—no shoes.)*
 
 **MIKE:**  
 It’s like someone walked in circles… again and again.
@@ -1562,7 +1562,7 @@ We focus on the end door. Sweep and extract.
 
 ---
 
-_(As they move, a faint sound begins in the feed: **waves**, slow and deep, muffled like from behind the walls. None of them comment on it yet. None are sure it’s real.)_
+*(As they move, a faint sound begins in the feed: **waves**, slow and deep, muffled like from behind the walls. None of them comment on it yet. None are sure it’s real.)*
 
 **MIKE (voice slightly shaking):**  
 I thought this building didn’t have six floors.
@@ -1572,7 +1572,7 @@ It didn’t. Not until we needed to find this.
 
 ---
 
-_(They pass the side doors. No doorknobs. Just sealed seams in rusted frames. Zeta’s light catches something on one of the walls—an old mark. Scratched deep. A spiral. Repeated over itself until the wall gave way beneath the pressure.)_
+*(They pass the side doors. No doorknobs. Just sealed seams in rusted frames. Zeta’s light catches something on one of the walls—an old mark. Scratched deep. A spiral. Repeated over itself until the wall gave way beneath the pressure.)*
 
 **ZETA:**  
 Spiral sigil. Venusian origin. Ritual-grade.  
@@ -1584,7 +1584,7 @@ This was never just a motel.
 **TANGO (quiet):**  
 No. It was a **womb**.
 
-_(The hum increases as they approach the far door. It’s larger than the others. It doesn’t fit the frame. Looks newer—but not cleaner. Like something rebuilt it _from the inside_.)_
+*(The hum increases as they approach the far door. It’s larger than the others. It doesn’t fit the frame. Looks newer—but not cleaner. Like something rebuilt it *from the inside*.)*
 
 **TANGO:**  
 It’s breathing.
@@ -1601,7 +1601,7 @@ Tango—
 **TANGO**
 We breach it. Now.
 
-_(They position themselves around the door—standard breach posture. The camera shakes slightly from Tango’s pulse. The wall next to the door is moist to the touch.)_
+*(They position themselves around the door—standard breach posture. The camera shakes slightly from Tango’s pulse. The wall next to the door is moist to the touch.)*
 
 **MIKE**
 I've got a bad feeling, boss.
@@ -1721,7 +1721,7 @@ Subject still screaming. Head turns slightly toward TANGO.
 Get her loose. We’re pulling out.
 
 **[MIKE]:**  
-These cuffs are... they’re not metal. They’re _grown in._ I can’t—  
+These cuffs are... they’re not metal. They’re *grown in.* I can’t—  
 Jesus, it’s like they’re part of her.
 
 **[TANGO]:**  
@@ -1766,7 +1766,7 @@ Room temperature drops 6°C in 4 seconds.
 **Location:** Vitruvian Motel – Floor 6, East Wing
 **Status:** In Progress
 
-_(Boots on tile. Harsh breathing. The girl is silent now, being carried between Tango and Zeta. Mike leads, weapon drawn. Lights dim.)_
+*(Boots on tile. Harsh breathing. The girl is silent now, being carried between Tango and Zeta. Mike leads, weapon drawn. Lights dim.)*
 
 **MIKE**
 We’re clear. Let’s move. Fast.
@@ -1777,7 +1777,7 @@ Got her. Her legs aren’t responding—like she’s… disconnected.
 **ZETA**
 Focus on the extraction. Don't talk out of place.
 
-_(They reach the stairwell. Mike leads the way, more hardened now. He swings the door open. For a moment, there’s only darkness.)_
+*(They reach the stairwell. Mike leads the way, more hardened now. He swings the door open. For a moment, there’s only darkness.)*
 
 **MIKE (hesitating)**
 ...Wait. We didn’t climb this many floors.
@@ -1785,7 +1785,7 @@ _(They reach the stairwell. Mike leads the way, more hardened now. He swings the
 **TANGO (whispers)**
 No... we only came up two.
 
-_(They begin descending. Floor by floor. The numbers etched into the concrete are scratched, smeared, distorted—as if the building is trying to forget its own structure.)_
+*(They begin descending. Floor by floor. The numbers etched into the concrete are scratched, smeared, distorted—as if the building is trying to forget its own structure.)*
 
 ---
 
@@ -1806,7 +1806,7 @@ These floors weren’t here on the way in.
 
 ### 22:51:03 – FLOOR -3
 
-_(The walls feel closer. The steps narrower. Each floor passed has no doors—just blank landings, like hollow vertebrae.)_
+*(The walls feel closer. The steps narrower. Each floor passed has no doors—just blank landings, like hollow vertebrae.)*
 
 **MIKE**
 I can’t tell if we’re descending… or being led.
@@ -1814,7 +1814,7 @@ I can’t tell if we’re descending… or being led.
 **TANGO (to the girl)**
 Can you hear me? Can you move?
 
-_(She doesn’t respond. But her eyes blink. And she smiles.)_
+*(She doesn’t respond. But her eyes blink. And she smiles.)*
 
 ### 22:52:27 – FLOOR -6
 
@@ -1824,7 +1824,7 @@ We're almost there. Stay sharp.
 **TANGO (quiet)**
 No one asked where “there” was.
 
-_(The girl lifts her head. Looks directly at Mike. Her lips move, soundless. Nothing comes out of her. All of them notice, but each one of them keeps it to himself.)_
+*(The girl lifts her head. Looks directly at Mike. Her lips move, soundless. Nothing comes out of her. All of them notice, but each one of them keeps it to himself.)*
 
 ### 22:53:15 – FLOOR -8
 
@@ -1843,13 +1843,13 @@ None of this was.
 **ZETA**
 Hatch should lead to safety. Open it.
 
-_(MIKE pulls the latch. It gives with a groan. Air rushes through—hot, dry, metallic.)_
+*(MIKE pulls the latch. It gives with a groan. Air rushes through—hot, dry, metallic.)*
 
-_(The outside is grounded with concrete. No reception. No motel.)_
+*(The outside is grounded with concrete. No reception. No motel.)*
 
-_(They step out. The motel vanishes behind them.)_
+*(They step out. The motel vanishes behind them.)*
 
-_(All that's left is the four of them - Tango, Zeta, Mike, and the girl in her silence.)_
+*(All that's left is the four of them - Tango, Zeta, Mike, and the girl in her silence.)*
 
 **ZETA (flat)**
 Extraction complete.
@@ -1952,8 +1952,8 @@ And I deserve it.
 I know what I did.  
 What I did to Katherina.  
 
-_I was meant to protect her._  
-_Instead, I shaped her suffering like clay._
+*I was meant to protect her.*  
+*Instead, I shaped her suffering like clay.*
 
 I alone was supposed to pay the toll.  
 I alone was the traitor.
@@ -2011,7 +2011,7 @@ He made sure it would kill me too, should I stray again.
 
 Then **JUPITER**, the **WORLD SEEKER**, armed me with the knowledge to transcend the barrier of light-speed. 
 
-_The simple celestial slingshot._ 
+*The simple celestial slingshot.* 
 
 I closely enter the orbit of the **SUN**, spin around three times. I gain speed with each passing rotation. Then another nine times. Twenty-seven. Eighty-one. And by the time I reach two-hundred fourty-three…_
 
@@ -2027,7 +2027,7 @@ Beyond consequence.
 
 I am no longer matter.  
 
-I am _momentum_.
+I am *momentum*.
 
 ---
 
@@ -2132,7 +2132,7 @@ The brunette—calm, practiced—leans into the camera, wiping the lens clean wi
 
 The redhead turns to the lens. Only her eyes remain visible now beneath a veil of scarlet-colored hair.
 
-Her voice is low, steady, the kind that speaks _after_ war—when there’s no need to shout.
+Her voice is low, steady, the kind that speaks *after* war—when there’s no need to shout.
 
 > **“This broadcast will repeat until every last loyalist reactionary is found and shot.**  
 >  
@@ -2160,7 +2160,7 @@ Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 > To the daughters of Callisto who collaborated and built bomb schematics,  
 > To the wives of Saturn who silently prayed we'd succeed,
 > To the office-girls of Neptune who disseminated our pamphlets across the system,  
-> To the Uranian ghosts—yes, _you_—  
+> To the Uranian ghosts—yes, *you*—  
 > the ones who bound their breasts and buried their truth just to survive the Pillar…  
 > **we see you.**
 >  
@@ -2182,7 +2182,7 @@ Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 > Come to us as you are: bleeding, vengeful, half-healed, still shaking.  
 >  
 > If you are a woman—  
-> born in chains, born in silence, born _wrong_— 
+> born in chains, born in silence, born *wrong*— 
 > and you are ready to end this—  
 >  
 > **you are one of us.**”
