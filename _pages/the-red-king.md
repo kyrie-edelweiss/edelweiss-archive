@@ -838,7 +838,7 @@ This could not be kept up any longer.
 
 > *“I signed the removal form. I didn’t even have to type it. The system filled it out automatically. Just needed a biometric pulse. I gave it mine.”*
 
-> **[SFX: PAPER SHUFFLING, THEN A DEEP EXHALE]**
+> **[AUDIO: PAPER SHUFFLING, THEN A DEEP EXHALE]**
 
 > *“They weren’t even hiding it. That was the part that got me. The cruelty wasn’t masked. It was modular.”*
 
@@ -848,7 +848,7 @@ This could not be kept up any longer.
 
 > *“Rape by spreadsheet.”*
 
-> **[SFX: CHAIR CREAKING, SLIGHT STATIC]**
+> **[AUDIO: CHAIR CREAKING, SLIGHT STATIC]**
 
 > *“I don’t expect forgiveness. I don’t expect survival. But I kept one file. Just one. Printed it off and fed it through a trash unit marked for sterilization. Burned the rest.”*
 
