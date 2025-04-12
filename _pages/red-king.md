@@ -1400,7 +1400,7 @@ They knew we were coming.
 **ZETA**:  
 Weapons check. We breach on my mark.
 
-*(Zeta straps his boots tighter.)*
+(Zeta straps his boots tighter.)
 
 ---
 
