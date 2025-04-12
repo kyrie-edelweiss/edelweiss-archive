@@ -4,8 +4,6 @@ excerpt: A story.
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king/
-toc: true
-toc_sticky: true
 ---
 
 # Chapter 1 - The Severed Womb
@@ -41,7 +39,7 @@ _"No—no, fuck, this isn’t enough! I need more—it's never enough! More!"_
 In the background, an older woman stands alone. Her presence is calm, composed, like the eye of a storm. Her hair is streaked with gray and bound tightly, but her gaze is sharp—calculating. She watches, her eyes filled with the kind of certainty that comes only from true belief.
 
 **OLDER WOMAN** (low, commanding):  
-_"_Abigail.__ He is nothing but meat. Tear his cock off. With your teeth."_
+_"Abigail. He is nothing but meat. Tear his cock off. With your teeth."_
 
 **MIDDLE-AGED WOMAN** (weeping, celebratory):  
 _"They deserve it—they deserve this! This is what they’ve done to us. This is the only justice we have!"_
@@ -277,7 +275,7 @@ And when the dreams faded—when she woke to the silence and the metal and the f
 
 One night, when her thoughts became too loud and the darkness too vast, Katherina would step into the lightless deadzone of her abode sheltered from the encroach of the phosphorus-light. Her breath was foggy. She dropped to her knees.
 
-Kneeling, she turned her eyes to the stars—not in reverence, but in desperation. Her voice, hoarse from disuse, cracked as she pleaded to the celestial spheres, to the husks of constellations, to the _absent light of the **SUN**.__
+Kneeling, she turned her eyes to the stars—not in reverence, but in desperation. Her voice, hoarse from disuse, cracked as she pleaded to the celestial spheres, to the husks of constellations, to the absent light of the **SUN**._
 
 There was no answer.
 
