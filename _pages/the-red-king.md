@@ -4,6 +4,8 @@ excerpt: A story.
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king/
+toc: true
+toc_sticky: true
 ---
 
 # Chapter 1 - The Severed Womb
