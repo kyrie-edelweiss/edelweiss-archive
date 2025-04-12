@@ -871,7 +871,7 @@ This could not be kept up any longer.
 
 > *“We never talked about being lovers. That word didn’t exist down there. But sometimes she’d whisper, real quiet, ‘I want to forget the shift code.’ That meant: don’t stop tonight. That meant: take the whole hour.”*
 
-> *“We’d slide the uniforms down to the ankles. Lie face to face. Arms hooked together like netting. We never rushed. The longer we went, the more it felt like we were rebelling. That felt liberating..”*
+> *“We’d slide the uniforms down to the ankles. Lie face to face. Arms hooked together like netting. We never rushed. The longer we went, the more it felt like we were rebelling. Against everything.”*
 
 > _“I remember the first time she cried while she was inside me. Said it felt too real. Said it hurt to feel **wanted** without a clipboard.”_
 
