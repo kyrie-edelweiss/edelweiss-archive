@@ -796,7 +796,7 @@ This could not be kept up any longer.
 
 > *"...That girl—Flicker, we called her—she never looked hungry, even when she was. She had this way of looking through you."*
 
-> *"She taught us things without saying them. Like how to cough once before a false shift report. How to tell the difference between VAP officers and asset contractors by the shape of their boots. How to leave messages in the scent-coding of cleaning fluid."*
+> *"She taught us things without saying them. Like how to cough once before a false shift report. How to tell the difference between corrective officers and legislative officers by the shape of their boots. How to leave messages in the scent-coding of cleaning fluid."*
 
 > _"After her, it stopped being about escape. It started being about inheritance. About building something **they couldn’t flatten.**"_
 
