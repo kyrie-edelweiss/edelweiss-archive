@@ -1434,7 +1434,7 @@ Focus. Signs of habitation—anything recent?
 **TANGO**:  
 This place smells like old copper and vinegar.
 
-**MIKE:**:  
+**MIKE**:  
 I can hear the ocean.
 
 **ZETA (snaps)**:  
@@ -1465,7 +1465,7 @@ Why seal off the whole place?
 I’ve got two doors—both locked. This hallway’s a dead end.
 
 **TANGO**:  
-Same. One partially open. No sound. Doesn’t look disturbed.
+Same. Doesn’t look disturbed.
 
 **ZETA**:  
 Lobby level is clear. Proceeding to stairwell.
