@@ -2352,7 +2352,7 @@ Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 >  
 > To the refugees of **SATURN**, who once thought themselves safe—  
 >  
-> To the ghosts of **URANUS**—yes, *you*—the ones who blend with the men in the Pillar, unseen—  
+> To the ghosts of **URANUS**—yes, *you*—the ones who once blended with the men in the Pillar, invisible—  
 >  
 > **—we see you.** 
 >  
