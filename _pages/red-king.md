@@ -2361,8 +2361,6 @@ Then her tone shifts—lower, but more human. Fiercer. Almost tender.
 > You are our sisters.  
 > And we are not whole without you. 
 >  
-> Burn the contracts.  
-> Shatter the nameplates.  
 > Come to us as you are: bleeding, vengeful, half-healed, still shaking.  
 >  
 > And all the women crammed into correction facilities on **VENUS**, who saw the truth and warned the rest— 
