@@ -6,7 +6,7 @@ header:
 permalink: /red-king/
 ---
 
-# Chapter 1 - The Severed Womb
+# Chapter One - The Severed Womb
 **Period: 15 Years Ago … Year: 1969 … Location: VENUS**  
 
 _**BDYRECK-FOOTAGE – VAP 06-011 – 03-01-1969**_
@@ -246,7 +246,7 @@ The reckorder zooms in on interlinking tunnel paths and encrypted communication 
 
 A standing ovation erupts, echoing through the grand chamber. The reckorder slowly fades to black, leaving only the emblem of the **7-P Committee** hovering midair like a watchful eye.
 
-# Chapter 3 - Bedtime Stories
+# Chapter Three - Katherina
 **Period: Present Day … Year: 1984 … Location: Venus**
 
 There were many dwellers within the expanse of space—some bearing names that rang like chimes through the ancient ether, others nameless, faceless things, whose presence could only be felt in the tremble of matter and thought. These watchers had lingered in the void long before Earth’s first radio wave pulsed outward. They had seen empires rise from dust and fall into ash across the breadth of the stars.
@@ -321,7 +321,7 @@ Stranded in the vast, frigid dead-space—
 
 Ever since the **SUN** departed.
 
-# Chapter 4 - The RED KING
+# Chapter Four - The RED KING
 **Period: Present Day … Year: 1984 … Location: Venus**
 
 Katherina lay draped across her narrow bed, limbs slack, eyes fluttering beneath pale lids—half-sunken in sleep, half-hungering still. She had devoured another text from the Venusian archive, a brittle book bound in leather-soft skin, its pages soaked in language that shimmered like oil under her flickering phosphorus light. She’d read it cover to cover, mouth parted in trance, and tossed it into the growing pile beside her—*The Liturgies of the Fleshbound Womb*, or something like that.
@@ -408,7 +408,7 @@ But not cruel.
 
 Not yet.
 
-# Chapter 5 - Bedtime Stories
+# Chapter Five - Bedtime Stories
 **Period: Present Day … Year: 1984 … Location: Venus**
 
 _The phosphorus light trembled like a candle lost in a cavernous lung. Outside, the sulfurous wind hissed its muted lullaby. Inside, the air was *thick*—syrupy with heat and pressure and the scent of something ancient._
@@ -545,62 +545,7 @@ Nothing.
 
 When she gasps back into herself, her hands are curled into fists, pressed to her stomach like she’s trying to hold something in. Her breath hitches.
 
-# Chapter 6 - White Cell
-**Period: 8 Years Ago … Year: 1976 … Location: VENUS**
-
-> *SERGEI’S JOURNAL*
-
-> **PAGE 3**  
-> - *...precipitation’s picking up. I gotta find shelter.*  
-> - _It’s been like this for a while. The poor bastards still think there’s anything left in this hellhole. The metal’s all vanished and rusted, the acid rain made sure of that. They come in droves from **SATURN**'s installations, thinking they’ll find jack shit trinkets and baubles from their various cult bullshit here._  
-> - *Sometimes they come from other planets with their own stupid good-for-nothing motivations.*  
-> - *If the monsoon won’t kill 'em, the heat surely will. Then I loot them.*
-
-> **PAGE 4**  
-> - *Life’s good.*  
-> - *I carry a pistol, just to be sure. You never know.*  
-
-> **PAGE 9**  
-> - *Sometimes they land in the catacombs. Not my problem. I find some of them in shackles. The work of the Seven Planet Authority, no doubt.*  
-> - *Found a survivor camp full of women who were shot to death.*  
-
-> **PAGE 12**  
-> - _I found a corpse that didn’t rot._  
-> - *It was smiling, still warm, though I know it was dead for days. He had seven circles carved into his chest—like planetary alignments gone wrong.*  
-> - *I think he was from Mercury.*  
-> - *I left him where I found him. Buried his gun, though. Seemed like the right thing to do.*
-
-> **PAGE 18**  
-> - *You fucking guessed it—found more man-murder sites today.*  
-> - *This world’s getting to me, and it’s gettin’ bad. Been hearing whispers in the ground for a while. Makes no goddamn sense.*  
-> - _They always said the blood of men would rise to the skies one day and become newborn oceans._  
-> - _That the soil’s cursed with fossils of some fucked-lookin’ bird people._  
-> - _That the sun would one day leave us._  
-> - *I don’t think there’s much left in me.*
-
-> **PAGE 23**  
-> - _Saw her silhouette on the ridge last night. I thought I was alone out here._
-
-> **PAGE 27**  
-> - _**VENUS** isn’t just dying. It’s remembering._  
-> - *Something deep under this crust wants to come back.*  
-> - *Maybe it already has. Maybe it’s her. The one from the prophecy. That girl. The one who eats names.*  
-
-> **PAGE 32**  
-> - *The fire spoke last night.*  
-> - *I was burning a carcass, and the smoke bent into words. Told me to drop my name. Said it was rotting me from the inside.*  
-> - *I woke up this morning without my voice.*  
-> - *Wrote my name over and over in the gravel to try to remember it. It kept changing.*
-
-> **PAGE 33**  
-> - _Don’t answer if someone asks you to tell them your name._   
-> - *I think I made her angry. I think she knows I wrote all this down.*  
-> - *I'm going to bury the journal where the wind doesn’t blow.*  
-> - *No more pages. Not if I want to keep my skin.*
-
-> *(This is the final entry. The rest of the journal is blank, except for faint imprints in the paper—as if someone kept writing, without ink, long after the pen dried up.)*
-
-# Chapter 7 - Red Sex
+# Chapter Six - Red Sex
 **Period: Present Day … Year: 1985 … Location: Venus**
 
 The sex was a little awkward.  
@@ -649,7 +594,7 @@ That's usually when I shut her up.
 
 I don’t want her to see how close I am to burning, too.
 
-# Chapter 8 - Waiting For Black Metal Records To Come In The Mail
+# Chapter Seven - Waiting For Black Metal Records To Come In The Mail
 **Period: Present Day … Year: 1986 … Location: Venus**
 
 Katherina's life had become a joke at her own expense.
@@ -684,7 +629,7 @@ The worst part was the suspicion. **MARS** had to be hiding something. Behind al
 
 This could not be kept up any longer.
 
-# Chapter 8: Rememberance Records
+# Chapter Eight: Rememberance Records
 ## Transcript – Archive Clip 047
 > **[VOICE – FEMALE, MID-30s, SMOKY ACCENT]**  
 > *"I used to iron their sheets. Every morning, before shift. You could still smell the oil from the drills when you held the corners. They said that was charm. Said that was tradition."*
@@ -811,7 +756,7 @@ It’s not graphic—but it’s deeply **physical**, **political**, and **privat
 
 > *“But when I lie still enough, I swear I can feel her palm again. Cold at first. Always warming.”*
 
-# Chapter 10 - Black Metal Records
+# Chapter Nine - Black Metal Records
 **Period: Present Day … Year: 1987 … Location: Venus**
 
 Tonight was silent.  
@@ -949,7 +894,7 @@ Mars would be sorry.
 
 Mars was the night, the nightmare.
 
-# Chapter 11 - Curse of the RED KING
+# Chapter Ten - Curse of the RED KING
 **Period: Present Day … Year: 1987 … Location: Venus**
 
 _(Above the churning yellow clouds of Venus, **KATHERINA** levitates. In her cupped palms, she holds MARS—small, dim, stripped of dominion. Her jaw is clenched. Her eyes burn. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open.)_
@@ -1101,7 +1046,7 @@ _**MARS**_: (whispering):
 
 _(And **VENUS** would be once more.)_
 
-# Chapter 12 - Stories
+# Chapter Eleven - Stories
 **Period: Present Day … Year: 1988 … Location: URANUS**
 
 A utilitarian breakroom, dimly lit and acoustically sterile, rests on the 437th sublevel of **The Pillar**, the vast vertical military-industrial complex of **URANUS**. The walls are matte, synthetic steel. The air is stale, processed, and pressurized for endurance rather than comfort. A man sits in half-silence—security contractor by trade, conditioned for both frontline chaos and bureaucratic inertia.
@@ -1244,7 +1189,7 @@ The reckoner, long thought shut off, flickers once more. A final message pulses 
 
 Neither man acknowledges it.
 
-# Chapter 13 - Water Womb World
+# Chapter Twelve - Water Womb World
 
 ## [BDYRECK – VAP 33-102 – APPROACH PHASE]
 
@@ -1935,7 +1880,7 @@ It may also be the **beginning of the end**.
 _J. Cat_  
 **Seven Planet Committee**
 
-# Chapter 14 - The RED CHARIOT
+# Chapter Thirteen - The RED CHARIOT
 **Period: ?????? … Year: ?????? … Location: ??????**
 
 **NEPTUNE**, the **APEX OF JUDGEMENT**, was silent as they passed sentence.  
@@ -2058,7 +2003,7 @@ My crusade is righteous, my cause just. I burn with the lost souls of billions. 
 
 I am the **RED CHARIOT**.
 
-# Chapter 15 – Flies Have Their House
+# Chapter Fourteen – Flies Have Their House
 **Period: Present Day … Year: 1989 … Location: NEPTUNE**
 
 **[CAMERA FEED: LIVE RECKONER BROADCAST]**  
