@@ -5,7 +5,7 @@ header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king/
 ---
-
+---
 # Chapter One - The Severed Womb
 **Period: 15 Years Ago … Year: 1969 … Location: VENUS**  
 
@@ -75,6 +75,8 @@ _"Those SPA bastards—they will kneel. Their cities will fall. Their tongues wi
 
 **REDHEAD** (quiet, resolute):  
 _"Something stirs beneath the surface."_
+
+---
 
 # Chapter Two – A Brief Meeting  
 
@@ -227,6 +229,8 @@ _Lamont, **SATURN**’s representative, gives a brief nod of approval._
 
 _A standing ovation erupts, echoing through the grand chamber. The reckorder slowly fades to black, leaving only the emblem of the **7-P Committee** hovering midair like a watchful eye._
 
+---
+
 # Chapter Three - Katherina
 **Period: Present Day … Year: 1984 … Location: Venus**
 
@@ -291,6 +295,8 @@ Only Katherina.
 Stranded in the vast, frigid dead-space—
 
 Ever since the **SUN** departed.
+
+---
 
 # Chapter Four - The RED KING
 **Period: Present Day … Year: 1984 … Location: Venus**
@@ -377,7 +383,7 @@ Something ancient. Something opposite.
 
 But not cruel.
 
-Not yet.
+---
 
 ## Chapter Five - Conditioning
 **Period: 29 Years Ago … Year: 1955 … Location: Venus**
@@ -551,6 +557,8 @@ Clause 32-A. Emotional Rehabilitation.*
 > *This was new.*  
 > *I liked this.*
 
+---
+
 # Chapter Six - Bedtime Stories
 **Period: Present Day … Year: 1984 … Location: Venus**
 
@@ -689,6 +697,8 @@ Nothing.
 
 When she gasps back into herself, her hands are curled into fists, pressed to her stomach like she’s trying to hold something in. Her breath hitches.
 
+---
+
 # Chapter Seven - Red Sex
 **Period: Present Day … Year: 1985 … Location: Venus**
 
@@ -736,6 +746,8 @@ That's usually when I shut her up.
 
 I don’t want her to see how close I am to burning, too.
 
+---
+
 # Chapter Eight - Waiting For Black Metal Records To Come In The Mail
 **Period: Present Day … Year: 1986 … Location: Venus**
 
@@ -770,6 +782,8 @@ She didn’t remember where she heard that. Or if she said it first. Maybe it wa
 The worst part was the suspicion. **MARS** had to be hiding something. Behind all the cold lust, behind the obsession—something was *wrong*. She didn’t have the words. She only had a sensation deep in her stomach.
 
 This could not be kept up any longer.
+
+---
 
 # Chapter Nine: The Sunless Records
 **Period: 31 Years Ago … Year: 1955 … Location: VENUS** 
@@ -810,6 +824,8 @@ This could not be kept up any longer.
 > *"And every time they'd raid our dorms for contraband, and come back empty-handed to their superiors? Every time they'd drop dead, and the company would file it as 'sudden heart failure'? Every time a girl disappears for three nights and comes back with something in her eyes?"*
 
 > *"That’s Flick."*
+
+---
 
 ## Transcript – Archive Clip 112 
 > **[VOICE – MALE, MID-50s, HOARSE BUT CONTROLLED]**  
@@ -895,6 +911,8 @@ This could not be kept up any longer.
 > *“She’s gone now. Reassigned. That’s what the docket said.”*
 
 > *“But when I lie still enough, I swear I can feel her palm again. Cold at first. Always warming.”*
+
+---
 
 # Chapter Ten - Black Metal Records
 **Period: Present Day … Year: 1987 … Location: Venus**
@@ -1034,6 +1052,8 @@ Mars would be sorry.
 
 Mars was the night, the nightmare.
 
+---
+
 # Chapter Eleven - Curse of the RED KING
 **Period: Present Day … Year: 1987 … Location: Venus**
 
@@ -1109,16 +1129,16 @@ _**KATHERINA**_:
 
 *Mars*:  
 You were born of two Venusian mothers.  
+You lived in a cozy little commune under the earth, away from any exterior inferrence.  
 They loved you more than anything in this world.  
 They would’ve kept you, protected you, worshipped you.  
 
-But men came.  
-Armored men from some distant planet.  
+But the Seven Planet Authority—the human government of the system— found you.  
 They ripped you from their arms.  
 Raised you underground in bunkers.  
 Malnourished you. Hurt you.  
 Called you names—  
-_Bad omen. Chimera. Icon of the coming Apocalypse._
+_Bad omen. Chimera. Icon of the coming revolution._
 
 When you came of age, they injected you.  
 White, liquid forgetfulness.  
@@ -1131,7 +1151,7 @@ Left you to wander.
 That’s your story, **KATHERINA**.  
 Isn’t that what you wanted?
 
-_(She convulses. Rage and disbelief churn in her gut. She grips MARS tighter.)_
+_(She convulses. Rage and disbelief churn in her gut. She grips Mars tighter.)_
 
 _**KATHERINA**_:  
 **"THAT CAN'T BE… IT'S LIES… YOU'RE LYING AGAIN…"**
@@ -1185,6 +1205,8 @@ _**MARS**_ (whispering):
 **"LONG LIVE VENUS."**
 
 _(And **VENUS** would be once more.)_
+
+---
 
 # Chapter Twelve - Stories
 **Period: Present Day … Year: 1988 … Location: URANUS**
@@ -1319,6 +1341,8 @@ The reckoner, long thought shut off, flickers once more. A final message pulses 
 > _“WELCOME BACK TO **VENUS**, CAPTAIN.”_
 
 Neither man acknowledges it.
+
+---
 
 # Chapter Thirteen - Water Womb World
 
@@ -1932,6 +1956,8 @@ It may also be the **beginning of the end**.
 _J. Cat_  
 **Seven Planet Committee**
 
+---
+
 # Chapter Fourteen - The RED CHARIOT
 **Period: ?????? … Year: ?????? … Location: ??????**
 
@@ -2054,6 +2080,8 @@ This is my purpose.
 My crusade is righteous, my cause just. I burn with the lost souls of billions. I am the last hope of a dying world. 
 
 I am the **RED CHARIOT**.
+
+---
 
 # Chapter Fifteen – Flies Have Their House
 **Period: Present Day … Year: 1989 … Location: NEPTUNE**
