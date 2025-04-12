@@ -1333,7 +1333,7 @@ Jack lets out a single, sharp exhale. A laugh, or maybe a bark.
 
 Anthony nods once.
 
-“The SPA is calling it a tourist resort.”
+“They're calling it a tourist resort.”
 
 Jack leans back in his chair. The overhead light flickers once, reacting to power redistribution from the main shaft.
 
