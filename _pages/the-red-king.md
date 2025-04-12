@@ -1039,7 +1039,7 @@ Mars was the night, the nightmare.
 
 _(Above the churning yellow clouds of Venus, **KATHERINA** levitates. In her cupped palms, she holds Mars—small, dim, stripped of dominion. Her jaw is clenched. Her eyes burn. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open.)_
 
-*Mars*: (begging)
+*Mars* (begging):
 Don't do this.  
 Put me back, please.  
 I thought you loved me.
@@ -1079,8 +1079,8 @@ This time… you say my name first.
 _**KATHERINA**_:  
 **"NO. I REFUSE. I CAN'T LET YOU TAKE CONTROL AGAIN."**
 
-*Mars*: (gently):  
-Oh, my love. Control?  
+*Mars* (gently):  
+Oh, dear. Control?  
 You’ve grown so much.  
 There's no point in controlling you anymore.  
 And I’ve always watched you from afar.  
@@ -1090,13 +1090,13 @@ Because you were special…
 
 _(Her face flickers—contempt, grief, longing. She begins to tremble.)_
 
-*Mars*: (whispering):  
+*Mars* (whispering):  
 Aren’t you…  
 my little **SUN**?
 
 _(Her scream splits the upper atmosphere. Then, beneath the scream—sobs. Raw. Childlike. Her hands loosen.)_
 
-*Mars*: (soothing):  
+*Mars* (soothing):  
 Shh… calm, calm now.  
 You want to know, don’t you?  
 The truth. About your parents. Your origin.  
