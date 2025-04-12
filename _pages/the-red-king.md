@@ -759,7 +759,7 @@ This could not be kept up any longer.
 
 ---
 
-# Chapter Nine: The Rememberance Records
+# Chapter Nine: Testimonies
 **Period: 31 Years Ago … Year: 1955 … Location: Venus** 
 
 ## Transcript – Archive Clip 047
