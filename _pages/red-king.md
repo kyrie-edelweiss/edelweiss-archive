@@ -2289,7 +2289,7 @@ Behind her, the corporate seal spins in slow, almost funereal orbit: seven styli
 Now, one of them—**VENUS**—glows blood-red. It pulses, silently mocking the others. It bleeds in time with her breath.
 
 > **EDELWEISS:**  
-> “Greetings, citizens. This is Avery-Mary Edelweiss… former chief executive officer… Neptune quadrant.”
+> “Greetings, citizens. This is Avery-Mary Edelweiss… former chief executive officer… **NEPTUNE** sector.”
 
 Her voice is thin. She speaks like she's unraveling from the inside.
 
