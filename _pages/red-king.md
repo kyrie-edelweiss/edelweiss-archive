@@ -2010,7 +2010,7 @@ The tech nods. Trusts the voice. Trusts the broad shoulders.
 **ALVA** (sighing):  
 "I hate how easy it was.  
 They never saw *me*.  
-They saw the shape. The hips. The weight."
+They saw the shape. The hipbones. The weight."
 
 **IVY** (gently):  
 "They *never saw you.* But we do."
