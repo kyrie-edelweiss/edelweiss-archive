@@ -338,13 +338,13 @@ And waited.
 
 And *waited.*
 
-The voice no longer rattled her teeth. The bed no longer trembled.
-
 Something inside her soul — *something frayed and near-broken* — stilled.
 
 And then:
 
 **"WHAT A BEAUTIFUL NAME."**
+
+The voice no longer rattled her teeth. The bed no longer trembled.
 
 No one had told her anything like that in so long. Not the stars. Not the transmission beacons she activated every year.
 
