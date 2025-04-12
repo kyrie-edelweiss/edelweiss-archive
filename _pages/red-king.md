@@ -554,7 +554,7 @@ They *spoke*.
 
 For an hour or more—though time had long since become a concept for the desperate—they traded truths like relics. Her voice was coarse, shaped by long disuse and colder nights. His voice, by contrast, was monolithic. Not loud. *Large.* A sound that filled space and bone and the narrowing corridors of her mind.
 
-She told him of her loneliness. Of the dead cities. The old names. The taste of ration-syrup and the tea that made her weep. She told him of her searching, of the bunkers, the towers, the bones she whispered to. Of her mothers—real or imagined—and of the dreams where hands stroked her hair and kissed her third eye.
+She told him of her loneliness. Of the dead cities. The old names. The taste of ration-syrup and the tea that made her weep. She told him of her searching, of the bunkers, the towers, the bones she whispered to. Of her mothers—real or imagined—and of the dreams where hands stroked her hair.
 
 He listened.
 
