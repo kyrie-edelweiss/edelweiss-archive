@@ -2336,7 +2336,7 @@ The reckoner lens shudders as blood spatters it.
 A single word cuts through the silence.
 
 > **REDHEAD:**  
-> “They'd kneel...”
+> “Then we do this the hard way.”
 
 The redhead shrugs off her jacket. Beneath it, a lining of red threads stitched with Venusian script: markings, slogans, letters.
 
