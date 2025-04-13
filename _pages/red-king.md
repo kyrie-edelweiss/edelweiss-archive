@@ -803,7 +803,7 @@ This could not be kept up any longer.
 >  
 > *"...That girl—Flicker, we called her—she never looked hungry, even when she was. She had this way of looking through you."*  
 >  
-> *"She taught us things without saying them. Like how to cough once before a false shift report. How to tell the difference between corrective officers and legislative officers by the shape of their boots. How to leave messages in the scent-coding of cleaning fluid."*  
+> *"She taught us things without saying them. Like how to cough once before a false shift report. How to tell the difference between corrective officers and their inspectors by the shape of their boots. How to leave messages in the scent-coding of cleaning fluid."*  
 >  
 > _"After her, it stopped being about escape. It started being about inheritance. About building something that'd last, that **they couldn’t take away from us.**"_  
 >  
