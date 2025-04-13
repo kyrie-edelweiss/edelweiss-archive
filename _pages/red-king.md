@@ -2150,7 +2150,7 @@ But they knew **something had shifted**.
 
 ---
 
-### Chapter Fifteen – The One Who Waits At The End Of All
+# Chapter Fifteen – The One Who Waits At The End Of All
 **ANOMALOUS CELESTIAL ACTIVITY: EXO-SYSTEMIC TRAJECTORY DETECTED**  
 **STATUS:** Infinite Acceleration Event in Progress  
 
