@@ -2333,7 +2333,7 @@ A slow pool of red spills across the white tiles. Her face lands cheek-down, hal
 
 The reckoner lens shudders as blood spatters it.
 
-A single word cuts through the silence.
+A frustrated utterance cuts through the silence.
 
 > **REDHEAD:**  
 > “Then we do this the hard way.”
