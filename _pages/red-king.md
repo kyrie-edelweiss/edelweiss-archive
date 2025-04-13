@@ -1412,7 +1412,7 @@ Neither man acknowledges it.
 
 **MIKE**:  
 There she is.  
-The pride of the pre-revolution tourism industry. Fuckin’ two stars, maybe.
+The pride of the pre-collapse tourism industry. Fuckin’ two stars, maybe.
 
 **TANGO**:  
 Generous. You can smell the rot from here.
