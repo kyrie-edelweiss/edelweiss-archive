@@ -2013,8 +2013,7 @@ A singular cryopod buzzed with reappropriated power, jury-rigged into a low-watt
 Alva lies on her side, head heavy on Ivy’s thigh. She's tall, broad-shouldered — her lab coat just barely fits. Her voice is soft, rich, always measured. Her nails are painted with trembled care. Ivy strokes her scalp slowly. Not pity. Ritual.
 
 **MIRA**:  
-"Two minutes, forty-six seconds. That’s how long the loop ran.  
-So much data, replaced."
+"So much data replaced. Two minutes, forty-six seconds. That’s how long the loop ran."
 
 **ALVA** (without opening her eyes):  
 "Longer than I lasted the first time I got "corrected" back on Europa."
