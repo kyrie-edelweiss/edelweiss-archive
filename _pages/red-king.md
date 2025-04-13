@@ -164,7 +164,7 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 
 “**JUPITER**: Our R&D satellites—Io, Europa, and Ganymede—remain stable and ideologically neutral. We intend to increase funding to maintain their strategic output.”  
 *He nods toward the red-pulsing marker on Callisto.*  
-> “Minor disturbances have been reported, but remain manageable.”
+“Minor disturbances have been reported, but remain manageable.”
 
 > **SECTOR 6 – SATURN**  
 > *(Visual: glowing ring cities with stained-glass hues; fine-print contracts scroll in the corner; stat: “204,239 Faith Centers”)*
