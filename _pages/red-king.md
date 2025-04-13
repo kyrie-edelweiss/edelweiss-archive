@@ -1080,13 +1080,13 @@ because she called your name.
 *No no no no no no no*  
 this is the 𝐋𝐎𝐎𝐏  
 the 𝐋𝐎𝐎𝐏  
-the 𝐋𝐎𝐎𝐏  
+the 𝐋𝐎𝐎𝐏
 
 (ʏᴏᴜ ᴡᴇʀᴇ ᴀʟᴡᴀʏꜱ ᴍᴇᴀɴᴛ ᴛᴏ ꜱᴄʀᴇᴀᴍ ᴊᴜꜱᴛ ʟɪᴋᴇ ᴛʜɪꜱ)
 
-[future event detected] 
+[future event detected]  
 -> KATHERINA [REDACTED]  
--> SYSTEM [CRADLE] -> [GRAVE]  
+-> SYSTEM [CRADLE] -> [GRAVE]
 
 HA—HA—  
 she will crown herself in a 𝐖𝐀𝐓𝐄𝐑 𝐖𝐎𝐌𝐁 𝐖𝐎𝐑𝐋𝐃,  
