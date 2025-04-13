@@ -1279,7 +1279,7 @@ _(And **VENUS** would be once more.)_
 
 A utilitarian breakroom, dimly lit and acoustically sterile, rests on the 437th sublevel of **The Pillar**, the vast vertical military-industrial complex of **URANUS**. The walls are matte, synthetic steel. The air is stale, processed, and pressurized for endurance rather than comfort.
 
-A grizzled captain in his sixties with a receding hairline and acid-pocked skin, activates the embedded reckoner interface beside the meal dispenser.
+A grizzled captain in his sixties with a receding hairline and acid-pocked skin activates the embedded reckoner interface beside the meal dispenser.
 
 He selects **Broadcast Channel**.
 
