@@ -2242,8 +2242,8 @@ There’s something past the **SUN**, past the pull of the outermost moons, past
 A creature that laughs at entropy.  
 A howling wound in the veil.  
 
-The **𝐅𝐎𝐎𝐋.**  
-The origin of corruption. The engine of nihility.
+The 𝐅𝐎𝐎𝐋.  
+The first joke. The origin of corruption. The engine of nihility.
 
 ---
 
@@ -2320,15 +2320,8 @@ It is the lie beneath every act of love, every promise, every god.
 
 And I will annihilate it.
 
----
-
-This is my punishment.  
-
-This is my penance.  
-
-This is my purpose.  
-
-My crusade is righteous, my cause just. I burn with the lost souls of billions. I am the last hope of a dying world. 
+My crusade is righteous, my cause just. I burn with the lost souls of billions.  
+I am the last hope of a dying world.
 
 I am the 𝐑𝐄𝐃 𝐂𝐇𝐀𝐑𝐈𝐎𝐓.
 
