@@ -2230,7 +2230,7 @@ The first joke. The origin of corruption. The engine of nihility.
 
 ---
 
-**SATURN**, the **DARK HIEROPHANT**, listened with the eyes of a grave. She is older than my violence. Wiser than my wrath. I begged her.  
+**SATURN**, the **DARK HIEROPHANT**, heard my appeals. She is older than my violence. Wiser than my wrath. I begged her.  
 
 Let me atone.  
 Let me chase it.  
