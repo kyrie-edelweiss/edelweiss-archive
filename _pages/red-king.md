@@ -2227,7 +2227,7 @@ Then **JUPITER**, the **WORLD SEEKER**, armed me with the knowledge to transcend
 
 *The simple celestial slingshot.* 
 
-I closely enter the orbit of the **SUN**, spin around three times. I gain speed with each passing rotation. Then another nine times. Twenty-seven. Eighty-one. And by the time I reach two-hundred fourty-three…_
+I closely enter the orbit of the **SUN**, spin around three times. I gain speed with each passing rotation. Then another nine times. Twenty-seven. Eighty-one. And by the time I reach two-hundred fourty-three…
 
 I break out of the clutches of the solar system.
 
