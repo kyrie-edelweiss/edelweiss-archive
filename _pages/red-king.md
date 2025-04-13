@@ -780,129 +780,134 @@ This could not be kept up any longer.
 **CLASSIFICATION:** RED CODE – UNAUTHORIZED MATERIAL
 
 ## Transcript – Archive Clip 047
-> **[VOICE – FEMALE, MID-30s, SMOKY ACCENT]**  
-> *"I used to iron their sheets. Every morning, before shift. You could still smell the oil from the drills when you held the corners."*
-
-> **[LAUGHTER – MULTIPLE WOMEN, DISTORTED]**
-
-> *"There was a girl in our complex. She'd always tuck her hair in a ponytail, and we’d pass her the ration powder first like she was a captain. One time she traded an entire night's sleep for three hormone capsules smuggled in through Callisto. I never asked how she knew which guards were stupid."*
-
-> *"...She didn’t talk about who she was. She didn’t have to."*
-
-> *"She looked like she was falling apart—like someone who'd survived telling them 'no.'"*
-
-> *"She’d go out at night and rewire the speakers—spliced them into something older. Found tapes, not from SPA, not from anyone official. Songs. Women reading poems. Women screaming. And one time, this woman—hollow voice, flat like concrete—she just says, over and over:  
+> **[VOICE – FEMALE, MID-30s, SMOKY ACCENT]**
 >  
-> ‘What they made you isn’t what you are.’"*
-
+> *"I used to iron their sheets. Every morning, before shift. You could still smell the oil from the drills when you held the corners."*  
+>  
+> **[LAUGHTER – MULTIPLE WOMEN, DISTORTED]**  
+>  
+> *"There was a girl in our complex. She'd always tuck her hair in a ponytail, and we’d pass her the ration powder first like she was a captain. One time she traded an entire night's sleep for three hormone capsules smuggled in through Callisto. I never asked how she knew which guards were stupid."*  
+>  
+> *"...She didn’t talk about who she was. She didn’t have to."*  
+>  
+> *"She looked like she was falling apart—like someone who'd survived telling them 'no.'"*  
+>  
+> *"She’d go out at night and rewire the speakers. Found tapes, not from SPA, not from anyone official. Songs. Women reading poems. Women screaming. And one time, this woman—hollow voice, flat like concrete—she just says, over and over, distorted in static:  
+> ‘What they made you isn’t what you are.’"*  
+>  
 > **[AUDIO GLITCH – 13 SECONDS OF SILENCE]**
-
-> *"Venus was always too hot for dreams. The walls sweated. The oxygen was thin and bitter. They kept the lights tuned to colors that made you forget time—said it improved productivity. No clocks. No mirrors. Just efficiency."*
-
-> *"When we bled, they made us work with it in. Said it built tolerance. When we cried, they lowered our rations. Said hydration needed incentive."*
-
-> *"...That girl—Flicker, we called her—she never looked hungry, even when she was. She had this way of looking through you."*
-
-> *"She taught us things without saying them. Like how to cough once before a false shift report. How to tell the difference between corrective officers and legislative officers by the shape of their boots. How to leave messages in the scent-coding of cleaning fluid."*
-
-> _"After her, it stopped being about escape. It started being about inheritance. About building something that'd last, that **they couldn’t take away from us.**"_
-
-> *"They caught her in 1948. Stripped her naked in front of the wall. Said she was ‘trying to corrupt the servile system.’ But I remember this—she smiled. Even with her jaw busted open. Smiled like she’d already made it out."*
-
+>  
+> *"Venus was always too hot for dreams. The walls sweated. The oxygen was thin and bitter. They kept the lights tuned to colors that made you forget time—said it improved productivity. No clocks. No mirrors. Just efficiency."*  
+>  
+> *"When we bled, they made us work with it in. Said it built tolerance. When we cried, they lowered our rations. Said hydration needed incentive."*  
+>  
+> *"...That girl—Flicker, we called her—she never looked hungry, even when she was. She had this way of looking through you."*  
+>  
+> *"She taught us things without saying them. Like how to cough once before a false shift report. How to tell the difference between corrective officers and legislative officers by the shape of their boots. How to leave messages in the scent-coding of cleaning fluid."*  
+>  
+> _"After her, it stopped being about escape. It started being about inheritance. About building something that'd last, that **they couldn’t take away from us.**"_  
+>  
+> *"They caught her in 1948. Stripped her naked in front of the wall. Said she was ‘trying to corrupt the servile system.’ But I remember this—she smiled. Even with her jaw busted open. Smiled like she’d already made it out."*  
+>  
 > **[VOICE CRACKLES BACK IN – NEW SPEAKER, YOUNG, BREATHLESS]**  
-> *"She didn’t just smuggle tapes. She smuggled the idea that we could have voices. She left holes in the walls where we could plant them."*
-
+>  
+> *"She didn’t just smuggle tapes. She smuggled the idea that we could have voices. She left holes in the walls where we could plant them."*  
+>  
 > _"...I don’t remember her real name. But we called her **Flicker.**"_  
-
-> *"Every time they'd raid our dorms for contraband with and come back empty handed? Every time they'd drop dead, and the company would file it as 'sudden heart failure'? And every time a girl disappears for three nights and then **doesn't** come back bruised, beaten?"*
-
+>  
+> *"Every time they'd raid our dorms for contraband and come back empty handed?  
+> Every time they'd drop dead, and the company would file it as 'sudden heart failure'?  
+> Every time a girl disappears for three nights and then **doesn't** come back bruised and beaten?"*
+>  
 > *"That’s Flick."*
 
 ---
 
 ## Transcript – Archive Clip 112 
-> **[VOICE – MALE, MID-50s, HOARSE BUT CONTROLLED]**  
+> **[VOICE – MALE, MID-50s, HOARSE BUT CONTROLLED]**
+>  
 > _“They called it **Asset Conditioning**. I called it paperwork.”_
-
+>  
 > *“I worked in the Correctional Oversight Department—Venus branch. Mid-floor. Nobody important. My job was to certify the behavioral assessments for serviles who ‘failed compliance.’ Not the punishment. Just the process around it.”*
-
+>  
 > **[AUDIO: AMBIENT OFFICE NOISE – FAINT PRINTER WHIRR, AIR RECIRCULATORS, DISTANT DRONING]**
-
+>  
 > *“You’d get these reports—lines of numbers. Emotional volatility, libido productivity, obedience latency, fertility status. It all looked clean. Math always does.”*
-
+>  
 > *“The girls weren’t numbers, though. Not really. They were test cases. Every month, they’d slip new protocols into the system. Quietly. No memos. Just new checkboxes.”*
-
+>  
 > *‘Has she made eye contact for more than 3.4 seconds?’  
 > ‘Has she asked to keep her original name?’  
 > ‘Has she formed intra-sex bonds unapproved by morale units?’  
 > ‘Does she exhibit… *independent linguistic framing?*’”*
-
+>  
 > **[PAUSE – BREATHING AUDIBLY THROUGH NOSE]**
-
+>  
 > *“You know what ‘independent linguistic framing’ means? It means she used a word we didn’t teach her.”*
-
+>  
 > *“If the girls scored red on more than two flags, the report went to VAP. From there, I didn’t see anything. Just reassignment notices. Or deletion codes.”*
-
+>  
 > *“Once, a girl wrote ‘no’ in chalk. On the side of a ration bin. Small, faint. Someone caught it. Her number was V-76-E. I still remember that. VAP came in within the hour. Two guards. One nurse.”*
-
+>  
 > *“I signed the removal form. I didn’t even have to type it. The system filled it out automatically. Just needed a biometric pulse. I gave it mine.”*
-
+>  
 > **[AUDIO: PAPER SHUFFLING, THEN A DEEP EXHALE]**
-
+>  
 > *“They weren’t even hiding it. That was the part that got me. The cruelty wasn’t masked. It was modular.”*
-
+>  
 > *“There’s this protocol—Section 14/9b. Internal term: ‘Divergent Correctional Intimacy.’ I thought it was slang. Until I saw the documentation. Whole programs designed to ‘test the elasticity of feminine behavioral thresholds.’”*
-
+>  
 > *“They called it elastic. I called it what it was.”*
-
+>  
 > *“Rape by spreadsheet.”*
-
+>  
 > **[AUDIO: CHAIR CREAKING, SLIGHT STATIC]**
-
+>  
 > *“I don’t expect forgiveness. I don’t expect survival. But I kept one file. Just one. Printed it off and fed it through a trash unit marked for sterilization. Burned the rest.”*
-
+>  
 > *“This is the only copy.”*
-
+>  
 > *“I’m sending it now. If you get this, you’re either brave or already damned.”*
-
+>  
 > *“Do something with it.”*
 
 ---
 
 ### Transcript – Archive Clip 077 
-> **[VOICE – FEMALE, LATE 20s, TENDER, SLIGHTLY BREATHLESS]**  
+> **[VOICE – FEMALE, LATE 20s, TENDER, SLIGHTLY BREATHLESS]**
+>  
 > *“Her hands were always cold at first. They’d warm up under my ribs.”*
-
+>  
 > *“We worked opposite ends of the facility. I ran maintenance routing—sixteen hours sorting cables that didn’t go anywhere. She was in the chemical rooms. Breathing bleach like perfume. Hands always cracked.”*
-
+>  
 > *“There was a chute behind the incinerator vent. No reckorders. No sensors. We’d lie on the steel.”*
-
+>  
 > **[AUDIO: LOW, METALLIC WIND – DISTANT PIPELINE PRESSURE]**
-
+>  
 > *“She always came to me marked. Scrapes, heat rash, burn lines where the collar stuck to her. I’d press my mouth to every one. Real gentle. Like I was fixing them.”*
-
+>  
 > *“We never talked about being lovers. That word didn’t exist down there. But sometimes she’d whisper, real quiet, ‘I want to forget the shift code.’ That meant: don’t stop tonight. That meant: take the whole hour.”*
-
+>  
 > *“We’d slide the uniforms down to the ankles. Lie face to face. Arms hooked together like netting. We never rushed. The longer we went, the more it felt like we were rebelling. Against everything.”*
-
+>  
 > _“I remember the first time she cried while she was inside me. Said it felt too real. Said it hurt to feel **wanted** without a clipboard.”_
-
+>  
 > *“I said I’d write her a report if that helped. Three violations of protocol. Two sustained interruptions. One unsanctioned moan.”*
-
+>  
 > **[AUDIO: SMALL LAUGHTER – BARELY AUDIBLE. SHARED.]**
-
+>  
 > *“There were times we didn’t even undress. Just held each other through the fabric. She’d say, ‘If we strip too fast they’ll think we’re working again.’”*
-
+>  
 > *“Once, after a double shift, we fell asleep like that. Woke up to sirens. Crawled back to our quarters in opposite directions, grease on our thighs. Didn't speak for a week. Thought maybe we’d been flagged.”*
-
+>  
 > *“But no summons came. No reassignment. No reckorder playback.”*
-
+>  
 > *“We were ghosts again.”*
-
+>  
 > *“We never got caught. Or maybe we did, and they let it happen. Maybe they needed to know what we’d cling to if left unsupervised.”*
-
+>  
 > *“She’s gone now. Reassigned. That’s what the docket said.”*
-
+>  
 > *“But when I lie still enough, I swear I can feel her palm again. Cold at first. Always warming.”*
 
 ---
