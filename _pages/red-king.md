@@ -2140,7 +2140,6 @@ When Alva questions whether Katherina would see her as a woman, Ivy doesn't offe
 "She’d know. She’d know you're all the same. You both suffered."
 
 And Katherina’s name hung in the stale air like condensation.  
-Still present.  
 A presence at rest beside them.
 
 ---
