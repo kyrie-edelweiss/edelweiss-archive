@@ -1949,7 +1949,7 @@ _Mint J. Suarez_
 ### Chapter Fourteen – I Need A Spacesuit To Leave My Home 
 **operation_name:** "tea leaves"  
 **cell_designation:** "white cell"  
-**operation_date:** "february third, one thousand nine hundred eighty-nine"   
+**operation_date:** "february third, eighty-nine"   
 **cell_location:** "our home"  
 **operatives:** "ivy, alva, mira"  
 **other_cells_involved:** "X"  
