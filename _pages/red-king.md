@@ -1927,7 +1927,7 @@ Not complete.
 **CLASSIFICATION:** RED-LISTED / COMPARTMENTALIZED / EYES-ONLY  
 **DATE:** 11-18-1988  
 **SUBJECT:** VAP 33-102 – Post-Extraction Review  
-**FROM:** SPC Analyst Mint J. Suarez (Seven Planet Committee – NEPTUNE)  
+**FROM:** SPC Analyst Mint J. Suarez  
 **TO:** Clearance-Level III Recipients / SPA Chief Executive Officer Edelweiss
 
 ---
