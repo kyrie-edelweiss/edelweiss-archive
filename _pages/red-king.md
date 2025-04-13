@@ -2166,7 +2166,7 @@ And I deserve it.
 I know what I did.  
 What I did to Katherina.  
 
-*I was meant to protect her.*  
+*I should've protected her.*  
 *Instead, I shaped her suffering like clay.*
 
 I alone was supposed to pay the toll.  
