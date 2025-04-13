@@ -450,9 +450,12 @@ _“They called it **Asset Conditioning**. I called it paperwork.”_
 
 **[PAUSE – BREATHING AUDIBLY THROUGH NOSE]**
 
-*“You know what ‘independent linguistic framing’ means? It means she used a word we didn’t teach her.”*  
-*“If the girls scored red on more than two flags, the report went to VAP. From there, I didn’t see anything. Just reassignment notices. Or deletion codes.”*  
-*“Once, a girl wrote ‘no’ in chalk. On the side of a ration bin. Small, faint. Someone caught it. Her number was V-76-E. I still remember that. VAP came in within the hour. Two guards. One nurse.”*  
+*“You know what ‘independent linguistic framing’ means? It means she used a word we didn’t teach her.”*
+
+*“If the girls scored red on more than two flags, the report went to VAP. From there, I didn’t see anything. Just reassignment notices. Or deletion codes.”*
+
+*“Once, a girl wrote ‘no’ in chalk. On the side of a ration bin. Small, faint. Someone caught it. Her number was V-76-E. I still remember that. VAP came in within the hour. Two guards. One nurse.”*
+
 *“I signed the removal form. I didn’t even have to type it. The system filled it out automatically. Just needed a biometric pulse. I gave it mine.”*
 
 **[AUDIO: PAPER SHUFFLING, THEN A DEEP EXHALE]**
@@ -467,9 +470,12 @@ _“They called it **Asset Conditioning**. I called it paperwork.”_
 
 **[AUDIO: CHAIR CREAKING, SLIGHT STATIC]**
 
-*“I don’t expect forgiveness. I don’t expect survival. But I kept one file. Just one. Printed it off and fed it through a trash unit marked for sterilization. Burned the rest.”*  
-*“This is the only copy.”*  
-*“I’m sending it now. If you get this, you’re either brave or already damned.”*  
+*“I don’t expect forgiveness. I don’t expect survival. But I kept one file. Just one. Printed it off and fed it through a trash unit marked for sterilization. Burned the rest.”*
+
+*“This is the only copy.”*
+
+*“I’m sending it now. If you get this, you’re either brave or already damned.”*
+
 *“Do something with it.”*
 
 ---
@@ -477,29 +483,36 @@ _“They called it **Asset Conditioning**. I called it paperwork.”_
 ### Transcript – Archive Clip 077 
 **[VOICE – FEMALE, LATE 20s, TENDER, SLIGHTLY BREATHLESS]**
 
-*“Her hands were always cold at first. They’d warm up under my ribs.”*  
-*“We worked opposite ends of the facility. I ran maintenance routing—sixteen hours sorting cables that didn’t go anywhere. She was in the chemical rooms. Breathing bleach like perfume. Hands always cracked.”*  
+*“Her hands were always cold at first. They’d warm up under my ribs.”*
+
+*“We worked opposite ends of the facility. I ran maintenance routing—sixteen hours sorting cables that didn’t go anywhere. She was in the chemical rooms. Breathing bleach like perfume. Hands always cracked.”*
+
 *“There was a chute behind the incinerator vent. No reckorders. No sensors. We’d lie on the steel.”*
 
 **[AUDIO: LOW, METALLIC WIND – DISTANT PIPELINE PRESSURE]**
 
-*“She always came to me marked. Scrapes, heat rash, burn lines where the collar stuck to her. I’d press my mouth to every one. Real gentle. Like I was fixing them.”*  
-*“We never talked about being lovers. That word didn’t exist down there. But sometimes she’d whisper, real quiet, ‘I want to forget the shift code.’ That meant: don’t stop tonight. That meant: take the whole hour.”*  
+*“She always came to me marked. Scrapes, heat rash, burn lines where the collar stuck to her. I’d press my mouth to every one. Real gentle. Like I was fixing them.”*
+
+*“We never talked about being lovers. That word didn’t exist down there. But sometimes she’d whisper, real quiet, ‘I want to forget the shift code.’ That meant: don’t stop tonight. That meant: take the whole hour.”*
+
 *“We’d slide the uniforms down to the ankles. Lie face to face. Arms hooked together like netting. We never rushed. The longer we went, the more it felt like we were rebelling. Against everything.”*
 
-_“I remember the first time she cried while she was inside me. Said it felt too real. Said it hurt to feel **wanted** without a clipboard.”_  
+_“I remember the first time she cried while she was inside me. Said it felt too real. Said it hurt to feel **wanted** without a clipboard.”_
+
 *“I said I’d write her a report if that helped. Three violations of protocol. Two sustained interruptions. One unsanctioned moan.”*
 
 **[AUDIO: SMALL LAUGHTER – BARELY AUDIBLE. SHARED.]**
 
 *“There were times we didn’t even undress. Just held each other through the fabric. She’d say, ‘If we strip too fast they’ll think we’re working again.’”*  
 
-*“Once, after a double shift, we fell asleep like that. Woke up to sirens. Crawled back to our quarters in opposite directions, grease on our thighs. Didn't speak for a week. Thought maybe we’d been flagged.”*  
+*“Once, after a double shift, we fell asleep like that. Woke up to sirens. Crawled back to our quarters in opposite directions, grease on our thighs. Didn't speak for a week. Thought maybe we’d been flagged.”*
+
 *“But no summons came. No reassignment. No corrections.”*  
 
 *“We were ghosts again.”*
 
-*“We never got caught. Or maybe we did, and they let it happen. Maybe they needed to know what we’d cling to if left unsupervised.”*  
+*“We never got caught. Or maybe we did, and they let it happen. Maybe they needed to know what we’d cling to if left unsupervised.”*
+
 *“She’s gone now. Reassigned. That’s what the docket said.”*
 
 *“But when I lie still enough, I swear I can feel her palm again. Cold at first. Always warming.”*
@@ -756,10 +769,14 @@ This could not be kept up any longer.
 **NOTES:** Subject Interaction: Officer Jack M. & Servile V-32-L (“June”)  
 **CLASSIFICATION:** SENSITIVE
 
+---
+
 > _“There’s a moment between touch and recognition.  
 > When the body obeys but the mind flinches.  
 > That’s where we live. In the flinch.”_  
 > — *Jack Miller*
+
+---
 
 ### REASSIGNMENT LOG – PRIVATE EXCHANGE: SECTOR 3  
 **Subject:** V-55-T ("Sarah")  
