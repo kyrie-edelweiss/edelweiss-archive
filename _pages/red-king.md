@@ -1757,7 +1757,7 @@ Three.
 **[Camera Sync]**: Visual smearing begins. Color inversion for 0.7s. Room beyond becomes hard to resolve.  
 Only central figure remains stable: **the girl**.
 
-### **FRAME 0011–0013**  
+### **FRAME 0013**  
 **[Visual]**: Subject visible.  
 - Female. Pale skin. Naked, small. Skinny frame. No immediate physical trauma.  
 - Restrained to rusted bedframe. Restraints appear old—fabric and metal.  
@@ -1767,7 +1767,7 @@ Only central figure remains stable: **the girl**.
 **[Audio]**: Screaming begins. Full bandwidth. No pattern. No language.  
 **[System Note]**: Audio exceeds internal compression. Digital audio bruising begins.
 
-### **FRAME 0014**  
+### **FRAME 0015**  
 **[MIKE]**:  
 She’s alive—holy shit—she’s alive!
 
@@ -1777,14 +1777,14 @@ Ma’am, we’re with the **VENUS** Patrol. We’re here to help you. Do you hea
 **[ZETA]:**  
 Tango—approach slow. Restraints first.
 
-### **FRAME 0017**  
+### **FRAME 0030-0041**  
 **[Visual]**: TANGO steps closer. Camera jitter increases.  
 Flashlight catches damp surface on bed. Looks like sweat or condensation.  
 Subject’s screaming doesn’t change tone. Continuous. Almost **mechanical**.  
 **[TANGO]**:  
 You’re safe. You’re safe. It’s over.
 
-### **FRAME 0020–0022**  
+### **FRAME 0042-0074**  
 
 **[Audio]**: Low rumble. Not from her.
 Subject still screaming. Head turns slightly toward TANGO.
@@ -1799,13 +1799,13 @@ Jesus, it’s like they’re part of her.
 **[TANGO]:**  
 She’s freezing. But her skin’s wet. How does that even—
 
-### **FRAME 0025**  
+### **FRAME 0074-82**  
 **[Audio]**: Screaming **cuts out.**  
 Immediate silence.  
 Subject locks eyes with Tango. Camera zoom auto-adjusts—focus sharpens.  
 Her lips move. No sound.  
 
-### **FRAME 0027**  
+### **FRAME 0082-0100**  
 **[Visual]**: Straps begin to fray—slowly, like dissolving fiber. No one cuts them.  
 Subject lifts arms. Does not struggle. Walks only when pulled. Head tilted.
 
@@ -1815,9 +1815,8 @@ We’re leaving. Zeta?
 **[ZETA]**:  
 Move. Now.
 
-### **FRAME 0029–0032**  
-**[Visual]**: Final shot before exit.  
-Subject turns her head—just slightly—back toward the room. Her face goes blank.  
+### **FRAME 0100–123**  
+**[Visual]**: Subject turns her head—just slightly—back toward the room. Her face goes blank.  
 **[Audio]**: The ocean returns. Louder now. Pressurized.  
 Room temperature drops 6°C in 4 seconds.  
 
