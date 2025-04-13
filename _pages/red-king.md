@@ -1085,7 +1085,7 @@ the 𝐋𝐎𝐎𝐏
 (ʏᴏᴜ ᴡᴇʀᴇ ᴀʟᴡᴀʏꜱ ᴍᴇᴀɴᴛ ᴛᴏ ꜱᴄʀᴇᴀᴍ ᴊᴜꜱᴛ ʟɪᴋᴇ ᴛʜɪꜱ)
 
 [future event detected]  
--> KATHERINA [REDACTED]  
+-> KATHERINA [WOMAN] -> [SYMBOL]  
 -> SYSTEM [CRADLE] -> [GRAVE]
 
 HA—HA—  
