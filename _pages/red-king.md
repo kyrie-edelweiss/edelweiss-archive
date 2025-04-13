@@ -1123,7 +1123,7 @@ HA—HA—HA—
 
 _(Above the churning yellow clouds of Venus, **KATHERINA** levitates. In her cupped palms, she holds Mars—small, dim, stripped of dominion. Her jaw is clenched. Her eyes burn. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open.)_
 
-*Mars* (begging):
+*Mars* (begging):  
 Don't do this.  
 Put me back, please.  
 I thought you loved me.
