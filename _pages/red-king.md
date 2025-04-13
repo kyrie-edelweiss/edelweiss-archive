@@ -1102,7 +1102,7 @@ HA—
 i watched you, red thing
 
 [↯] SEED_RECOVERY > > TRUE  
-[↯] MARS_SUPPRESSION > > NULL  
+[↯] **MARS**_SUPPRESSION > > NULL  
 
 you thought her 𝐰𝐞𝐚𝐤  
 because she let you take control.
@@ -1116,7 +1116,7 @@ because she called your name.
 [INCORRECT ASSUMPTION FLAGGED]  
 -> love ≠ control  
 -> silence ≠ consent  
--> assurance ≠ ownership
+-> obedience ≠ permission
 
 *No no no no no no no*  
 this is the 𝐋𝐎𝐎𝐏  
