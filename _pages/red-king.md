@@ -1993,12 +1993,12 @@ _Mint J. Suarez_
 ---
 
 ### Chapter Fifteen – I Need A Spacesuit To Leave My Home 
-**operation_name:** "tea leaves"  
-**cell_designation:** "white cell"  
-**operation_date:** "february third, eighty-nine"   
-**cell_location:** "our home"  
-**operatives:** "ivy, alva, mira"  
-**other_cells_involved:** "X"  
+-> **operation_name:** "tea leaves"  
+-> **cell_designation:** "white cell"  
+-> **operation_date:** "february third, eighty-nine"   
+-> **cell_location:** "our home"  
+-> **operatives:** "ivy, alva, mira"  
+-> **other_cells_involved:** "X"  
 
 The cryonics lab hadn’t been operational in years.
 
