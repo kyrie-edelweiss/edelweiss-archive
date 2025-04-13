@@ -2293,7 +2293,7 @@ Now, one of them—**VENUS**—glows blood-red. It pulses, silently mocking the 
 
 Her voice is thin. She speaks like she's unraveling from the inside.
 
-> “As of this morning, all neo-industry outposts on Mercury… all orbital research stations across the Jovian moons… all Uranian contractor training… everything has been formally collapsed.”
+> “As of this morning, all Mercurian neo-industry outposts… all orbital research stations across the Jovian moons… all Uranian contractor training… everything has been formally collapsed.”
 
 She glances to the side.
 
