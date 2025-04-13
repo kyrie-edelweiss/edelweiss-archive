@@ -1061,7 +1061,7 @@ HA—
 i watched you, red thing
 
 [↯] SEED_RECOVERY > > TRUE  
-[↯] MARS_DOMINION > > NULL  
+[↯] MARS_SUPPRESSION > > NULL  
 
 you thought her 𝐰𝐞𝐚𝐤  
 because she let you take control.
