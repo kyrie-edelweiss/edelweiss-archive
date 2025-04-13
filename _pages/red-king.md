@@ -1327,44 +1327,30 @@ Then, the Broadcast Channel resumes. Music plays. The message is gone.
 
 > *“Good evening. This is SPA Broadcast Channel. Your only source for uninterrupted, validated, and sanitized planetary information.”*
 
----
-
 > *“Our lead story: The individual responsible for the **Dockyard-7 Mass Interruption** has been formally **convicted on suspicion of Venusian ideals** and arrested **two days prior to the incident itself**. Officials stress this is a precautionary success, not a timeline irregularity.”*
 
 > *“The individual’s name will not be released to prevent sympathetic contamination.”*
-
----
 
 > *“In celestial news: the sector **MARS** has not appeared in any known orbital registry since this morning’s report. Observatories on **JUPITER** confirm the body’s absence. SPA officials say it is ‘probably a clerical abstraction’ and **urge calm.**”*
 
 > *“The Seven Planet Authority reminds citizens: the **perception of loss does not constitute loss**.”*
 
----
-
 > *“On economic fronts, a **System-wide reinvestment campaign** has been initiated to encourage **prompt and enthusiastic re-colonization of Venus.**”*
 
 > *“SPA Compliance & Wellness notes a sharp rise in fertility compatibility among Venus-adjacent zones.  
 
----
-
 > *“In memorial: A **nationwide sermon** will air at midnight to commemorate **those lost on SATURN**.”*
 
 > *“Residents in Ring Cities 2 through 5 are advised to remain home during broadcast transmission for optimal reflection.”*
-
----
 
 > *“In culture: the **Artemisia Reclamation Protest**, initially permitted as an art installation, has been reclassified as a **radical sex supremacy demonstration.** Protesters will be processed under the Gender Compliance Act.”*
 
 > *“Seventeen were arrested. Four were pregnant.  
 **None were in violation.**”*
 
----
-
 > *“And finally: The Neptune Light Index has returned to expected ambient levels after last week’s unusual surge in red-spectrum photonic activity. Reports of disembodied whispering were confirmed to be a **systemized sound glitch**, attributed to overheating in Committee-approved headpieces.”*
 
 > *“All systems remain green.”*
-
----
 
 > *“This has been the SPA Broadcast Channel. Obedience is harmony.”*
 
