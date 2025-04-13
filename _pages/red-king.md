@@ -2023,7 +2023,7 @@ Alva lies on her side, head heavy on Ivy’s thigh. She's tall, broad-shouldered
 
 ---
 
-> **[FLASHBACK – JUPITER JUNCTION HALLWAY 7C – 03:01]**
+**[FLASHBACK – JUPITER JUNCTION HALLWAY 7C – 03:01]**
 
 Three white coats in dim lighting. Two are scanned, flagged female. The third—Alva—registers male.
 
@@ -2069,7 +2069,7 @@ They saw the shape. The hipbones. The weight."
 
 ---
 
-> **[FLASHBACK – MOMENT OF INSERTION - JUPITER JUNCTION GRAND TERMINAL – 03:12]**
+**[FLASHBACK – MOMENT OF INSERTION - JUPITER JUNCTION GRAND TERMINAL – 03:12]**
 
 The terminal hub is humming with low-frequency sleep sounds: server fans, the occasional hiss of coolant lines, the soft beep of automated system sweeps. Blue SPA logos rotate lazily across the central screen—faceless, clean, inhuman.
 
