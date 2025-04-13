@@ -1902,7 +1902,7 @@ None of this was.
 **ZETA**  
 Hatch should lead to safety. Open it.
 
-*(MIKE pulls the latch. It gives with a groan. Air rushes through—hot, dry, metallic.)*  
+*(MIKE pulls the latch. It gives with a groan. Air rushes through—hot, dry, metallic.*  
 *The outside is grounded with concrete. No reception. No motel.*  
 *They step out. The motel vanishes behind them.*  
 *All that's left is the four of them - Tango, Zeta, Mike, and the girl in her silence.)*
