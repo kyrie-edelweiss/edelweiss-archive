@@ -18,10 +18,10 @@ _**AUDIO… ACTIVE**_
 The static hums, low and steady, vibrating with tension, like an old machine working itself into oblivion. Beneath the noise, there is something darker—a muffled rhythm of breathing, ragged and desperate. The cries of men, distorted and broken, fill the silence between mechanical growls. Their voices are not sharp—more like the gasps of drowning creatures, their calls twisted into something far less human.
 
 **YOUNG WOMAN** (panting, weeping, laughing):  
-"Fuck—fuck, fuck—I can feel it—I'm so close, I'm so close!"
+_"Fuck—fuck, fuck—I can feel it—I'm so close, I'm so close!"_
 
 **MIDDLE-AGED WOMAN** (fevered, chanting):  
-_"Hold him still! Hold him still! Keep his head like that!"_
+_"Hold him still, Hold him still! Keep his head like that!"_
 
 _**VIDEO… ACTIVE**_
 
