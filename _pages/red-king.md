@@ -2348,7 +2348,7 @@ Her voice is low, steady, the kind that speaks *after* war—when there’s no n
 
 **[RECKONER ACTIVE - RECORDING]**
 
-> To the enforcers of the Seven Planet Authority: 
+> “To the enforcers of the Seven Planet Authority: 
 >  
 > Your currency will be worthless.  
 > Your codes of conduct will be broken.  
