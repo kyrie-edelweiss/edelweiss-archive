@@ -1474,7 +1474,7 @@ Neither man acknowledges it.
 *(Footsteps in dust. Wind blows faintly. Cam shakes as boots crunch over cracked cement. All three officers are on approach: weapons slung low, helmets off. The motel looms ahead—tall, crooked, bleeding rust.)*
 
 **MIKE**:  
-There she is.  
+There she is. The Vitruvian Motel.  
 The pride of the pre-collapse tourism industry. Fuckin’ two stars, maybe.
 
 **TANGO**:  
