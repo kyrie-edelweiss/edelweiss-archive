@@ -446,10 +446,10 @@ _“They called it **Asset Conditioning**. I called it paperwork.”_
 *“You’d get these reports—lines of numbers. Emotional volatility, libido productivity, obedience latency, fertility status. It all looked clean. Math always does.”*  
 *“The girls weren’t numbers, though. Not really. They were test cases. Every month, they’d slip new protocols into the system. Quietly. No memos. Just new checkboxes.”*
 
-*‘Has she made eye contact for more than 3.4 seconds?’  
+_‘Has she made eye contact for more than 3.4 seconds?’  
 ‘Has she asked to keep her original name?’  
 ‘Has she formed unapproved intra-sex bonds?’  
-‘Does she exhibit… *independent linguistic framing?*’”*
+‘Does she exhibit… **independent linguistic framing?**’”_
 
 **[PAUSE – BREATHING AUDIBLY THROUGH NOSE]**
 
