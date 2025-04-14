@@ -2269,7 +2269,7 @@ And kind."
 That night, Callisto is quiet.  
 By morning, the Seven Planet Authority would pass several more articles under the Gender Protection Act.
 
-But they knew **something had shifted**.
+But the girls knew **something had shifted**.
 
 ---
 
