@@ -1462,7 +1462,7 @@ Neither man acknowledges it.
 **TIMESTAMP:** Early 1988  
 **ERA:** POST-CURSE  
 **LOCATION:** VENUS – Quadrant 4C, Vitruvian Motel  
-**MISSION STATUS:** Investigation of Anomalous Signal – Two Personnel Missing  
+**MISSION STATUS:** Investigation of Anomalous Signal – Two Clients Missing  
 **UNIT COMPOSITION:** Captain Tango, Officer Zeta, Junior Officer Mike
 
 ---
@@ -1480,14 +1480,20 @@ The pride of the pre-collapse tourism industry. Fuckin’ two stars, maybe.
 **TANGO**:  
 Generous. You can smell the rot from here.
 
+**TANGO**:  
+Let's make a bet—either they're already dead, or it's the third fuckin' hostage situation in a row.
+
+**MIKE**:  
+I say they're dead. Deady-dead dead dead. Break the streak already.
+
 **ZETA**:  
-Focus.
+Nonsense. Focus.
 
 *(The body-reckorder pans over the building—two floors visible, but the silhouette is wrong. Windows are either boarded or melted inward.)*
 
 **ZETA (reading tablet)**:  
 Registry lists it as decommissioned twenty years ago.
-Signal pings from two missing contractors came from inside, though.
+Hostage situation.
 
 *(ZETA walks closer, eyes scanning the entry.)*
 
@@ -1917,35 +1923,35 @@ No... we only came up two.
 
 *(Lights flicker out. Emergency strips glow faint red. The girl makes a sound—not a scream, but a breath like something surfacing from sleep.)*
 
-**MIKE**  
+**MIKE**:  
 This isn’t real.  
 I—I counted. Two floors up.  
 We never climbed this far.
 
-**ZETA**  
+**ZETA**:  
 You think too much. Just walk.
 
-**TANGO**  
+**TANGO**:  
 These floors weren’t here on the way in.
 
 ### 14:12:03 – FLOOR -3
 
 *(The walls feel closer. The steps narrower. Each floor passed has no doors—just blank landings, like hollow vertebrae.)*
 
-**MIKE**  
+**MIKE**:  
 I can’t tell if we’re descending… or being led.
 
-**TANGO (to the girl)**  
+**TANGO (to the girl)**:  
 Can you hear me? Can you move?
 
 *(She doesn’t respond. But her eyes blink. And she smiles absent-mindedly.)*
 
 ### 14:38:27 – FLOOR -6
 
-**ZETA**  
+**ZETA**:  
 We're almost there. Stay sharp.
 
-**TANGO (quiet)**  
+**TANGO (quiet)**:  
 No one asked where “there” was.
 
 *(The girl lifts her head. Looks directly at Mike. Her lips move, soundless. Nothing comes out of her. All of them notice, but each one of them keeps it to himself.)*
@@ -1956,13 +1962,13 @@ No one asked where “there” was.
 
 > “WELCOME BACK TO **VENUS**, CAPTAIN.”
 
-**MIKE**  
+**MIKE**:  
 This wasn’t here before.
 
-**TANGO**  
+**TANGO**:  
 None of this was.
 
-**ZETA**  
+**ZETA**:  
 Hatch should lead to safety. Open it.
 
 *(MIKE pulls the latch. It gives with a groan. Air rushes through—hot, dry, metallic.*  
@@ -1970,17 +1976,25 @@ Hatch should lead to safety. Open it.
 *They step out. The motel vanishes behind them.*  
 *All that's left is the four of them - Tango, Zeta, Mike, and the girl in her silence.)*
 
-**ZETA (flat)**  
+**ZETA (flat):**  
 Extraction complete.
 
-**TANGO (staring at her)**  
-No.  
-Not complete.
-**She’s still in there.**
+**MIKE (interjecting, celebratory)**:  
+Mhm, you won that bet. Beers on me tonight—
+
+**TANGO (staring at her)**:  
+—No.  
+We're not done.  
+
+*(Pause.)*
+
+**TANGO (grave)**:  
+*She’s still in there.*
 
 > **> FILE: BDYCAM [TANGO] | UNIT 33-102 | 11-06-1988**  
 > **> LOCATION: VENUS, SOUTHWEST QUADRANT, BLOOD COAST**  
 > **> SUBJECT: RECOVERED [UNIDENTIFIED] - STATUS: UNRESPONSIVE**  
+> **> CLIENTS: MISSING**
 > **> SESSION CLOSED**
 
 ---
