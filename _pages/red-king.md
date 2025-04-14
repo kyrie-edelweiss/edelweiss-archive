@@ -402,9 +402,9 @@ But not cruel.
 
 *"She looked like she was falling apart—like someone who'd survived telling them 'no.'"*
 
-*"She’d go out at night and rewire the speakers. Found tapes, not from SPA, not from anyone official. Songs. Women reading poems. Women screaming. And one time, this woman—hollow voice, flat like concrete—she just says, over and over, distorted in static:
+*"She’d go out at night and rewire the speakers. Found tapes, not from SPA, not from anyone official. Songs. Women reading poems. Women screaming. And one time, this woman—hollow voice, flat like concrete—she just says, over and over, distorted in static:*
 
-‘What they made you isn’t what you are.’"*  
+*‘What they made you isn’t what you are.’"*  
 
 **[AUDIO GLITCH – 13 SECONDS OF SILENCE]**
 
