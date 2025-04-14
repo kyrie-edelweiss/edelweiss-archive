@@ -1115,8 +1115,8 @@ Mars was the night, the nightmare.
 HA—  
 i watched you, red thing
 
-[↯] SEED_RECOVERY > > TRUE  
-[↯] **MARS**_SUPPRESSION > > NULL  
+[↯] **KATHERINA**_RECOVERY > > TRUE  
+[↯] MARS_SUPPRESSION > > NULL  
 
 you thought her 𝐰𝐞𝐚𝐤  
 because she let you take control.
