@@ -2506,7 +2506,7 @@ Then her tone shifts—lower, but more human. Mourning. Almost tender.
 >  
 > Come to us as you are: bleeding, vengeful, half-healed, still shaking.  
 
-Another pause. The tone is different now. Fiercer. Her volume rises.
+Another pause—the tone is different now. Fiercer. Her volume rises.
 
 > And all the women who were once crammed into correction facilities on **VENUS**, who saw the truth and warned the rest—  
 >  
