@@ -2464,7 +2464,7 @@ The brunette—calm, practiced—leans into the camera, wiping the lens clean wi
 
 The redhead turns to the lens. Only her eyes remain visible now, her hair flowing into scarlet-colored strands.
 
-Her voice is low, steady, the kind that speaks *after* war—when there’s no need to shout.
+Her voice is decided, steady, the kind that speaks *after* war—when there’s no need to shout.
 
 **[RECKONER ACTIVE - RECORDING]**
 
