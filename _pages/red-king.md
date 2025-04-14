@@ -1883,7 +1883,7 @@ Move. Now.
 **[Audio]**: The ocean returns. Louder now. Pressurized.  
 Room temperature drops 6°C in 4 seconds.  
 
-### ***BDYRECK-ANNOTATION: END OF BREACH PHASE***
+***BDYRECK-ANNOTATION: END OF BREACH PHASE***
 
 ---
 
