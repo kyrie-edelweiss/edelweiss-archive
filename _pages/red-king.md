@@ -2506,7 +2506,7 @@ Then her tone shifts—lower, but more human. Mourning. Almost tender.
 >  
 > Come to us as you are: bleeding, vengeful, half-healed, still shaking.  
 
-Another pause. The tone is different now. Fiercer.
+Another pause. The tone is different now. Fiercer. Her volume rises.
 
 > And all the women who were once crammed into correction facilities on **VENUS**, who saw the truth and warned the rest—  
 >  
@@ -2525,7 +2525,11 @@ Another pause. The tone is different now. Fiercer.
 > The countless men who stood beside us, who never asked for anything in return—  
 >  
 > **—we love you.** 
->  
+
+She takes a deep breath.  
+Her voice is resolute now.  
+Rallied with determination, loud.
+
 > If you are a woman—  
 > born in chains, born in silence, born *wrong*—  
 > and you are ready to end this—  
