@@ -943,13 +943,13 @@ AUDIT NOTE:
 >  
 > *You can be trafficked, tortured, torn open—and saved—by the same hand, with the right paperwork.*  
 >  
-> *But when he touched me, after the judge announced the ruling…*  
+> *But when he touched me, again, after the judge announced the ruling…*  
 >  
 > *I didn’t flinch.*  
 >  
-> *Because he asked first.*  
+> *Because this time, he asked first.*  
 >  
-> *And I said yes.*  
+> *I said yes.*  
 >  
 > *And I fell into his arms.*  
 >  
