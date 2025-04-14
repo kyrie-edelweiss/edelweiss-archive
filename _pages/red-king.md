@@ -914,7 +914,7 @@ AUDIT NOTE:
 
 ### CIVILIAN TRANSFER PETITION – V-32-L  
 **Filed by:** Former Officer Jack M.  
-**Petition ID:** #1129–VPC–ΔSEAL  
+**Petition ID:** #1129–VAP–ΔSEAL  
 **Date:** 08.17.1986  
 **Filed With:** Bureau of Resource Efficiency, Civil Dispute Council (**NEPTUNE**)
 
