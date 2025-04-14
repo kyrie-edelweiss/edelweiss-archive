@@ -1545,7 +1545,7 @@ I mean look at it. That used to be a couch. Now it’s mulch.
 **ZETA**:  
 Focus. Signs of habitation—anything recent?
 
-*(TANGO moves toward the desk. His cam picks up a broken landline, stained not with dust, but with something damp. There are no footprints on the floor, just odd drag patterns. Something was moved. Or pulled.)*
+*(Tango moves toward the desk. His cam picks up a broken landline, stained not with dust, but with something damp. There are no footprints on the floor, just odd drag patterns. Something was moved. Or pulled.)*
 
 **TANGO**:  
 This place smells like old copper and vinegar.
