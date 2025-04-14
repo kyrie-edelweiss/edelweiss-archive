@@ -93,7 +93,7 @@ _"Something stirs beneath the surface."_
 
 ---
 
-> *"Empires don’t fall. They consent to their own decay—one committee meeting at a time."  
+> *"Empires don’t collapse. They consent to their own decay—one committee meeting at a time."  
 > — Anonymous*
 
 ---
