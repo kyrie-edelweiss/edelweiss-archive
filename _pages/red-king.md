@@ -87,7 +87,7 @@ _"Something stirs beneath the surface."_
 
 # Chapter Two – A Brief Meeting
 **TIMESTAMP:** Early-To-Mid 1976  
-**ERA:** PRE-COLLAPSE  
+**ERA:** POST-COLLAPSE  
 **LOCATION:** NEPTUNE – Executive Council Chamber, Tower A-Prime  
 **CLASSIFICATION:** BLACK CODE – UNAUTHORIZED MATERIAL
 
