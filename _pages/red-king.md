@@ -1979,7 +1979,7 @@ Hatch should lead to safety. Open it.
 **ZETA (flat):**  
 Extraction complete.
 
-**MIKE (interjecting, celebratory)**:  
+**MIKE (celebratory)**:  
 Mhm, you won that bet. Beers on me tonight—
 
 **TANGO (staring at her)**:  
