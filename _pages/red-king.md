@@ -1492,7 +1492,7 @@ Nonsense. Focus.
 *(The body-reckorder pans over the building—two floors visible, but the silhouette is wrong. Windows are either boarded or melted inward.)*
 
 **ZETA (reading tablet)**:  
-Registry lists it as decommissioned twenty years ago.
+Registry lists it as decommissioned twenty years ago.  
 Hostage situation.
 
 *(ZETA walks closer, eyes scanning the entry.)*
