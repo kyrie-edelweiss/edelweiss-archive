@@ -6,6 +6,9 @@ header:
 permalink: /red-king/
 ---
 
+> **Foreword:**  
+> *"Man won't fall, not until woman consents to it."*
+
 # Chapter One - The Severed Womb
 **VAP 06-011 – BODY-RECKORDER FOOTAGE**  
 **YEAR OF OCCURRENCE:** Early 1969  
