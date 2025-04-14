@@ -1776,7 +1776,7 @@ For just a second—so complete it feels like cascading pressure.
 Then—)*
 
 **TANGO (cold)**:  
-—KICK IT OPEN!
+On my mark.
 
 ---
 
