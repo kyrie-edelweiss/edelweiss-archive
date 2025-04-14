@@ -2384,7 +2384,8 @@ It is the lie beneath every act of love, every promise, every truth.
 
 And I will annihilate it.
 
-My crusade is righteous, my cause just. I burn with the lost souls of billions.  
+My crusade is righteous, my cause just.   
+I burn with the lost souls of billions.  
 I am the last hope of a dying world.
 
 I am the 𝐑𝐄𝐃 𝐂𝐇𝐀𝐑𝐈𝐎𝐓.
