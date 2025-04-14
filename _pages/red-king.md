@@ -2380,7 +2380,7 @@ But I will not stop.
 The 𝐅𝐎𝐎𝐋 waits, tucked somewhere behind a nebula of broken prayers.  
 It laughs like the first scream of a child.  
 It dreams in equations that rot civilizations.  
-It is the lie beneath every act of love, every promise, every god.
+It is the lie beneath every act of love, every promise, every truth.
 
 And I will annihilate it.
 
