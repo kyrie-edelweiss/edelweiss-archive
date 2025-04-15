@@ -668,7 +668,3 @@ _**MARS**_ (whispering):
 **"LONG LIVE VENUS."**
 
 _(And **VENUS** would be once more.)_
-
----
-
-[Continue to Act III](/red-king-three/)

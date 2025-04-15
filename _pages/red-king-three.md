@@ -1220,7 +1220,3 @@ Rallied with determination, loud.
 ---
 
 # THE END — THE RED KING
-
----
-
-[Continue to Bonus Epilogue](/red-king-epilogue/)

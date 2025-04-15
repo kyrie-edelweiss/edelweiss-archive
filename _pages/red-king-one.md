@@ -469,7 +469,3 @@ And then—
 Nothing.
 
 When she gasps back into herself, her hands are curled into fists, pressed to her stomach like she’s trying to hold something in. Her breath hitches.
-
----
-
-[Continue to Act II](/red-king-two/)

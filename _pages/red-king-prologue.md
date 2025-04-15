@@ -283,7 +283,3 @@ _Lamont, **SATURN**’s representative, gives a brief nod of approval._
 _A standing ovation erupts, echoing through the grand chamber. The reckoner slowly fades to black, leaving only the emblem of the **Seven Planet Committee** hovering midair like a watchful eye._
 
 *She sat alone after the meeting. Ten minutes. No movement.*  
-
----
-
-[Continue to Act I](/red-king-one/)
