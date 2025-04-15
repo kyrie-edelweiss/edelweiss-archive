@@ -3,6 +3,19 @@ main:
    - title: "about me"
      url: /about-kyrie/
    - title: "the red king"
-     url: /red-king/
+     url: /red-king-prologue/
    - title: "you can't save all the puppies"
      url: /puppies/
+red-king:
+  - title: The Red King
+    children:
+      - title: "Prologue"
+        url: /red-king-prologue/
+      - title: "Act I"
+        url: /red-king-one/
+      - title: "Act II"
+        url: /red-king-two/
+      - title: "Act III"
+        url: /red-king-three/
+      - title: "Epilogue"
+        url: /red-king-epilogue/
