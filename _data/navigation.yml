@@ -1,11 +1,11 @@
 # main links
 main:
-   - title: "about me"
-     url: /about-kyrie/
    - title: "the red king"
      url: /red-king-prologue/
    - title: "you can't save all the puppies"
      url: /puppies/
+   - title: "about me"
+     url: /about-kyrie/
 red-king:
   - title: The Red King
     children:
