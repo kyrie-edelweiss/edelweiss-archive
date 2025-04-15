@@ -1,5 +1,5 @@
 ﻿---
-title: The Red King: Bonus Epilogue
+title: The Red King
 excerpt: A story.
 header:
   image: /assets/images/RedKingHeader.jpg
