@@ -2683,15 +2683,11 @@ gently—
 like a daughter  
 she already buried.
 
----
+then, she whispers to her
 
-[VOICE SAMPLE: DAMAGED]  
-→ STRUCTURE: rebar under concrete  
 → QUALITIES: hollow // measured // correct 
 
 her voice is wrong—
 in the way true things are
 
-and she whispers:
-
-*that what they made her isn’t what she is*
+*What they made you isn’t what you are.*
