@@ -4,10 +4,6 @@ excerpt: A story.
 header:
   image: /assets/images/RedKingHeader.jpg
 permalink: /red-king/
-sidebar:
-  nav: "red-king"
-toc: true
-toc_sticky: true
 ---
 
 > **Foreword:**  
