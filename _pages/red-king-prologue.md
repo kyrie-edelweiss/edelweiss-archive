@@ -1,5 +1,5 @@
 ﻿---
-title: The Red King
+title: The Red King: Prologue
 excerpt: A story.
 header:
   image: /assets/images/RedKingHeader.jpg
