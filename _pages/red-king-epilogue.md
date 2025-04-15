@@ -16,7 +16,7 @@ sidebar:
 ---
 
 shhh—  
-she is **not** a ghost.  
+she is **𝙽𝙾𝚃 𝙰 𝙶𝙷𝙾𝚂𝚃**.  
 she is what **haunts** ghosts.
 
 [DATA STREAM: LOST BODY DETECTED]  
