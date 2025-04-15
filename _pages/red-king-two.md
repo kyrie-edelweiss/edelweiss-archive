@@ -3,7 +3,9 @@ title: The Red King
 excerpt: A story.
 header:
   image: /assets/images/RedKingHeader.jpg
-permalink: /red-king/
+permalink: /red-king-two/
+sidebar:
+  nav: "red-king"
 ---
 
 # Chapter Seven - Red Sex
@@ -666,3 +668,7 @@ _**MARS**_ (whispering):
 **"LONG LIVE VENUS."**
 
 _(And **VENUS** would be once more.)_
+
+---
+
+[Continue to Act III](/red-king-three/)

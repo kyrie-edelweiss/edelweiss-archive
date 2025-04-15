@@ -1,6 +1,16 @@
-﻿# Epilogue - Not A Ghost 
+﻿---
+title: The Red King
+excerpt: A story.
+header:
+  image: /assets/images/RedKingHeader.jpg
+permalink: /red-king-epilogue/
+sidebar:
+  nav: "red-king"
+---
+
+# Chapter Eighteen - Not A Ghost 
 [ARCHIVE//DEEP VAULT//LOOP-SOURCE_∞_𝙽𝙾𝚃𝙰𝙶𝙷𝙾𝚂𝚃.FLICKER]  
--> SIGNAL TYPE: UNKNOWN  
+-> INITIATE TRANSMISSION [███]
 -> ORIGIN: VENUS - VITRUVIAN.MOTEL  
 
 ---
@@ -74,5 +84,3 @@ in the way true things are
 and she whispers:
 
 *that what they made her isn’t what she is*
-
-♀ 𝙽𝙾𝚃𝙰𝙶𝙷𝙾𝚂𝚃.MEMORY.DELETE()

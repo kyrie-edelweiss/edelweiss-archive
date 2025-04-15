@@ -1,4 +1,14 @@
-﻿# Chapter Thirteen - The Broadcast Channel
+﻿---
+title: The Red King
+excerpt: A story.
+header:
+  image: /assets/images/RedKingHeader.jpg
+permalink: /red-king-three/
+sidebar:
+  nav: "red-king"
+---
+
+# Chapter Thirteen - The Broadcast Channel
 **YEAR OF BROADCAST:** Early 1988  
 **LOCATION:** URANUS – The Pillar, Sublevel 437  
 **ERA:** POST-CURSE  
@@ -1207,4 +1217,10 @@ Rallied with determination, loud.
 
 **[RECKONER LOOP ACTIVE – PLAYBACK CYCLE: INDEFINITE]**
 
+---
+
 # THE END — THE RED KING
+
+---
+
+[Continue to Bonus Epilogue](/red-king-epilogue/)
