@@ -1468,14 +1468,6 @@ Mars was the night, the nightmare.
 -> TRACE ORIGIN: UNKNOWN—BEYOND_SECTOR::PRAYER.DUST.NEBULA 
 
 ---
-Perfect. Continuing in **exact** original format and typography, here is the **full reworked version of The Fool’s monologue**, carrying through the original style—**ALL CAPS**, corrupted terminal logs, recursive warnings, poetic glitches—while deepening his **characterization** into the **broken, eternal observer**:
-
-- He is no longer the puppetmaster—he is **a husk**, the only one who **remembers every version**.
-- He believes he was once the architect, the first laugh—but over time, he's realized **Samsara is the one watching**.
-- Now he knows what Katherina is about to do—and it **terrifies him.**
-- He clings to his laugh, not because it's funny—but because it's all he has left to protect himself.
-
----
 
 # Chapter Ten - The Fool  
 **[ARCHIVE//CORRUPT NODE_∞_𝐅𝐎𝐎𝐋_ECHO]**  
