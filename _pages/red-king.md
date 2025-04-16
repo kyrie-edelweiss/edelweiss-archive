@@ -799,7 +799,15 @@ The sex was a little awkward.
 
 She always felt so *small*.
 
-She kept trembling, like she wasn’t built for touch. Like something had broken and regrown inside her crooked.
+Not delicate—unfinished.  
+Like something made in a hurry.  
+Like the shape of her body hadn’t been finalized yet.
+
+She kept trembling, like she wasn’t built for touch.  
+Like something had broken and regrown inside her—crooked.
+
+Sometimes it felt like her body was trying to remember someone else’s rhythm.  
+Like she was rehearsing pleasure that didn’t belong to her.
 
 Katherina sang sometimes, low and off-key. And she danced. Not like a girl, but like a marionette. Tangled strings, twirling just out of reach, her toes skimming ash.
 
@@ -835,9 +843,15 @@ And she wonders:
 > “If I kissed him, would I start burning, too?”  
 > “I’m his little **SUN**. I’m his little **SUN**…”
 
-That's usually when I shut her up.
+That's usually when I shut her up.  
+Not out of cruelty.
 
-I don’t want her to see how close I am to burning, too.
+But because she doesn't know what's at stake.  
+How carelessly she could unravel all this carefully-crafted tragedy.
+
+I live afraid-I live afraid of the moment before consummate disaster—
+
+—when my puppet turns to face the puppet master.
 
 ---
 
