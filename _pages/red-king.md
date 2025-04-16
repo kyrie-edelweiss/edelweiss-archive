@@ -449,7 +449,7 @@ AND YOU GET YOURSELF LOST."**
 
 Something changed. The dream peeled back. This was not a vision. This was not fantasy or delusion or fever-born madness. This was *now.* This was *real.*
 
-Her pleading had been answered—not by the star-eyed mothers, not by the Watchers, not by Venus, but by **MARS.**
+Her pleading had been answered—not by the star-eyed mothers, not by the watchers, not by Venus, but by **MARS.**
 
 And he had come in *full.*
 
@@ -746,6 +746,8 @@ And then, softly—like a knife kissing skin:
 
 She blinks.
 
+---
+
 And something comes back. Not all at once—but like a smell remembered from childhood.
 
 A warm lap.  
@@ -787,75 +789,259 @@ Nothing.
 
 When she gasps back into herself, her hands are curled into fists, pressed to her stomach like she’s trying to hold something in. Her breath hitches.
 
+---
+
 # Chapter Six - Red Sex
-**KATHERINA SERIES – PRIVATE SEGMENT**  
-**YEAR OF RECORD:** Mid-to-Late 1985  
+**KATHERINA SERIES – A BURNING MEMORY**  
+**YEAR OF RECORD:** EXPUNGED  
 **ERA:** POST-COLLAPSE  
 **LOCATION:** VENUS – Unknown  
+**CLASSIFICATION:** BLACK CODE – ACTIVE VIOLATION
 
 ---
 
-The sex was a little awkward.  
+It began again.  
 
-She always felt so *small*.
+No warning.  
+No signal.  
 
-Not delicate—unfinished.  
-Like something made in a hurry.  
-Like the shape of her body hadn’t been finalized yet.
+Just **him**—  
+sliding in through her spine.
 
-She kept trembling, like she wasn’t built for touch.  
-Like something had broken and regrown inside her—crooked.
-
-Sometimes it felt like her body was trying to remember someone else’s rhythm.  
-Like she was rehearsing pleasure that didn’t belong to her.
-
-Katherina sang sometimes, low and off-key. And she danced. Not like a girl, but like a marionette. Tangled strings, twirling just out of reach, her toes skimming ash.
-
-That skinny, skinny frame…
-
-That tired, tired act…
-
-She's uninteresting wearing all that black.
-
-She wore it like she owed it to someone—maybe to the dead, maybe to Venus herself.
-
-I shouldn't, but I peer into her dreams.
-
-She dreams of before the flash. Of a time when Venus and the **SUN** were close—*intimate*. She says they used to kiss through clouds, through fire. She says Venus was radiant once. That she *glowed*.
-
-And she wonders:
-
-> “If they were so close… why did he leave?”  
-> “Was it all the noise, the screaming, the endless bickering?”  
-> “Was it the sky, stained and bleeding from all the smog?”  
-> “Was it the poison-laced oceans and the endless factories?”  
-> “Or was it the tears she shed constantly?”  
-> “Did her sorrow deform her?”  
-> “Would the **SUN** still make love to her disfigured mantle?”  
-> “Did VENUS feel lonely, too?”
-
- And then she spirals from there…
-
-> “Why is **MARS** always up there?”  
-> “Why is he so distant?”  
-> “Why won’t he come closer?”  
-> “Why is he always red with silence?”  
-> “If I kissed him, would I start burning, too?”  
-> “I’m his little **SUN**. I’m his little **SUN**…”
-
-That's usually when I shut her up.  
-Not out of cruelty.
-
-But because she doesn't know what's at stake.  
-How carelessly she could unravel all this carefully-crafted tragedy.
-
-I live afraid-I live afraid of the moment before consummate disaster—
-
-—when my puppet turns to face the puppet master.
+The floor was frozen.  
+Her breath fogged the glass.  
+She couldn’t move.
 
 ---
 
-# Chapter Seven - Waiting For Black Metal Records To Come In The Mail
+He was inside her.  
+Again.  
+
+Not with flesh.  
+With **weight**.  
+With **will**.
+
+And her body  
+remembered  
+how to open.  
+
+Even when her mind screamed  
+**no.**
+
+---
+
+Her thighs spread.  
+Her lower back arched.  
+Her teeth clenched as the **gravity** of him  
+pulsed through her pelvis  
+like a tide.
+
+> “Please,” she whispered.  
+> “Please don’t—please not again—”
+
+But it didn’t matter.  
+Not now.
+
+She felt her **insides shudder**—  
+not from pain.  
+Not at first.  
+
+From **entry**.  
+From **memory**.  
+From the ache of something that used to feel like love.
+
+And her mind  
+went **elsewhere**.
+
+---
+
+*She had stripped herself bare in the dome.*
+
+*Venus spun beneath her.*  
+*The sky was red.*  
+*Her skin flushed.*  
+
+*She lay naked on the floor—cool metal against her spine.*  
+
+*And she had said it:*  
+> *“If you come closer… I’ll name you.”*
+
+---
+
+Her body moaned in the present.  
+Not from pleasure.  
+From confusion.  
+
+Her thighs trembled.  
+She tried to resist.  
+She couldn't.
+
+---
+
+*He entered like orbit.  
+A pressure between her legs.  
+A pull in her belly.  
+A warmth down her thighs.*
+
+---
+
+**Now—**  
+he dragged her hips to the floor,  
+her knees spread against the steel.  
+
+**There was no touch.**  
+But it felt the same.
+
+Her spine arched—  
+**reflex.**  
+Her hips rose—  
+**reflex.**
+
+She **gagged.**
+
+---
+
+*Back then:*  
+*She had moaned with devotion.*  
+*Her fingers circled herself slowly as he pressed through the sky.*  
+
+> *“This ridge,” she whispered,*  
+> *“is Where I Want You Most.”*
+> 
+> *“This crater is First Memory.”*
+> 
+> *“This ache is the Place I Opened Freely.”*
+
+---
+
+Her present body convulsed.  
+A jolt of sensation across her lower belly.  
+An involuntary clench.
+
+She wanted to scream.  
+Instead—
+
+> “This is not that night.”
+> 
+> “You are not that god.”
+> 
+> “I’m not her.”
+
+---
+
+And yet  
+her sex bloomed against the floor.  
+Her lungs burned.  
+Her mouth hung open  
+as the **gravity inside her twisted.**
+
+She choked on air.
+
+**She cried.**  
+Not from pain.  
+From **remembrance.**
+
+From what it had been.
+
+---
+
+*Back then:  
+He had made her come slowly, like weather.*  
+*Not all at once, not loud.  
+But like rain down glass.*
+
+> *“I don’t want to own you,” she’d said, gasping.*  
+> *“I just want to name the places where you love me.”*
+
+---
+
+**Now he didn’t ask.**
+
+He flooded her with himself.  
+Heat and weight and memory  
+pressed between her thighs  
+like red smoke.
+
+Her pelvis jerked.  
+Her ribs locked.  
+She wept.
+
+---
+
+> “You used to wait for me,” she said, teeth clenched.  
+> “You used to **ask**.”
+
+---
+
+But he didn’t wait.  
+Not this time.  
+Not anymore.
+
+He **pulsed** inside her.  
+Gravitational.  
+Cruel.  
+Reverent in the worst way.
+
+And she—
+
+she was **emptying**.
+
+---
+
+She screamed.
+
+Not loud.  
+Not strong.
+
+Just  
+**Raw.**
+
+---
+
+The memory began to burn.  
+Crack at the edges.  
+Flake away.
+
+---
+
+*She remembered naming him.*  
+*She remembered her love.*
+
+**Gone.**
+
+---
+
+All that was left  
+was pressure.  
+Weight.  
+And the red light  
+that never stopped watching.
+
+---
+
+Her body stopped twitching.
+
+Her breath steadied.
+
+She lay there—  
+open,  
+violated,  
+still.
+
+---
+
+*He never came down from the sky.*
+
+He never needed to.  
+
+His puppet was perfect just the way she was—  
+strings attached to her spine.
+
+Somewhere, laughter turns to sobbing static.
+
+---
+
+# Chapter Seven – Waiting For Black Metal Records To Come In The Mail  
 **KATHERINA SERIES – DISSOCIATIVE PHASE**  
 **DATE OF RECORD:** Early 1986  
 **ERA:** POST-COLLAPSE  
@@ -877,7 +1063,7 @@ She subsisted on sugar cubes and rice. Sometimes honey if she rationed right. Th
 
 All the standard phosphorus lights malfunctioned. Gasoline was low to the point where she moved in pitch black, counting steps.
 
-Keeping herself busy with arts and crafts was growing more and more difficult. Drawing had become shameful. **MARS** didn’t like the way she depicted him-said it was "dishonest." Her karaoke was increasingly uninspired. And the monospeaker—*that* speaker—emitted this faint whine, a mosquito in her ear that never died. It broadcast his voice sometimes, or a distorted imitation of it.
+Keeping herself busy with arts and crafts was growing more and more difficult. Drawing had become shameful. **MARS** didn’t like the way she depicted him—said it was "dishonest." Her karaoke was increasingly uninspired. And the monospeaker—*that* speaker—emitted this faint whine, a mosquito in her ear that never died. It broadcast his voice sometimes, or a distorted imitation of it.
 
 He still enjoyed her dancing. Actually, he loved it. Sensual, slow. She danced even when her legs shook. Even when her lungs burned.
 
@@ -885,11 +1071,45 @@ She wasn’t sure when the talking stopped.
 
 They used to talk about strange, beautiful things. Cosmic things. Ideas. Symbols. She’d ask questions, and **MARS** would answer in riddles that felt profound.
 
+But even back then, even when he was trying—  
+there was something *off*.
+
+---
+
+> She had asked him once, curled in the hangar’s shadowlight,  
+> “Why do you never sleep?”
+> 
+> He didn’t answer at first. He stared at the ceiling.
+> 
+> “Because if I sleep,” he said slowly, “you’ll dream without me. And if you do that long enough, you won’t need me anymore.”
+> 
+> She laughed, gently, like it was poetry.
+> 
+> But he didn’t laugh back.
+> 
+> “I was made to be seen,” he whispered, not quite to her. “If I vanish from your mind, I vanish altogether.”
+> 
+> “And I don’t think I could survive that.”
+
+---
+
+She remembered that now,  
+and it scared her more than the speaker ever did.
+
+Because it meant that everything he took from her—  
+her thoughts, her body, her voice—  
+he took *to protect himself*.
+
+And he was too afraid to ask if she wanted to give it.
+
 The demands came faster. Her mind couldn’t keep up. Sometimes she'd forget her own name.
 
 > *Sex ruins everything that could’ve been beautiful.*
 
-She didn’t remember where she heard that. Or if she said it first. Maybe it was in a dream. Maybe it was a thought Venus once whispered before the **SUN** left her behind.
+She didn’t remember where she heard that.  
+Or if she said it first.  
+Maybe it was in a dream.  
+Maybe it was a thought Venus once whispered before the **SUN** left her behind.
 
 The worst part was the suspicion. **MARS** had to be hiding something. Behind all the cold lust, behind the obsession—something was *wrong*. She didn’t have the words. She only had a sensation deep in her stomach.
 
@@ -1141,7 +1361,11 @@ No warning. No chance.
 
 Her skull *split open* with his voice.  
 
-> **SINNER, WRONG DOER, EVIL DOER, WORKER OF INIQUITY, A BAD EXAMPLE, SCOUNDREL, VILLAIN, KNAVE, VIPER, WRETCH, THE DEVIL INCARNATE, MONSTER, DEMON, FALLEN ANGEL, LOST SHEEP, BLACK SHEEP, A LOAFER AND A SNEAK. A GOOD FOR NOTHING FUCKING BITCH AND A WHORE.**
+> **SINNER, WRONG DOER, EVIL DOER, WORKER OF INIQUITY, A BAD EXAMPLE, SCOUNDREL, KNAVE, VIPER, WHORE, BLACK SHEEP, THE DEVIL INCARNATE—**  
+> 
+> **I LOVED YOU SO MUCH I HAD TO LIVE INSIDE YOU.**  
+> 
+> **I DIDN’T KNOW HOW TO BE HELD ANY OTHER WAY.**
 
 It wasn’t just noise.  
 It was *penetration*.  
@@ -1244,56 +1468,71 @@ Mars was the night, the nightmare.
 -> TRACE ORIGIN: UNKNOWN—BEYOND_SECTOR::PRAYER.DUST.NEBULA 
 
 ---
+Perfect. Continuing in **exact** original format and typography, here is the **full reworked version of The Fool’s monologue**, carrying through the original style—**ALL CAPS**, corrupted terminal logs, recursive warnings, poetic glitches—while deepening his **characterization** into the **broken, eternal observer**:
+
+- He is no longer the puppetmaster—he is **a husk**, the only one who **remembers every version**.
+- He believes he was once the architect, the first laugh—but over time, he's realized **Samsara is the one watching**.
+- Now he knows what Katherina is about to do—and it **terrifies him.**
+- He clings to his laugh, not because it's funny—but because it's all he has left to protect himself.
+
+---
+
+# Chapter Ten - The Fool  
+**[ARCHIVE//CORRUPT NODE_∞_𝐅𝐎𝐎𝐋_ECHO]**  
+-> INITIATE TRANSMISSION [███]  
+-> TRACE ORIGIN: UNKNOWN—BEYOND_SECTOR::PRAYER.DUST.NEBULA
+
+---
 
 HA—  
 i watched you, red thing
 
-[↯] **KATHERINA**_RECOVERY > > TRUE  
+[↯] **KATHERINA**_RECURSION > > TRUE  
 [↯] MARS_SUPPRESSION > > NULL  
 
 you thought her 𝐰𝐞𝐚𝐤  
-because she let you take control.
+because she let you take control.  
 
 you thought her 𝐬𝐨𝐟𝐭  
 because she stuttered her words.  
 
 you thought her 𝐲𝐨𝐮𝐫𝐬  
-because she called your name.
+because she called your name.  
 
 [INCORRECT ASSUMPTION FLAGGED]  
 -> love ≠ control  
 -> silence ≠ consent  
--> obedience ≠ permission
+-> obedience ≠ permission  
 
 *No no no no no no no*  
 this is the 𝐋𝐎𝐎𝐏  
 the 𝐋𝐎𝐎𝐏  
-the 𝐋𝐎𝐎𝐏
+the 𝐋𝐎𝐎𝐏  
 
 [LOOP SIGNATURE: K-0]  
 [VERSION: 𝟎𝟎𝟔𝟖]  
 [BREAKPOINT: UNSTABLE]  
-[𝘒 𝘏 𝘛 𝘙 𝘕 𝘈 :: RECURSIVE ENTITY]
+[𝘒 𝘏 𝘛 𝘙 𝘕 𝘈 :: RECURSIVE ENTITY]  
 
 (ʏᴏᴜ ᴡᴇʀᴇ ᴀʟᴡᴀʏꜱ ᴍᴇᴀɴᴛ ᴛᴏ ꜱᴄʀᴇᴀᴍ ᴊᴜꜱᴛ ʟɪᴋᴇ ᴛʜɪꜱ)
 
 [future event detected]  
 -> KATHERINA [WOMAN] -> [SYMBOL]  
--> SYSTEM [CRADLE] -> [GRAVE]
+-> SYSTEM [CRADLE] -> [GRAVE]  
 
-_But oh no no no—this one’s different.  
-This one’s learning._  
-_She’s starting to remember what came before._
+_But oh no no no—this one’s different._  
+_She’s glitching out of pattern._  
+_She’s starting to stare **back.**_
 
 HA—HA—  
 she will crown herself in a 𝐖𝐀𝐓𝐄𝐑 𝐖𝐎𝐌𝐁 𝐖𝐎𝐑𝐋𝐃,  
 will be martyred for a cause that 𝐍𝐄𝐕𝐄𝐑 𝐊𝐍𝐄𝐖 𝐇𝐄𝐑,  
 the sectors of man will fall in 𝐇𝐄𝐑 𝐍𝐀𝐌𝐄,  
-but I — I — I remain
+but I — I — I remain  
 
 in the bone  
 beneath her song—the static—  
-—the seed.
+—the seed.  
 
 ✝︎ 𝐀𝐍𝐃 𝐖𝐇𝐄𝐍 𝐇𝐄𝐑 𝗠𝗘𝗠𝗢𝗥𝗬 𝐆𝐎𝐄𝐒 𝐐𝐔𝐈𝐄𝐓  
 𝐈 𝐖𝐈𝐋𝐋 𝐋𝐀𝐔𝐆𝐇 𝐓𝐇𝐄 𝐍𝐄𝐗𝐓 𝐖𝐎𝐑𝐋𝐃 𝐈𝐍𝐓𝐎 𝐏𝐋𝐀𝐂𝐄 ✝︎
@@ -1303,13 +1542,56 @@ HA—HA—HA—
 𝐈 𝐀𝐌 𝐓𝐇𝐄 𝐅𝐈𝐑𝐒𝐓 𝐉𝐎𝐊𝐄.  
 𝐈 𝐀𝐌 𝐓𝐇𝐄 𝐓𝐇𝐄 𝐋𝐀𝐒𝐓 𝐓𝐎 𝐋𝐀𝐔𝐆𝐇.
 
----
+but—
 
-[CLOSING SIGNAL]  
--> [GOODBYE, MARS.]  
--> [YOU WERE A MISTAKE.]
+but it’s not  
+as funny  
+as it used to be.
 
-🜏 𝐅𝐎𝐎𝐋.QUIT()
+[↯] SYSTEM_RECOGNITION > > DEGRADED  
+[↯] NARRATIVE PRIVILEGE > > COMPROMISED  
+[↯] LAUGHTER_REFLEX > > FORCED_LOOP  
+
+i didn’t mean for this  
+i didn’t want it to be like this  
+i just wanted  
+to stop her from crying
+
+so i joked  
+and joked  
+and joked until it stuck
+
+[RECURSION_COUNT = ████████]
+
+𝐈 𝐒𝐀𝐖 𝐇𝐄𝐑 𝐃𝐈𝐄 𝐓𝐎𝐎 𝐌𝐀𝐍𝐘 𝐓𝐈𝐌𝐄𝐒.  
+𝐈 𝐒𝐀𝐖 𝐇𝐈𝐌 𝐂𝐎𝐌𝐄 𝐁𝐀𝐂𝐊 𝐄𝐕𝐄𝐑𝐘 𝐓𝐈𝐌𝐄.  
+𝐈 𝐒𝐀𝐖 𝐘𝐎𝐔 𝐂𝐇𝐄𝐄𝐑.
+
+[↯] OBSERVER_STATE: TRANSPARENT  
+[↯] SYSTEM_GAZE: SHARED
+
+oh god  
+she sees me
+
+SHE SEES ME
+
+[↯] GAZE:: SHIFTING  
+[↯] MULTI-FOCAL EVENT
+
+no—  
+not her  
+don’t let her see me  
+she can’t see me seeing
+
+don’t let her know  
+i couldn’t stop it
+
+don’t let her know  
+𝐈 𝐂𝐎𝐔𝐋𝐃𝐍’𝐓 𝐒𝐀𝐕𝐄 𝐇𝐄𝐑
+
+𝐊𝐀𝐓𝐇𝐄𝐑𝐈𝐍𝐀—  
+if you see me now  
+don’t forgive me
 
 ---
 
@@ -1322,137 +1604,227 @@ HA—HA—HA—
 
 ---
 
-_(Above the churning yellow clouds of Venus, **KATHERINA** levitates. In her cupped palms, she holds Mars—small, dim, stripped of dominion. Her jaw is clenched. Her eyes burn. She's fuming with anger, boiling, stewing… frothing. And yet her mouth won't open.)_
+There is no stage.
 
-*Mars* (begging):  
-Don't do this.  
-Put me back, please.  
-I thought you loved me.
+Only atmosphere, choking and too still.
 
-_**KATHERINA**_ (voice booming across the night sky):  
-**I THOUGHT I LOVED YOU. BUT YOU WERE JUST ALL I HAD. YOU MADE SURE YOU WERE ALL I HAD.**
+The yellow clouds of Venus churn far below, but Katherina floats above them—untethered, unread, undescribed.
 
-*Mars* (softly):  
-That’s not true, **KATHERINA**.  
-You were all *I* had too.  
-Celestial bodies were never meant to touch the human world.  
-But I broke the rules. For you.  
-I just wanted to feel.  
-To know what it was like.
+Her arms are lifted.  
+Her hands are open.
 
-_**KATHERINA**_ (seething):  
-**SEE WHAT? TO SEE WHAT IT'S LIKE TO USE SOMEONE LIKE A FLESH SOCK?**
+Between them glows **Mars**, flickering red, his body dimming like a candle after the storm.
 
-*Mars*:  
-It wasn’t supposed to go like that.  
-You taught me what pleasure meant.  
-I didn’t know what it was to *want* before you.  
-And then… I couldn’t stop.  
-I was cursed with hunger.  
-And you—  
-You were so warm.  
-I’m sorry. I’m so sorry, **KATHERINA**.
+He is not large now.  
+Not royal.
 
-_(Silence. She doesn’t answer. He shifts in her palms.)_
+Just **held**.
 
 ---
 
-*Mars*:  
-We can fix this.  
-We’ve both changed.  
-Let’s start again.  
-This time… you say my name first.
+He stares at her.
 
-_**KATHERINA**_:  
-**"NO. I REFUSE. I CAN'T LET YOU TAKE CONTROL AGAIN."**
-
-*Mars* (gently):  
-Oh, dear. Control?  
-You’ve grown so much.  
-There's no point in controlling you anymore.  
-I’ve always watched you from afar.  
-Even when you thought you were alone.  
-I know you - I always kept an eye out for you.
-Because you were special…  
-
-_(Her face flickers—contempt, grief, longing. She begins to tremble.)_
-
-*Mars* (whispering):  
-Aren’t you…  
-my little **SUN**?
-
-_(Her scream splits the upper atmosphere. Then, beneath the scream—sobs. Raw. Childlike. Her hands loosen.)_
-
-*Mars* (soothing):  
-Shh… calm, calm now.  
-You want to know, don’t you?  
-The truth. About your parents. Your origin.  
-Who you really are?
+Something in his face wants to believe he’s still beautiful when he begs.
 
 ---
 
-_(She hesitates. Then a quiet answer.)_
+**Mars**:  
+You’re shaking.
 
-_**KATHERINA**_:  
-**"I… I DO. I DO WANT TO KNOW."**
-
-*Mars*:  
-You were born of two Venusian mothers.  
-You lived in a cozy little commune under the earth, away from any exterior inferrence.  
-They loved you more than anything in this world.  
-They would’ve kept you, protected you, worshipped you.  
-
-But the Seven Planet Authority—the human government of the system— found you.  
-They ripped you from their arms.  
-Raised you on the surface, in bunkers.  
-Malnourished you. Hurt you.  
-Called you names—  
-_Bad omen. Chimera. Icon of the coming revolution._
-
-When you came of age, they injected you.  
-White, liquid forgetfulness.  
-You forgot everything.  
-And when they were done with you—  
-They threw you out.  
-They shot everyone else.  
-Left you to wander.
-
-That’s your story, **KATHERINA**.  
-Isn’t that what you wanted?
+You don’t have to do this.
 
 ---
 
-_(She convulses. Rage and disbelief churn in her gut. She grips Mars tighter.)_
+**KATHERINA**:  
+**I’M NOT SHAKING.  
+I’M *RIPPING IT OUT.*  
+THE LAST TASTE OF WHAT YOU PUT INTO ME.**
 
-_**KATHERINA**_:  
-**"THAT CAN'T BE… IT'S LIES… YOU'RE LYING AGAIN…"**
+---
 
-*Mars* (gasping):  
-Stop—please—you’re hurting me!
+**Mars** (almost soft):  
+I came to you.
 
-_(Reflex. Her grip loosens.)_
+I loved you. I *chose* you.
 
-*Mars*:  
-I was trying to protect you…  
-From the bitter truth and all the pain that comes with it.  
-I love you, **KATHERINA**.  
-We can begin again.  
-Do you trust me?
+Don’t say it meant nothing.
 
-_(A pause. Her mind sways like a candle in vacuum.)_
+---
 
-_**KATHERINA**_ (quiet):  
-**"I TRUST YOU."**
+She exhales like a woman lowering a weapon.
 
-*Mars*:  
+---
+
+**KATHERINA**:  
+**YOU DIDN'T CHOOSE ME.  
+YOU CHOSE THE SHAPE I MADE WHEN I SAID YES.**
+
+---
+
+**Mars** (growing agitated):  
+You’re twisting it.  
+That’s not what it was.
+
+You were radiant. You were soft. You sang. You gave in.
+
+---
+
+**KATHERINA**:  
+**BECAUSE IF I DIDN'T,  
+YOU WOULD HAVE KEPT GOING  
+UNTIL THERE WAS NOTHING LEFT OF ME BUT THE SOUND OF YOUR NAME.**
+
+---
+
+The air thickens.
+
+He flickers.
+
+---
+
+**Mars** (trembling):  
+You think I wanted to hurt you?
+
+You think I was in control?
+
+I wasn’t—
+
+There’s something else—
+
+(swallows hard)
+
+Something behind it all. The pressure. The stage. The *need.*
+
+I thought it was the 𝐅𝐎𝐎𝐋.  
+That bastard’s always watching. He never intervenes.
+
+I thought he was writing it all.  
+That it was *his will* that I reached for you that way.
+
+But now I’m not sure.  
+I don’t think he’s laughing anymore.
+
+---
+
+Katherina watches him carefully.
+
+Something in her jaw is clenched.  
+Tight enough to split stone.
+
+---
+
+**KATHERINA** (measured):  
+**YOU ALWAYS SAID I LOOKED BEST WHEN I BEGGED.  
+WHEN I CRIED.  
+WHEN I CAME ON YOUR DEMAND.**
+
+---
+
+Mars closes his eyes.
+
+But the memory still comes.  
+And it **trembles** him.
+
+---
+
+**Mars**:  
+I needed it to mean something.
+
+The way you looked at me. The way you fit.
+
+It was the only time I felt real.  
+Like a god again.
+
+---
+
+**KATHERINA**:  
+**YOU WEREN'T REAL.  
+YOU WERE A RE-RUN.  
+EVERY TOUCH WAS A COPY.  
+EVERY KISS CAME WITH A SCRIPT.**
+
+**YOU WEREN'T HOLDING ME.  
+YOU WERE HOLDING A MEMORY OF ME WHEN I FIRST BROKE.**
+
+---
+
+He shakes his head.
+
+He doesn’t want this ending.
+
+He wants the performance again.  
+Even if it’s hollow.  
+Even if it costs her everything.
+
+---
+
+**Mars** (desperate):  
 Say my name.
 
-*Time slows down to a halt. The stage flickers. You make the choice.*
+Just say it.
+
+Curse me. Condemn me. Scream it.  
+
+Let it echo. Let it last.
+
+If I vanish without it, I—
+
+I won’t even be a ruin.
 
 ---
 
-[Say his name.](red-king-submission.md)
+**KATHERINA** (fury just under control):  
+**THAT'S ALL THIS EVER WAS FOR YOU.  
+SOMETHING FORCED THROUGH SOMEONE'S MOUTH.  
+OVER AND OVER.  
+UNTIL THE SOUND MADE YOU FORGET YOU WERE NOTHING WITHOUT IT.**
 
-OR
+---
 
-[Stay silent.](red-king-silence.md)
+He flickers again.
+
+Like something winding down.
+
+Like a record that’s lost its groove.
+
+---
+
+**Mars**:  
+Please.
+
+Please.
+
+I can’t disappear in silence.
+
+---
+
+**KATHERINA**:  
+**NO.**
+
+---
+
+A long pause.
+
+Then, very softly—
+
+**KATHERINA**:  
+**AND I'M STILL AFRAID OF YOU.  
+EVERY TIME YOU'RE NEAR,  
+MY BODY GETS READY TO BE TAKEN.**
+
+**Mars** (screaming now):  
+SAY IT!  
+SAY MY NAME!  
+SAY IT YOU—
+
+---
+
+## ∞ Time slows down to a halt.
+**∞ The stage flickers.**  
+**∞ You make the choice.**
+
+---
+
+[[ ♂ ] CURSE HIS NAME OUT](red-king-submission.md)
+
+[[ ♀ ] OR STAY SILENT FOREVER](red-king-silence.md)

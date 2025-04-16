@@ -30,7 +30,7 @@ His voice echoes from everywhere and nowhere, warm as breath.
 She wavers. A breath caught in her chest. A muscle clenching to speak.
 
 **KATHERINA** (breathless):  
-**"MARS… I—"**
+**"MARS… Y—"**
 
 _(The moment the name passes her lips, the spell snaps.)_
 
