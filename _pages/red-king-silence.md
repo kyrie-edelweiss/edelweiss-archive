@@ -548,8 +548,6 @@ And the spiral was watching now.
 Not from Venus.  
 Not from Saturn.
 
-From **inside the system.**
-
 ---
 
 Katherina sat still at the edge of the water.
