@@ -1437,8 +1437,8 @@ Say my name.
 
 ---
 
-[Say his name.](_pages/red-king-submission.md)
+[Say his name.](red-king-submission.md)
 
 OR
 
-[Stay silent.](_pages/red-king-silence.md)
+[Stay silent.](red-king-silence.md)
