@@ -98,7 +98,7 @@ _"Those bastards—they will kneel. Their cities will fall. Their tongues will r
 **REDHEAD** (quiet, resolute):  
 _"Something stirs."_
 
-Their gazes linger on the girl in the corner—the youngest of them all, shivering with eyes too wide._  
+Their gazes linger on the girl in the corner—the youngest of them all, shivering with eyes too wide.  
 She will forget this moment.  
 They all do.  
 
