@@ -7,7 +7,7 @@ permalink: /red-king/
 ---
 
 > **Foreword:**  
-> *"Man won't fall, not until woman consents to it."*
+> *"Man won't fall, not until woman consents."*
 
 # Prologue - Not A Womb
 **VAP 06-011 – BODY-RECKORDER FOOTAGE**  
