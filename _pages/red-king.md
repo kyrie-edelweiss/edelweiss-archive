@@ -960,86 +960,86 @@ AUDIT NOTE:
 > **JACK (speaking softly):**  
 > “I wasn’t thinking. Not the way I should’ve been.  
 > Just another box to tick. Another hour gone.”
-
+> 
 > **JUNE (quiet, measured):**  
 > “You didn’t look at me.”
-
+> 
 > **JACK:**  
 > “No… I didn’t.”
-
+> 
 > **JUNE:**  
 > “They train you for that? Or does it come on its own?”
-
+> 
 > **JACK:**  
 > “Little bit of both.”
-
+> 
 > **[PAUSE – 3 seconds of mechanical hum.]**
-
+> 
 > **JUNE:**  
 > “You said my name. When it wasn't on the sheet.”
-
+> 
 > **JACK (startled):**  
 > “I wasn’t supposed to. It just… slipped.”
-
+> 
 > **JUNE:**  
 > “That was the only real thing that happened in that room.”
-
+> 
 > **JACK:**  
 > “The papers… they said no names. Just designation.  
 > But it didn’t feel right. When I looked at you, I didn’t see V-32-L. I saw… June.”
-
+> 
 > **JUNE (sharper):**  
 > “That wasn’t the first time I saw you. You filed forms. You watched them run their hands over girls who didn’t speak back.”
-
+> 
 > **JACK:**  
 > “…I signed girls out like inventory.”
-
+> 
 > **JUNE:**  
 > “Then why change now?”
-
+> 
 > **JACK:**  
 > “Because you spoke. You weren’t supposed to.”
-
+> 
 > **JUNE:**  
 > “Because I said ‘please’?”
-
+> 
 > **JACK (shaken):**  
 > “No. Because you said it like it meant something.”
-
+> 
 > **JUNE:**  
 > “So you stopped.”
-
+> 
 > **[SILENCE – 6 seconds.]**
-
+> 
 > **JACK:**  
 > “I did.”
-
+> 
 > **[METALLIC SHIFT – slight lean, shared silence]**
-
+> 
 > **JACK:**  
 > “What they do to you—  
 > I can’t unsee it.”
-
+> 
 > **JUNE:**  
 > “Then do something.”
-
+> 
 > **JACK (after a pause):**  
 > “I will. I promise. I’ll get you out.”
-
+> 
 > **JUNE (softly, almost amused):**  
 > “You’ll what, file a form? Buy me like a coffee machine?”
-
+> 
 > **JACK:**  
 > “If that’s what the rules say… then yes.”
-
+> 
 > **[June breathes. Slow exhale.]**
-
+> 
 > **JUNE:**  
 > “If you do… don’t call it ownership.  
 > Call it protection.  
 > And don’t ever say I’m yours.  
 > Say you’re mine.”
-
+> 
 > **JACK (barely above a whisper):**  
 > “I’m yours.”
 
