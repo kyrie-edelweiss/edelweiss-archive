@@ -1346,8 +1346,8 @@ Softly.
 Without ceremony.  
 As a daughter might.
 
-> “Kyrie.”  
-> “Eleison.”
+“Kyrie.”  
+“Eleison.”
 
 The names hung in the air like seeds.
 
@@ -1380,8 +1380,8 @@ She did not claim it.
 She only breathed in,  
 and said the thing no world had let her say and mean before:
 
-> “I don’t want control.”  
-> “I want a future.”
+“I don’t want control.”  
+“I want a future.”
 
 ---
 
