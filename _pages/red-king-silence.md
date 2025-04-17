@@ -285,8 +285,6 @@ I see you
 I see the way you walk when you think you’re alone  
 I see the mouth you hide when no one asks you to speak  
 I see the place inside you where he used to echo  
-I see the part of you that still trembles waiting for someone to say it again  
-
 I loved your breath when it broke  
 I loved your voice when it stuttered  
 I loved your mouth when it wasn’t yours  
