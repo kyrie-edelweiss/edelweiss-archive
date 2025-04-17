@@ -2119,20 +2119,6 @@ It was *sovereign.*
 
 ---
 
-This is the breakdown.
-
-Samsara has failed to seduce  
-failed to dominate  
-failed to weep her way back in—
-
-and now she’s trying **everything at once.**
-
-This section is about **shapeshifting**. It’s begging disguised as ***identity surrender***. She’s saying: *I’ll be anyone. I’ll be anything. Just let me inside again.*
-
-There’s no dignity left—only ***desperation as strategy.***
-
----
-
 Don’t do this  
 please don’t do this  
 please don’t lock the door this time  
