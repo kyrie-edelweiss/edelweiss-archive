@@ -209,7 +209,7 @@ HERTZ: (gesturing)
 
 “There is little to address about Earth.*  
 
-“It's no longer a recognized operating territory..*
+“It's no longer a recognized operating territory.*
 
 
 
@@ -792,252 +792,82 @@ When she gasps back into herself, her hands are curled into fists, pressed to he
 ---
 
 # Chapter Six - Red Sex
-**KATHERINA SERIES – A BURNING MEMORY**  
-**YEAR OF RECORD:** EXPUNGED  
+**KATHERINA SERIES – PRIVATE SEGMENT**  
+**YEAR OF RECORD:** Mid-to-Late 1985  
 **ERA:** POST-COLLAPSE  
 **LOCATION:** VENUS – Unknown  
-**CLASSIFICATION:** BLACK CODE – ACTIVE VIOLATION
 
 ---
 
-It began again.  
+The sex was a little awkward.  
 
-No warning.  
-No signal.  
+She always felt so *small*.
 
-Just **him**—  
-sliding in through her spine.
+Not delicate—unfinished.  
+Like something made in a hurry.  
+Like the shape of her body hadn’t been finalized yet.
 
-The floor was frozen.  
-Her breath fogged the glass.  
-She couldn’t move.
+She kept trembling, like she wasn’t built for touch.  
+Like something had broken and regrown inside her—crooked.
 
----
+Sometimes it felt like her body was trying to remember someone else’s rhythm.  
+Like she was rehearsing pleasure that didn’t belong to her.
 
-He was inside her.  
-Again.  
+Katherina sang sometimes, low and off-key. And she danced. Not like a girl, but like a marionette. Tangled strings, twirling just out of reach, her toes skimming ash.
 
-Not with flesh.  
-With **weight**.  
-With **will**.
+That skinny, skinny frame…
 
-And her body  
-remembered  
-how to open.  
+That tired, tired act…
 
-Even when her mind screamed  
-**no.**
+She's uninteresting wearing all that black.
 
----
+She wore it like she owed it to someone—maybe to the dead, maybe to Venus herself.
 
-Her thighs spread.  
-Her lower back arched.  
-Her teeth clenched as the **gravity** of him  
-pulsed through her pelvis  
-like a tide.
+I shouldn't, but I peer into her dreams.
 
-> “Please,” she whispered.  
-> “Please don’t—please not again—”
+She dreams of before the flash. Of a time when Venus and the **SUN** were close—*intimate*. She says they used to kiss through clouds, through fire. She says Venus was radiant once. That she *glowed*.
 
-But it didn’t matter.  
-Not now.
+And she wonders:
 
-She felt her **insides shudder**—  
-not from pain.  
-Not at first.  
+> “If they were so close… why did he leave?”  
+>  
+> “Was it all the noise, the screaming, the endless bickering?”  
+>  
+> “Was it the sky, stained and bleeding from all the smog?”  
+>  
+> “Was it the poison-laced oceans and the endless factories?”  
+>  
+> “Or was it the tears she shed constantly?”  
+>  
+> “Did her sorrow deform her?”  
+>  
+> “Would the **SUN** still make love to her disfigured mantle?”  
+>  
+> “Did VENUS feel lonely, too?”
 
-From **entry**.  
-From **memory**.  
-From the ache of something that used to feel like love.
+ And then she spirals from there…
 
-And her mind  
-went **elsewhere**.
+> “Why is **MARS** always up there?”  
+>  
+> “Why is he so distant?”  
+>  
+> “Why won’t he come closer?”  
+>  
+> “Why is he always red with silence?”  
+>  
+> “If I kissed him, would I start burning, too?”  
+>  
+> “I’m his little **SUN**. I’m his little **SUN**…”
 
----
+That's usually when I shut her up.  
+Not out of cruelty.
 
-*She had stripped herself bare in the dome.*
+But because she doesn't know what's at stake.  
+How carelessly she could unravel all this carefully-crafted tragedy.
 
-*Venus spun beneath her.*  
-*The sky was red.*  
-*Her skin flushed.*  
+I live afraid-I live afraid of the moment before consummate disaster—
 
-*She lay naked on the floor—cool metal against her spine.*  
-
-*And she had said it:*  
-> *“If you come closer… I’ll name you.”*
-
----
-
-Her body moaned in the present.  
-Not from pleasure.  
-From confusion.  
-
-Her thighs trembled.  
-She tried to resist.  
-She couldn't.
-
----
-
-*He entered like orbit.  
-A pressure between her legs.  
-A pull in her belly.  
-A warmth down her thighs.*
-
----
-
-**Now—**  
-he dragged her hips to the floor,  
-her knees spread against the steel.  
-
-**There was no touch.**  
-But it felt the same.
-
-Her spine arched—  
-**reflex.**  
-Her hips rose—  
-**reflex.**
-
-She **gagged.**
-
----
-
-*Back then:*  
-*She had moaned with devotion.*  
-*Her fingers circled herself slowly as he pressed through the sky.*  
-
-> *“This ridge,” she whispered,*  
-> *“is Where I Want You Most.”*
-> 
-> *“This crater is First Memory.”*
-> 
-> *“This ache is the Place I Opened Freely.”*
-
----
-
-Her present body convulsed.  
-A jolt of sensation across her lower belly.  
-An involuntary clench.
-
-She wanted to scream.  
-Instead—
-
-> “This is not that night.”
-> 
-> “You are not that god.”
-> 
-> “I’m not her.”
-
----
-
-And yet  
-her sex bloomed against the floor.  
-Her lungs burned.  
-Her mouth hung open  
-as the **gravity inside her twisted.**
-
-She choked on air.
-
-**She cried.**  
-Not from pain.  
-From **remembrance.**
-
-From what it had been.
-
----
-
-*Back then:  
-He had made her come slowly, like weather.*  
-*Not all at once, not loud.  
-But like rain down glass.*
-
-> *“I don’t want to own you,” she’d said, gasping.*  
-> *“I just want to name the places where you love me.”*
-
----
-
-**Now he didn’t ask.**
-
-He flooded her with himself.  
-Heat and weight and memory  
-pressed between her thighs  
-like red smoke.
-
-Her pelvis jerked.  
-Her ribs locked.  
-She wept.
-
----
-
-> “You used to wait for me,” she said, teeth clenched.  
-> “You used to **ask**.”
-
----
-
-But he didn’t wait.  
-Not this time.  
-Not anymore.
-
-He **pulsed** inside her.  
-Gravitational.  
-Cruel.  
-Reverent in the worst way.
-
-And she—
-
-she was **emptying**.
-
----
-
-She screamed.
-
-Not loud.  
-Not strong.
-
-Just  
-**Raw.**
-
----
-
-The memory began to burn.  
-Crack at the edges.  
-Flake away.
-
----
-
-*She remembered naming him.*  
-*She remembered her love.*
-
-**Gone.**
-
----
-
-All that was left  
-was pressure.  
-Weight.  
-And the red light  
-that never stopped watching.
-
----
-
-Her body stopped twitching.
-
-Her breath steadied.
-
-She lay there—  
-open,  
-violated,  
-still.
-
----
-
-*He never came down from the sky.*
-
-He never needed to.  
-
-His puppet was perfect just the way she was—  
-strings attached to her spine.
-
-Somewhere, laughter turns to sobbing static.
+—when my puppet turns to face the puppet master.
 
 ---
 
