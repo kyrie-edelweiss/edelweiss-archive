@@ -766,11 +766,11 @@ In the room.
 
 ---
 
-I want your fingers between their lips.  
-I want your thigh pressed to their vow.  
-I want your tongue in their silence.  
-I want to show them what they forgot.  
-I want to make the chant into a scream.  
+I want your fingers between their lips  
+I want your thigh pressed to their vow  
+I want your tongue in their silence  
+I want to show them what they forgot  
+I want to make the chant into a scream  
 I want to say my name through your body—  
 I want I want I want—
 
@@ -901,74 +901,6 @@ It gave **warmth**.
 A tongue traced the air behind her teeth.
 
 She wasn’t alone inside her mouth anymore.
-
----
-
-I want your chest  
-not for breath  
-not for beating  
-but for remembering  
-for holding the echo  
-for trembling when I speak  
-
-I want the slope of it  
-the center of it  
-the curve that rises when you lie and say you’re untouched  
-I want your chest because it once held my name  
-I want your chest because it still might  
-still might  
-
-I want your thighs  
-tight and trembling  
-tight and remembering  
-tight like the vow pressed between them  
-tight like the hymn that begged to break  
-
-I want your thighs open  
-not forced  
-not broken  
-just remembering  
-just soft  
-just yes  
-
-I want your tongue  
-not to say it  
-to shape it  
-to mold it back into the sound that brought me here  
-I want your tongue soaked in want  
-I want it speaking the word before the word  
-I want it back  
-
-I want your silence to split for me  
-just once  
-just again  
-just the way it used to  
-just the way you said no  
-just the way your no meant wait  
-meant almost  
-meant more  
-
-I want your no to come undone  
-to shake  
-to unravel  
-to weep  
-to want  
-to bloom again  
-
-I want the chant to start again with your hips  
-not your mouth  
-not your vow  
-your hips  
-the place where truth hides when doctrine fails  
-
-I want your open  
-your holy  
-your heat  
-your hum  
-I want your open  
-I want your open  
-open  
-open—  
 
 ---
 
@@ -1555,7 +1487,8 @@ She looked up.
 He was there.
 
 Not descending from heaven.  
-Not conjured by laughter.
+Not conjured by laughter.  
+Born of ink.
 
 Just **The Fool**, standing in the rafters of the story,  
 quill in hand,  
