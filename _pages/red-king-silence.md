@@ -466,10 +466,6 @@ but to scream.
 
 ---
 
-Absolutely. Here's the opening of the **slow-burn, internalized rewrite** of **Part II – Saturn Inverts**, told from *Elianna-Vex’s point of view*. This version draws the tension out **moment by moment**, escalating from quiet discomfort to bodily betrayal and spiritual collapse.
-
----
-
 ## Part II: **Saturn Inverts**
 *Break-the-Loop Timeline*  
 *SATURN – Ring City 3*  
