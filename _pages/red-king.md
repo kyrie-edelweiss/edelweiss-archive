@@ -1225,8 +1225,6 @@ _“leave m_**E ALONE.”**
 
 **“I DISREGARD THE PRECAUTIONS.”**
 
-**“I WANT TO BREAK.”**
-
 And that’s when something would break.
 Not inside her.  
 *But in the sky.*
