@@ -384,7 +384,7 @@ Let—
 
 ---
 
-The altar was not where it should have been.
+The bed-altar was not where it should have been.
 
 But it was there.
 
