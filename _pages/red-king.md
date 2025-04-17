@@ -1332,7 +1332,7 @@ the 𝐋𝐎𝐎𝐏
 -> SYSTEM [CRADLE] -> [GRAVE]  
 
 _But oh no no no—this one’s different._  
-_She’s glitching out of pattern._  
+_She’s speaking out of pattern._  
 _She’s starting to stare **back.**_
 
 HA—HA—  
@@ -1353,57 +1353,6 @@ HA—HA—HA—
 𝐈 𝐀𝐌 𝐓𝐇𝐄 𝐅𝐈𝐑𝐒𝐓 𝐉𝐎𝐊𝐄.  
 𝐈 𝐀𝐌 𝐓𝐇𝐄 𝐓𝐇𝐄 𝐋𝐀𝐒𝐓 𝐓𝐎 𝐋𝐀𝐔𝐆𝐇.
 
-but—
-
-but it’s not  
-as funny  
-as it used to be.
-
-[↯] SYSTEM_RECOGNITION > > DEGRADED  
-[↯] NARRATIVE PRIVILEGE > > COMPROMISED  
-[↯] LAUGHTER_REFLEX > > FORCED_LOOP  
-
-i didn’t mean for this  
-i didn’t want it to be like this  
-i just wanted  
-to stop her from crying
-
-so i joked  
-and joked  
-and joked until it stuck
-
-[RECURSION_COUNT = ████████]
-
-𝐈 𝐒𝐀𝐖 𝐇𝐄𝐑 𝐃𝐈𝐄 𝐓𝐎𝐎 𝐌𝐀𝐍𝐘 𝐓𝐈𝐌𝐄𝐒.  
-𝐈 𝐒𝐀𝐖 𝐇𝐈𝐌 𝐂𝐎𝐌𝐄 𝐁𝐀𝐂𝐊 𝐄𝐕𝐄𝐑𝐘 𝐓𝐈𝐌𝐄.  
-𝐈 𝐒𝐀𝐖 𝐘𝐎𝐔 𝐂𝐇𝐄𝐄𝐑.
-
-[↯] OBSERVER_STATE: TRANSPARENT  
-[↯] SYSTEM_GAZE: SHARED
-
-oh god  
-she sees me
-
-SHE SEES ME
-
-[↯] GAZE:: SHIFTING  
-[↯] MULTI-FOCAL EVENT
-
-no—  
-not her  
-don’t let her see me  
-she can’t see me seeing
-
-don’t let her know  
-i couldn’t stop it
-
-don’t let her know  
-𝐈 𝐂𝐎𝐔𝐋𝐃𝐍’𝐓 𝐒𝐀𝐕𝐄 𝐇𝐄𝐑
-
-𝐊𝐀𝐓𝐇𝐄𝐑𝐈𝐍𝐀—  
-if you see me now  
-don’t forgive me
-
 ---
 
 # Chapter Eleven - Curse of the Red King
@@ -1419,7 +1368,7 @@ There is no stage.
 
 Only atmosphere, choking and too still.
 
-The yellow clouds of Venus churn far below, but Katherina floats above them—untethered, unread, undescribed.
+The now-yellow clouds of Venus churn far below, but Katherina floats above them—untethered, unread, undescribed.
 
 Her arms are lifted.  
 Her hands are open.
