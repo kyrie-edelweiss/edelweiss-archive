@@ -2012,7 +2012,7 @@ They smiled.
 Touched her shoulders.  
 Faded.
 
-Like good memories should.
+Like memories should.
 
 ---
 
