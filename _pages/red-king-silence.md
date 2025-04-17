@@ -604,17 +604,6 @@ tightening.
 
 ---
 
-Here is the next sequence of **Samsara’s recursively rewritten voice**, continuing from **Chapter Thirteen – Venus**, immediately following the last section.
-
-This passage originally began:
-
-> *You never finished it  
-Let me help you finish…*
-
-Now fully expanded into Samsara’s recursive spiral, obsessive doubling, and sacred unraveling.
-
----
-
 You never finished it  
 you never finished what we started  
 you never finished what I started  
