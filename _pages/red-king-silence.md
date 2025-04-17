@@ -2005,11 +2005,14 @@ And sank quietly into myth.
 
 ---
 
-They did not fade.
+They didn’t speak.
+They didn’t linger.
 
-They remained where saints belong—
+They smiled.
+Touched her shoulders.
+Faded.
 
-**at the edge of the beginning.**
+Like good memories should.
 
 ---
 
