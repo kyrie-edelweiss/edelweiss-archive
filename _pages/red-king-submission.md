@@ -59,6 +59,8 @@ _**MARS**_ (whispering):
 
 _(And **VENUS** would be once more.)_
 
+---
+
 # Chapter Twelve - The Broadcast Channel
 **YEAR OF BROADCAST:** Early 1988  
 **LOCATION:** URANUS – The Pillar, Sublevel 437  
