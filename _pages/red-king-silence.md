@@ -1710,12 +1710,6 @@ nothing.
 
 ---
 
-And in that perfect, pressureless quiet,
-
-something took its first breath.
-
----
-
 ## Part III – Blank Page  
 *Location: Outside All Narratives*  
 *Status: Unwritten*
