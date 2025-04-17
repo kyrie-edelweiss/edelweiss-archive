@@ -8,8 +8,6 @@ permalink: /red-king-silence/
 
 # Chapter Twelve - Silence
 
-_Kneel._
-
 Something deep in her spine begins to fold.
 Her body does it without asking her first.  
 Her lips know this moment.  

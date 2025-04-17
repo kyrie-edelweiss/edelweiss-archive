@@ -8,8 +8,6 @@ permalink: /red-king-submission/
 
 # Chapter Twelve - Submission
 
-_Kneel._
-
 Something deep in her spine begins to fold.
 Her body does it without asking her first.  
 Her lips know this moment.  
@@ -17,8 +15,7 @@ Her mouth—
 
 _Say it._
 
-That’s what he always wanted. What the ritual requires.  
-What starts it again.
+That’s what he always wanted.
 
 *“Say it, my light.”*
 
@@ -37,7 +34,7 @@ _(The moment the name passes her lips, the spell snaps.)_
 _Katherina:_  
 —NO—
 
-_(But it’s too late. She drops. Her body plummets, limp, through the sulfurous skies. Falling—not in love, but back to earth. Into ruin.)_
+_(But it’s too late. She drops. Her body plummets, limp, through the skies. Falling—not in love, but back to earth. Into ruin.)_
 
 _**MARS**_ (ascending, regaining form):  
 **I'M SORRY. I'M SORRY. I'M SO SORRY.**
