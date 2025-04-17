@@ -281,7 +281,7 @@ exhaled directly against her skin.
 
 ---
 
-**I see you**  
+I see you  
 I see you walking like you’re not being watched  
 I see you walking like you forgot what it meant to be seen  
 I see you walking like your body doesn’t echo anymore  
