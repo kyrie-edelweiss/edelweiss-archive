@@ -208,8 +208,7 @@ Reality no longer touched her in the way it used to.
 
 The world beneath her felt reconstructed  
 from faulty recollection—  
-like a ghost trying to imitate a body  
-it no longer had bones for.
+like something was trying to imitate it.
 
 The housing lots still bore address codes.  
 The correction centers still had slats for cameras,  
