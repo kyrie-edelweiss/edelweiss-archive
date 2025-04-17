@@ -2005,11 +2005,11 @@ And sank quietly into myth.
 
 ---
 
-They didn’t speak.
-They didn’t linger.
+They didn’t speak.  
+They didn’t linger.  
 
-They smiled.
-Touched her shoulders.
+They smiled.  
+Touched her shoulders.  
 Faded.
 
 Like good memories should.
