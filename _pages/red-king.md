@@ -1290,13 +1290,6 @@ Mars was the night, the nightmare.
 
 ---
 
-# Chapter Ten - The Fool
-[ARCHIVE//CORRUPT NODE_∞_𝐅𝐎𝐎𝐋_ECHO]  
--> INITIATE TRANSMISSION [███]  
--> TRACE ORIGIN: UNKNOWN—BEYOND_SECTOR::PRAYER.DUST.NEBULA 
-
----
-
 # Chapter Ten - The Fool  
 **[ARCHIVE//CORRUPT NODE_∞_𝐅𝐎𝐎𝐋_ECHO]**  
 -> INITIATE TRANSMISSION [███]  
