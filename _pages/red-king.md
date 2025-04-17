@@ -652,7 +652,7 @@ _“I remember the first time she cried while she was inside me. Said it felt to
 
 ---
 
-_The phosphorus light trembled like a candle lost in a cavernous lung. Outside, the sulfurous wind hissed its muted lullaby. Inside, the air was **thick**—syrupy with heat and pressure and the scent of something ancient._
+_The phosphorus light trembled like a candle lost in a cavernous lung. Outside, the frozen-sulfur wind hissed its muted lullaby. Inside, the air was **thick**—with cold and pressure and the scent of something ancient._
 
 Katherina sat upright upon her narrow bed, posture brittle but poised, facing the frost-veined window like it was an altar. Beyond the fogged pane, in that strange depthless black where the stars had once sung, the shape waited. Not hovering. Not looming.
 
@@ -865,9 +865,11 @@ Not out of cruelty.
 But because she doesn't know what's at stake.  
 How carelessly she could unravel all this carefully-crafted tragedy.
 
-I live afraid-I live afraid of the moment before consummate disaster—
+I live in fear.
 
-—when my puppet turns to face the puppet master.
+I live afraid of the moment before consummate disaster—
+
+when my puppet turns to face the puppet master.
 
 ---
 
@@ -909,30 +911,26 @@ there was something *off*.
 > She had asked him once, curled in the hangar’s shadowlight,  
 > “Why do you never sleep?”
 > 
-> He didn’t answer at first. He stared at the ceiling.
+> He didn’t answer at first. He stared.
 > 
-> “Because if I sleep,” he said slowly, “you’ll dream without me. And if you do that long enough, you won’t need me anymore.”
+> **“BECAUSE IF I SLEEP, YOU'LL DREAM WITHOUT ME. AND IF YOU DO IT LONG ENOUGH, YOU WON'T NEED ME ANYMORE.”**
 > 
 > She laughed, gently, like it was poetry.
 > 
-> But he didn’t laugh back.
+> But he didn’t laugh back. He whispered, not quite to her:
 > 
-> “I was made to be seen,” he whispered, not quite to her. “If I vanish from your mind, I vanish altogether.”
-> 
-> “And I don’t think I could survive that.”
+> **“I WAS MADE TO BE SEEN. IF I VANISH FROM YOUR MIND, I VANISH ALTOGETHER.”**
 
 ---
 
 She remembered that now,  
 and it scared her more than the speaker ever did.
 
-Because it meant that everything he took from her—  
-her thoughts, her body, her voice—  
-he took *to protect himself*.
+Because it meant that everything he took from her—her thoughts, her body, her voice—he took *to protect himself*.
 
-And he was too afraid to ask if she wanted to give it.
+And she was too afraid to ask for them back.
 
-The demands came faster. Her mind couldn’t keep up. Sometimes she'd forget her own name.
+His demands came faster. Her mind couldn’t keep up. Sometimes she'd forget her own name.
 
 > *Sex ruins everything that could’ve been beautiful.*
 
