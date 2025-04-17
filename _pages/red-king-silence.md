@@ -495,7 +495,7 @@ The sky was open. The chamber exposed by design.
 To remind them they were not masters of the stars—  
 only conductors of harmony.
 
-*Cycle renews. Flame remains. The wound forgets its reason.*
+*The wound forgets its reason.*
 
 That line passed through her mind with each breath.  
 It used to feel like a shield.  
@@ -678,7 +678,7 @@ The chant had stopped.
 Not aloud—there was no chanting tonight.  
 But in her mind.
 
-*Cycle renews…*
+*The wound…*
 
 No.  
 She couldn’t remember the rest.
