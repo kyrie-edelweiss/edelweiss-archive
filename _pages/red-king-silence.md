@@ -186,7 +186,6 @@ The Sun had returned,
 but its light didn’t belong here anymore.  
 It struck the Venusian ice with a vengeance—  
 **not warm, but blinding.**  
-A punishment of memory.  
 A truth revealed too late.
 
 ---
