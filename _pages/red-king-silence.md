@@ -1994,7 +1994,7 @@ As a daughter might.
 
 The names hung in the air like seeds.
 
-And sank quietly into myth.
+And sank quietly.
 
 ---
 
@@ -2005,7 +2005,7 @@ They smiled.
 Touched her shoulders.  
 Faded.
 
-Like memories should.
+Like memories are supposed to.
 
 ---
 
