@@ -1313,7 +1313,7 @@ because she called your name.
 [INCORRECT ASSUMPTION FLAGGED]  
 -> love ≠ control  
 -> silence ≠ consent  
--> obedience ≠ permission  
+-> submission ≠ permission  
 
 *No no no no no no no*  
 this is the 𝐋𝐎𝐎𝐏  
