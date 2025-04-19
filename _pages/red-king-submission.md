@@ -998,8 +998,6 @@ And kind."
 That night, Callisto is quiet.  
 By morning, the Seven Planet Authority would pass several more articles under the Gender Protection Act.
 
-But the girls knew **something had shifted**.
-
 ---
 
 # Chapter Fifteen – The One Who Waits
