@@ -203,6 +203,9 @@ Her skin didn’t sting.
 
 She was beyond pain now.  
 Reality no longer touched her in the way it used to.
+She had left the script.  
+She broke it.  
+And something ancient had turned its head when she did.
 
 ---
 
@@ -211,13 +214,11 @@ from faulty recollection—
 like something was trying to imitate it.
 
 The housing lots still bore address codes.  
-The correction centers still had slats for cameras,  
-even though the glass was gone  
-and the watchers were dead.
+The labor complexes were filled with impossible amounts of corpses.
 
 It looked real.  
 But the angles were wrong.  
-The seams too clean.  
+The skulls shot too clean.  
 The ice arranged itself too artfully.
 
 As if it wanted her to look.
@@ -263,6 +264,12 @@ She gave it nothing.
 
 But the spiral noticed her anyway.
 
+It had followed her since then.  
+Not through time.  
+Not through space.  
+Through the wound she left behind  
+when she walked out of her ending.
+
 ---
 
 The voice came with no sound.
@@ -302,25 +309,6 @@ Not from fear.
 From memory.
 
 She hated that it did.
-
----
-
-The ground beneath her boots softened.  
-Not visibly.  
-Not materially.  
-But **in the narrative.**
-
-Her soles sank just enough  
-to leave prints that **shimmered**.
-
-Not wet.  
-Not melted.  
-
-But alive.
-
-As if something just under the surface  
-had opened its eyes  
-and found her warm.
 
 ---
 
@@ -814,14 +802,6 @@ It was **worship**.
 Elianna bent forward.  
 Hands on the glass.  
 Spine arching.
-
-And from deep inside her—  
-beneath the prayer, beneath the vow—  
-something **turned**.
-
-**Opened.**
-
-**Smiled.**
 
 ---
 

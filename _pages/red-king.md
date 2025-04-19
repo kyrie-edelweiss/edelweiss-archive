@@ -915,7 +915,7 @@ there was something *off*.
 > 
 > **“BECAUSE IF I SLEEP, YOU'LL DREAM WITHOUT ME. AND IF YOU DO IT LONG ENOUGH, YOU WON'T NEED ME ANYMORE.”**
 > 
-> She laughed, gently, like it was poetry.
+> She laughed, gently.
 > 
 > But he didn’t laugh back. He whispered, not quite to her:
 > 
@@ -1274,8 +1274,6 @@ He had silenced the world in shadow and called it "love."
 
 > Mars wasn’t love.  
 > He was *control*.  
-> He was the night.  
-> He was the nightmare.  
 > The thing that whispers _“you’ll never be free.”_ 
 
 But **KATHERINA** had ripped him out.  
@@ -1545,7 +1543,7 @@ He flickers again.
 
 Like something winding down.
 
-Like a record that’s lost its groove.
+Like *something* looked away, even if for a split second.
 
 ---
 
