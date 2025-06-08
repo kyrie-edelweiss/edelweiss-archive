@@ -165,7 +165,7 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 
 ### SECTOR 1: MERCURY  
 
-Visual: A scorched, wind-blasted colony; heat-map overlay in red; massive half-sunken refineries and molten conveyor belts; shattered atmospheric domes; “Threat Vector: Eliminated.”  
+**Visual:** A scorched, wind-blasted colony; heat-map overlay in red; massive half-sunken refineries and molten conveyor belts; shattered atmospheric domes; “Threat Vector: Eliminated.”  
 
 **HERTZ**:  
 
@@ -183,7 +183,7 @@ Visual: A scorched, wind-blasted colony; heat-map overlay in red; massive half-s
 
 ### SECTOR 2: VENUS  
 
- **Visual:** Glitched-out industrial landscape—static interference; silhouettes of women holding rifles rendered in black; “1966: Total Comms Loss | 1969: Final Withdrawal”  
+**Visual:** Glitched-out industrial landscape—static interference; silhouettes of women holding rifles rendered in black; “1966: Total Comms Loss | 1969: Final Withdrawal”  
 
 **HERTZ**:  
 
@@ -253,7 +253,7 @@ HERTZ: (gesturing)
 
 ### SECTOR 6: SATURN  
 
-Visual: Glowing ring cities with stained-glass hues; fine-print contracts scroll in the corner; stat: “204,239 Faith Centers”
+**Visual:** Glowing ring cities with stained-glass hues; fine-print contracts scroll in the corner; stat: “204,239 Faith Centers”
 
 **HERTZ**:  
 
