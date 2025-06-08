@@ -680,7 +680,7 @@ Then she asked about the others.
 
 The voices once heard across the stars. The transmissions. The colonies. The laughter and horror of a species that once scattered like pollen into the cosmic wind.
 
-**MARS** responded like scripture:
+**MARS** responded:
 
 > **"THE OTHERS ARE GONE. THEY ABANDONED US."**
 
