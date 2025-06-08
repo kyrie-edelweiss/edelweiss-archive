@@ -695,7 +695,7 @@ The echo sank into her ribs. She nodded.
 
 The conversation twisted again—spiraled downward like a bloody offering down a stone drain.
 
-> **"THEY RAVAGED IT,"**
+> **"THEY RAVAGED IT,"**  
 > **"ALL OF IT. THERE’S NOTHING LEFT."**
 
 War. Starfire. Collapse. The death of Venusian cities, the fracturing of mind and memory and myth.
