@@ -1407,7 +1407,7 @@ Don’t say it meant nothing.
 
 ---
 
-She exhales like a woman lowering a weapon.
+She exhales.
 
 ---
 

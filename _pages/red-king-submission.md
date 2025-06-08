@@ -299,7 +299,7 @@ Reception’s clear.
 **TANGO**:
 Split and sweep the side halls. Call out what you find.
 
-*(The squad moves. Zeta veers right. Mike takes left. Tango holds centerline. Their lights cut through air thick with invisible moisture. Each beam reveals *no mirrors.* Even where frame outlines remain on the wall—nothing reflective. Nothing watching back.)*
+*(The squad moves. Zeta veers right. Mike takes left. Tango holds centerline. Their lights cut through air thick with invisible moisture. Each beam reveals no mirrors. Even where frame outlines remain on the wall—nothing reflective. Nothing watching back.)*
 
 ---
 
