@@ -247,7 +247,7 @@ HERTZ: (gesturing)
 
 “Minor disturbances have been reported, but remain manageable.”
 
-*Weiss quietly promises he'll take care of it.*
+*Hermann quietly promises he'll take care of it.*
 
 
 
