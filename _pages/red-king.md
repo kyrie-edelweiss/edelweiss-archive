@@ -183,7 +183,7 @@ _William Hertz steps forward with measured authority. A low mechanical hum follo
 
 ### SECTOR 2: VENUS  
 
-**Visual:** Glitched-out industrial landscape—static interference; silhouettes of women holding rifles rendered in black; “1966: Total Comms Loss | 1969: Final Withdrawal”  
+**Visual:** Glitched-out industrial landscape—static interference; silhouettes of women holding rifles rendered in black; “1966: Total Comms Loss ... 1969: Final Withdrawal”  
 
 **HERTZ**:  
 
