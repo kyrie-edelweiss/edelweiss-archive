@@ -281,9 +281,7 @@ _Lamont, **SATURN**’s representative, gives a brief nod of approval._
 
 
 
-### SECTOR 8: NEPTUNE  
-
-**Status:** CRITICAL // CURRENT LOCATION  
+### SECTOR 8: NEPTUNE   
 
 **Visual:** A world-spanning metropolis; stacked architecture like corporate files, sprawling underground nerve-map; a blinking green dot marks their current position
 
