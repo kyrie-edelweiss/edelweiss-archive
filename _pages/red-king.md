@@ -1306,7 +1306,7 @@ because she stuttered her words.
 you thought her 𝐲𝐨𝐮𝐫𝐬  
 because she called your name.  
 
-[INCORRECT ASSUMPTION FLAGGED]  
+[INCORRECT ASSUMPTIONS FLAGGED]  
 -> love ≠ control  
 -> silence ≠ consent  
 -> submission ≠ permission  
