@@ -1102,7 +1102,7 @@ AUDIT NOTE:
 
 #### SUPPORTING NOTES:  
 - Former Officer Jack M. requests reassignment to another branch prior to filing, citing “ethical divergence.”
-- Petition includes contraband: handwritten poem fragment by subject.
+- Petition includes contraband: handwritten poem by subject.
 
 #### FINAL RULING:  
 > **APPROVED.**  
@@ -1142,7 +1142,7 @@ AUDIT NOTE:
 **KATHERINA SERIES – TERMINAL PSYCHOGENIC EVENT**  
 **YEAR OF RECORD:** Late 1987  
 **ERA:** POST-COLLAPSE  
-**LOCATION:** VENUS – Unknown 
+**LOCATION:** VENUS – Unknown  
 **CLASSIFICATION:** BLACK CODE - UNAUTHORIZED MATERIAL
 
 ---
