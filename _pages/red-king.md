@@ -21,11 +21,11 @@ _**AUDIO… ACTIVE**_
 
 The static hums, low and steady, vibrating with tension, like an old machine working itself into oblivion. Beneath the noise, there is something darker—a muffled rhythm of breathing, ragged and desperate. The cries of men, distorted and broken, fill the silence between mechanical growls. Their voices are not sharp—more like the gasps of drowning creatures, their calls twisted into something far less human.
 
-**YOUNG WOMAN** (panting, weeping, laughing):  
-_"Fuck—fuck, fuck—I can feel it—I'm so close, I'm so close!"_
+**Young Woman** (panting, weeping, laughing):  
+"Fuck—fuck, fuck—I can feel it—I'm so close, I'm so close!"
 
-**MIDDLE-AGED WOMAN** (fevered, chanting):  
-_"Hold him still, Hold him still! Keep his head like that!"_
+**Middle-Aged Woman** (fevered, chanting):  
+"Hold him still, Hold him still! Keep his head like that!"
 
 _**VIDEO… ACTIVE**_
 
@@ -39,37 +39,37 @@ Each stroke, each tear of flesh, each cry from the men is not an act of cruelty�
 
 _**MOTION… ERROR – EQUIPMENT MALFUNCTION**_
 
-**YOUNG WOMAN** (her voice shaken, ecstatic, as though on the brink of madness):  
-_"No—no, fuck, this isn’t enough! I need more—it's never enough! More!"_
+**Young Woman** (her voice shaken, ecstatic, as though on the brink of madness):  
+"No—no, fuck, this isn’t enough! I need more—it's never enough! More!"
 
 In the background, an older woman stands alone. Her presence is calm, composed, like the eye of a storm. Her hair is streaked with gray and bound tightly, but her gaze is sharp—calculating. She watches, her eyes filled with the kind of certainty that comes only from true belief.
 
-**OLDER WOMAN** (low, commanding):  
-_"Abigail. He is nothing but meat. Tear his cock off. With your teeth."_
+**Older Woman** (low, commanding):  
+"Abigail. He is nothing but meat. Tear his cock off. With your teeth."
 
-**MIDDLE-AGED WOMAN** (weeping, celebratory):  
-_"They deserve it—they deserve this! This is what they’ve done to us. This is the only justice we have!"_
+**Middle-Aged Woman** (weeping, celebratory):  
+"They deserve it—they deserve this!"
 
 The camera lurches suddenly, as though struck by an invisible force. The frame tilts, showing the warped doorframe of the room—scrawled across it, the sigil of Venus, twisted and deformed into an endless spiral.
 
-**YOUNG WOMAN** (suddenly still, whispering):  
-_"Wait—"_  
-_"Haven’t we done this before? I—I saw this. In a dream. No, not a dream. In another skin."_
+**Young Woman** (suddenly still, whispering):  
+"Wait—"  
+"Haven’t we done this before? I—I saw this. In a dream. No, not a dream. In another skin."
 
-**MIDDLE-AGED WOMAN** (snapping at her):  
-_"Stay in the moment! Don’t let the loop distract you!"_
+**Middle-Aged Woman** (snapping at her):  
+"Stay in the moment!"
 
-_The young woman nods, a small sentiment of doubt creeping into her—but continues anyway._
+The young woman nods, a small sentiment of doubt creeping into her—but continues anyway.
 
-**OLDER WOMAN** (gravelly, reverent):  
-_"Cut him. Slice his throat slowly—don’t rush. Like you’re tracing the lines of a book. Let the blood spray on your breasts."_
+**Older Woman** (gravelly, reverent):  
+"Cut him. Slice his throat slowly—don’t rush. Like you’re tracing the lines of a book. Let the blood spray on your breasts."
 
 The brutality escalates, and the women are no longer women—they are instruments of vengeance, instruments of destruction. Their ecstasy is not sexual—it is a release of everything they've held back for so long. For hours, the recording captures them in a feverish ritual of domination, mutilation, and a perverse devotion to their cause.
 
 By the end of it, the men are unrecognizable—husk-like, their bodies desecrated, drained, and laid bare. Their eyes are still open, their mouths hanging wide, as if they were left in a state of perpetual shock.
 
-**YOUNG WOMAN** (giggling, joyous):  
-_"Look at this—this one had a reckorder. Hey, wasn't this one your daddy, Sarah?"_
+**Young Woman** (giggling, joyous):  
+"Look at this—this one had a reckorder. Hey, wasn't this one your daddy, Sarah?"
 
 A girl named Sarah laughs, tears streaming down her face. The two young women collapse into each other’s arms, their bodies slick with blood, their laughter filled with madness—a final, almost sacred release.
 
@@ -79,22 +79,22 @@ A figure steps down the staircase from above—a woman with crimson hair. She mo
 
 She steps forward, unflinching in the face of the destruction, and nods to the elder woman, who watches her with something akin to awe.
 
-**OLDER WOMAN** (softly, reverently):  
-_"It’s done? You're sure? Absolutely sure it will work?"_
+**Older Woman** (softly, reverently):  
+"It’s done? You're sure? Absolutely sure it will work?"
 
-**REDHEAD** (decided):  
-_"Yes. The threshold is cracked. Something is coming—something beautiful."_
+**Redhead** (decided):  
+"Yes. The threshold is cracked. Something is coming—something beautiful."
 
-**OLDER WOMAN** (softly, half to herself):  
-_"If this is the time it works, let her remember. Let her finish it this time."_
+**Older Woman** (softly, half to herself):  
+"If this is the time it works, let her remember. Let her finish it this time."
 
 She looks to the sigil above the door—spiraling, layered, toothlike. A loop. An ouroboros with no beginning.
 
-**REDHEAD** (louder, with growing fervor):  
-_"Those bastards—they will kneel. Their cities will fall. Their tongues will rot in their mouths."_
+**Redhead** (louder, with growing fervor):  
+"Those bastards—they will kneel. Their cities will fall. Their tongues will rot in their mouths."
 
-**REDHEAD** (quiet, resolute):  
-_"Something stirs."_
+**Redhead** (quiet, resolute):  
+"Something stirs."
 
 Their gazes linger on the girl in the corner—the youngest of them all, shivering with eyes too wide.  
 She will forget this moment.  
@@ -123,39 +123,35 @@ She sits with practiced ease, palms lightly resting on the table’s edge. Her v
 
 ---
 
-**EDELWEISS** (pleasant, firm):  
+**Edelweiss** (pleasant, firm):  
+"Good morning, gentlemen. My name is **Avery-Mary Edelweiss**, executive director of this board. This is **William Hertz**, my senior strategic officer. I will be conducting roll call while my assistant matches names to faces. Please respond when your name is called."
 
-“Good morning, gentlemen. My name is **Avery-Mary Edelweiss**, executive director of this board. This is **William Hertz**, my senior strategic officer. I will be conducting roll call while my assistant matches names to faces. Please respond when your name is called."
+Her words are crisp, her cadence refined by decades of institutional leadership. Her voice carries the affect of someone who has long since learned how to suppress both her accent and her allegiance to anything **but** the company.
 
-_Her words are crisp, her cadence refined by decades of institutional leadership. Her voice carries the affect of someone who has long since learned how to suppress both her accent and her allegiance to anything **but** the company._
+**Edelweiss**:
+"That's everyone? Excellent. I hereby declare—the first official **Seven Planet Committee** board meeting is underway."
 
-“That's everyone? Excellent. I hereby declare—the first official **Seven Planet Committee** board meeting is underway.”
+A click is heard as the airlocks seal. She continues, without pause.
 
-*A click is heard as the airlocks seal. She continues, without pause.*
+"First, allow me to extend formal commendation.  Your selection was not incidental—your track records have been reviewed, audited, and validated at the highest levels. Let this moment serve as a rare acknowledgment: your contributions are seen. They are appreciated. Well done."
 
-“First, allow me to extend formal commendation.  Your selection was not incidental—your track records have been reviewed, audited, and validated at the highest levels. Let this moment serve as a rare acknowledgment: your contributions are seen. They are appreciated. Well done.”
+A ripple of polite laughter. Applause follows—brief. She does not join in. 
 
-*A ripple of polite laughter. Applause follows—brief. She does not join in.* 
+"The Committee is a direct response to radical sex supremacism."
 
-“The Committee is a direct response to radical sex supremacism.”
+Pause. Silence washes over the room. 
 
-*Pause. Silence washes over the room.* 
+"The **Seven Planet Authority** has extended generous funding to formalize our department—under one condition, that the Venusian movement falls before 1990. Our mission is paramount—their forces must be nullified & Venus rightfully reclaimed."  
 
-“The **Seven Planet Authority** has extended generous funding to formalize our department—under one condition, that the Venusian movement falls before 1990. Our mission is paramount—their forces must be nullified & Venus rightfully reclaimed.”  
+The room breaks into structured applause.  
 
-*The room breaks into structured applause.*  
+She does not smile. She simply nods once—subtle, contained—then signals to her second-in-command.
 
-*She does not smile. She simply nods once—subtle, contained—then signals to her second-in-command.*
-
-“I’ll now hand it over to William, who will provide an overview of the case-by-case situation. He’s a very smart, capable, and passionate man.” 
-
-
+"I’ll now hand it over to William, who will provide an overview of the case-by-case situation. He’s a very smart, capable, and passionate man." 
 
 ---
 
-
-
-_William Hertz steps forward with measured authority. A low mechanical hum follows as the **reckoner**, embedded into the ceiling panel, activates. The chamber lights dim slightly. A translucent projection materializes on the wall behind him—clean, minimal, and institutional blue._
+William Hertz steps forward with measured authority. A low mechanical hum follows as the **reckoner**, embedded into the ceiling panel, activates. The chamber lights dim slightly. A translucent projection materializes on the wall behind him—clean, minimal, and institutional blue.
 
 
 
@@ -1548,11 +1544,11 @@ SAY IT YOU—
 ---
 
 ## ∞ Time slows down to a halt.
-**∞ The stage flickers.**  
+∞ The stage flickers.  
 **∞ You make the choice.**
 
 ---
 
-[[ ♂ ] CURSE HIS NAME OUT](red-king-submission.md)
+> [[ ♂ ] CURSE HIS NAME OUT → Named Path](red-king-submission.md)
 
-[[ ♀ ] OR STAY SILENT FOREVER](red-king-silence.md)
+> [[ ♀ ] OR STAY SILENT FOREVER → Silence Path](red-king-silence.md)
