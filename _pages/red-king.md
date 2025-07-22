@@ -9,15 +9,13 @@ permalink: /red-king/
 > **Foreword:**  
 > *"Man won't fall, not until woman consents."*
 
+---
+
 # Prologue - Not A Womb
-**VAP 06-011 – BODY-RECKORDER FOOTAGE**  
-**LOOP SIGNATURE:** CONFIRMED  
-**YEAR OF OCCURRENCE:** Early 1969  
+**YEAR:** Early 1969  
 **ERA:** PRE-COLLAPSE  
 **LOCATION:** VENUS – Quadrant 4C, Vitruvian Motel  
 **CLASSIFICATION:** RED CODE – UNAUTHORIZED MATERIAL  
-
----
 
 _**AUDIO… ACTIVE**_
 
@@ -104,11 +102,11 @@ They all do.
 
 ---
 
-# Chapter One – A Brief Meeting
-**TIMESTAMP:** Early-To-Mid 1976  
+# Chapter One - Gray Suits  
+**YEAR:** Early-To-Mid 1976  
 **ERA:** POST-COLLAPSE  
 **LOCATION:** NEPTUNE – Executive Council Chamber, Tower A-Prime  
-**CLASSIFICATION:** BLACK CODE – UNAUTHORIZED MATERIAL
+**CLASSIFICATION:** BLACK CODE – UNAUTHORIZED MATERIAL  
 
 ---
 
@@ -293,20 +291,17 @@ _Lamont, **SATURN**’s representative, gives a brief nod of approval._
 
 “This is our current position. If **NEPTUNE** falls,” he pauses, letting the final slide pulse, “we all fall.”
 
-
-
 _A standing ovation erupts, echoing through the grand chamber. The reckoner slowly fades to black, leaving only the emblem of the **Seven Planet Committee** hovering midair like a watchful eye._
 
 *She sat alone after the meeting. Ten minutes. No movement.*  
 
-# Chapter Two - Katherina
-**KATHERINA SERIES**  
-**YEAR OF RECORD:** Early 1984  
+===
+
+# Chapter Two - Katherina  
+**YEAR:** Early 1984  
 **ERA:** POST-COLLAPSE  
 **LOCATION:** VENUS – Former Commune Zone, Southern Acid Belt  
-**STATUS:** Person of Interest
-
----
+**CLASSIFICATION:** KATHERINA SERIES  
 
 There were many dwellers within the expanse of space—some bearing names that rang like chimes through the ancient ether, others nameless, faceless things, whose presence could only be felt in the tremble of matter and thought. These watchers had lingered in the void long before Earth’s first radio wave pulsed outward. They had seen empires rise from dust and fall into ash across the breadth of the stars.
 
@@ -395,14 +390,11 @@ Ever since the **SUN** departed.
 
 ---
 
-# Chapter Three - The Red King
-**KATHERINA SERIES – CONTACT**  
-**YEAR OF RECORD:** Mid 1985  
+# Chapter Three - The Red King  
+**YEAR:** Mid 1985  
 **ERA:** POST-COLLAPSE  
 **LOCATION:** VENUS – Former Commune Zone, Southern Acid Belt  
-**STATUS:** To Be Monitored – Long-Term Psychological Deterioration Logged
-
----
+**CLASSIFICATION:** KATHERINA SERIES - CONTACT  
 
 Katherina lay draped across her narrow bed, limbs slack, eyes fluttering beneath pale lids—half-sunken in sleep, half-hungering still. She had devoured another text from the Venusian archive, a brittle book bound in leather-soft skin, its pages soaked in language that shimmered like oil under her flickering phosphorus light. She’d read it cover to cover, mouth parted in trance, and tossed it into the growing pile beside her—*The Liturgies of the Fleshbound Womb*, or something like that.
 
@@ -488,15 +480,12 @@ But not cruel.
 
 ---
 
-# Chapter Four: The Wretched
-**HISTORICAL TRANSCRIPTS – INCRIMINATING RECORDINGS**  
-**TIMESTAMP:** Mid-To-Late 1962  
+# Chapter Four - The Wretched  
+**YEAR:** Mid-To-Late 1962  
 **ERA:** PRE-COLLAPSE  
 **LOCATION:** VENUS – Effort Distribution Complexes  
-**DOCUMENT TYPE:** Servile Testimonies & Posthumous Recollections – Contraband  
-**CLASSIFICATION:** RED CODE – UNAUTHORIZED MATERIAL
-
----
+**CLASSIFICATION:** HISTORICAL TRANSCRIPTS – INCRIMINATING RECORDINGS  
+**ANNOTATION:** Servile Testimonies & Posthumous Recollections – Contraband  
 
 > *“It was a slow replacement—of dialogue, of femininity, of morality.  
 > We didn't know we were devils.  
@@ -641,14 +630,12 @@ _“I remember the first time she cried while she was inside me. Said it felt to
 
 ---
 
-# Chapter Five - Bedtime Stories
-**KATHERINA SERIES – CONTACT – CONTINUED**  
-**YEAR OF RECORD:** Mid 1985  
+# Chapter Five - Bedtime Stories  
+**YEAR:** Mid 1985  
 **ERA:** POST-COLLAPSE  
 **LOCATION:** VENUS – Unknown  
-**ANNOTATION:** Expunge All References To Precise Location - Entity Confirmed
-
----
+**CLASSIFICATION:** KATHERINA SERIES - CONTACT, CONTINUED  
+**ANNOTATION:** Expunge All References To Precise Location - Entity Confirmed  
 
 _The phosphorus light trembled like a candle lost in a cavernous lung. Outside, the frozen-sulfur wind hissed its muted lullaby. Inside, the air was **thick**—with cold and pressure and the scent of something ancient._
 
@@ -789,13 +776,11 @@ When she gasps back into herself, her hands are curled into fists, pressed to he
 
 ---
 
-# Chapter Six - Red Sex
-**KATHERINA SERIES – PRIVATE SEGMENT**  
-**YEAR OF RECORD:** Mid-to-Late 1985  
+# Chapter Six - Red Sex  
+**YEAR:** Mid-to-Late 1985  
 **ERA:** POST-COLLAPSE  
 **LOCATION:** VENUS – Unknown  
-
----
+**CLASSIFICATION:** KATHERINA SERIES - PRIVATE SEGMENT   
 
 The sex was a little awkward.  
 
@@ -861,7 +846,7 @@ That's usually when I shut her up.
 Not out of cruelty.
 
 But because she doesn't know what's at stake.  
-How carelessly she could unravel all this carefully-crafted tragedy.
+How carelessly she could unravel this carefully-crafted tragedy.
 
 I live in fear.
 
@@ -871,13 +856,11 @@ when my puppet turns to face the puppet master.
 
 ---
 
-# Chapter Seven – Waiting For Black Metal Records To Come In The Mail  
-**KATHERINA SERIES – DISSOCIATIVE PHASE**  
-**DATE OF RECORD:** Early 1986  
+# Chapter Seven - Waiting For Black Metal Records To Come In The Mail  
+**YEAR:** Early 1986  
 **ERA:** POST-COLLAPSE  
 **LOCATION:** VENUS – Unknown  
-
----
+**CLASSIFICATION:** KATHERINA SERIES - DISASSOCIATIVE PHASE   
 
 Katherina's life had become a joke at her own expense.
 
@@ -943,15 +926,12 @@ This could not be kept up any longer.
 
 ---
 
-# Chapter Eight - Conditioning & Obedience
-**PERSONNEL FILE EXCERPT – HISTORICAL COMPLIANCE RECORDS**  
-**YEAR OF RECORD:** Late 1960  
+# Chapter Eight - Conditioning & Obedience  
+**YEAR:** Late 1960  
 **ERA:** PRE-COLLAPSE  
-**LOCATION:** VENUS – Correctional Complex, Zone G9  
-**NOTES:** Subject Interaction: Officer Jack M. & Servile V-32-L (“June”)  
-**CLASSIFICATION:** SENSITIVE
-
----
+**LOCATION:** VENUS – Correctional Complex, Zone G3  
+**CLASSIFICATION:** SENSITIVE   
+**ANNOTATION:** Officer Jack M. & Servile V-32-L (“June”)
 
 > _“There’s a moment between touch and recognition.  
 > When the body obeys but the mind flinches.  
@@ -1138,14 +1118,11 @@ AUDIT NOTE:
 
 ---
 
-# Chapter Nine - Black Metal Records
-**KATHERINA SERIES – TERMINAL PSYCHOGENIC EVENT**  
-**YEAR OF RECORD:** Late 1987  
+# Chapter Nine - Black Metal Records  
+**YEAR:** Late 1987  
 **ERA:** POST-COLLAPSE  
 **LOCATION:** VENUS – Unknown  
-**CLASSIFICATION:** BLACK CODE - UNAUTHORIZED MATERIAL
-
----
+**CLASSIFICATION:** KATHERINA SERIES – TERMINAL PSYCHOGENIC EVENT   
 
 Tonight was silent.  
 
@@ -1289,8 +1266,6 @@ Mars was the night, the nightmare.
 -> INITIATE TRANSMISSION [███]  
 -> TRACE ORIGIN: UNKNOWN—BEYOND_SECTOR::PRAYER.DUST.NEBULA
 
----
-
 HA—  
 i watched you, red thing
 
@@ -1351,14 +1326,11 @@ HA—HA—HA—
 
 ---
 
-# Chapter Eleven - Curse of the Red King
-**KATHERINA SERIES – TERMINAL PSYCHOGENIC EVENT – CONTINUED**  
-**YEAR OF OCCURRENCE:** Late 1987  
+# Chapter Eleven - Curse of the Red King  
+**YEAR:** Late 1987  
 **ERA:** POST-COLLAPSE  
-**LOCATION:** VENUS – Atmospheric Apex  
-**CLASSIFICATION:** BLACK CODE - UNAUTHORIZED MATERIAL
-
----
+**LOCATION:** VENUS – Unknown  
+**CLASSIFICATION:** KATHERINA SERIES – TERMINAL PSYCHOGENIC EVENT - CONTINUED   
 
 There is no stage.
 

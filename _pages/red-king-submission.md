@@ -58,14 +58,11 @@ _(And **VENUS** would be once more.)_
 
 ---
 
-# Chapter Twelve - The Broadcast Channel
-**YEAR OF BROADCAST:** Early 1988  
-**LOCATION:** URANUS – The Pillar, Sublevel 437  
+# Chapter Thirteen - The Broadcast Channel  
+**YEAR:** Early 1988  
 **ERA:** POST-CURSE  
-**VIEWER:** Captain Jack M.  
-**RESPONSE STRATEGY:** Denial In Full, Misinform Masses
-
----
+**LOCATION:** URANUS – The Pillar, Sublevel 437  
+**CLASSIFICATION:** DENIAL IN FULL - MISINFORM MASSES   
 
 A utilitarian breakroom, dimly lit and acoustically sterile, rests on the 437th sublevel of **The Pillar**, the vast vertical military-industrial complex of **URANUS**. The walls are matte, synthetic steel. The air is stale, processed, and pressurized for endurance rather than comfort.
 
@@ -186,15 +183,13 @@ Neither man acknowledges it.
 
 ---
 
-# Chapter Thirteen - Water Womb World
-**OPERATIONAL LOG: VAP 33-102 – BODY-RECKORDER FOOTAGE**  
-**TIMESTAMP:** Early 1988  
+# Chapter Fourteen - Water Womb World  
+**YEAR:** Early 1988  
 **ERA:** POST-CURSE  
 **LOCATION:** VENUS – Quadrant 4C, Vitruvian Motel  
-**MISSION STATUS:** Investigation of Anomalous Signal – Two Clients Missing  
-**UNIT COMPOSITION:** Captain Tango, Officer Zeta, Junior Officer Mike
+**CLASSIFICATION:** VAP 33-102 – BODY-RECKORDER FOOTAGE  
+**ANNOTATION:** Two Clients Missing - Captain Tango, Officer Zeta, Junior Officer Mike  
 
----
 
 ## [BDYRECK – VAP 33-102 – APPROACH PHASE]
 **Time Stamp:** 12:43:12  
@@ -798,15 +793,13 @@ _Mint J. Jones_
 
 ---
 
-### Chapter Fourteen – I Need A Spacesuit To Leave My Home 
--> **operation_name:** "tea leaves"  
+### Chapter Fifteen – I Need A Spacesuit To Leave My Home 
+-> **operation_name:** "leaves in the wind"  
 -> **cell_designation:** "white cell"  
 -> **operation_date:** "february third, eighty-nine"   
 -> **cell_location:** "our home"  
 -> **operatives:** "ivy, alva, mira"  
 -> **other_cells_involved:** "X"  
-
----
 
 The cryonics lab hadn’t been operational in years.
 
@@ -1000,11 +993,9 @@ By morning, the Seven Planet Authority would pass several more articles under th
 
 ---
 
-# Chapter Fifteen – The One Who Waits
+# Chapter Sixteen – The One Who Waits
 **ANOMALOUS CELESTIAL ACTIVITY:** Exo-Systemic Trajectory Detected  
 **STATUS:** Infinite Acceleration Event in Progress  
-
----
 
 **NEPTUNE**, the **APEX OF JUDGEMENT**, was silent as they passed sentence.  
 
@@ -1119,13 +1110,11 @@ I am the 𝐑𝐄𝐃 𝐂𝐇𝐀𝐑𝐈𝐎𝐓.
 
 ---
 
-### Chapter Sixteen – Flies Have Their House 
-**RECKONER LIVE FEED – SPA BROADCAST**  
-**DATE OF TRANSMISSION:** Late 1989  
+# Chapter Seventeen - Flies Have Their House  
+**YEAR:** Late 1989  
 **ERA:** POST-CURSE  
-**LOCATION:** NEPTUNE – Executive Council Chamber, Tower A-Prime
-
----
+**LOCATION:** NEPTUNE - Executive Council Chamber, Tower A-Prime  
+**CLASSIFICATION:** RECKONER LIVE FEED  FOOTAGE – SPA BROADCAST  
 
 The image flickers. Then stabilizes.
 
@@ -1267,7 +1256,7 @@ Rallied with determination, loud.
 
 ---
 
-# THE END — THE RED KING
+# THE END
 
 ---
 
