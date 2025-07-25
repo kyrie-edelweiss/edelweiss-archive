@@ -7,6 +7,4 @@ permalink: /red-king-trigger/
 ---
 *The Red King © 2025 by Kyrie D'Agostino contains intense, graphic, and symbolically complex depictions of trauma, abuse, and power. Please proceed with caution.*
 
-The Red King can be found below.
-
 [[ ♂ ] READ](the-red-king.html)
